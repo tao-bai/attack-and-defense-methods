@@ -29,5 +29,6 @@ where h is a bandwidth parameter for a kernel density estimator (KDE), and n is 
 The added component estimates $p(x|y^c = −1)$ using a density estimator. This term acts as a penalizer for x in low density regions and is weighted by a parameter λ ≥ 0.
 In doing so, it reshapes the objective function and thereby biases the resulting gradient descent towards regions where the negative class is concentrated.
 
-_I do not understand the relationship between the component and $p(x|y^c = −1)$._
+## Question
+:x: I do not understand the relationship between the component and $p(x|y^c = −1)$. How to derive it?
 
