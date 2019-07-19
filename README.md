@@ -3,4 +3,4 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 
 # Papers
 - `ATTACK` `2013` [Evasion Attacks against Machine Learning at Test Time](./2013/Evasion_attacks_against_machine_learning_at_test_time.md)
-- `ATTACK` `2013` [Intriguing properties of neural networks](./2013/Intriguing_properties_of_neural_networks.md)
+- `ATTACK` `2014` `ICLR` [Intriguing properties of neural networks](./2014/Intriguing_properties_of_neural_networks.md)
