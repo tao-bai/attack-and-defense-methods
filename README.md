@@ -5,3 +5,5 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 - `ATTACK` `ICLR 2013` [Evasion Attacks against Machine Learning at Test Time](./2013/Evasion_attacks_against_machine_learning_at_test_time.md)
 - `ATTACK` `ICLR 2014` [Intriguing properties of neural networks](./2014/Intriguing_properties_of_neural_networks.md)
 - `ATTACK` `ICLR 2015` [Explaining and Harnessing Adversarial Examples](./2015/Explaining_and_Harnessing_Adversarial_Examples.md)
+- `ATTACK` `EuroS$P 2016` [The limitations of deep learning in adversarial settings](./2016/The_limitations_of_deep_learning_in_adversarial_settings.md)
+- `ATTACK` `CVPR 2016` [Deepfool](./2016/DeepFool.md)
