@@ -8,3 +8,5 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 - `ATTACK` `EuroS$P 2016` [The limitations of deep learning in adversarial settings](./2016/The_limitations_of_deep_learning_in_adversarial_settings.md)
 - `ATTACK` `CVPR 2016` [Deepfool](./2016/DeepFool.md)
 - `ATTACK` `SP 2016` [C&W Towards evaluating the robustness of neural networks](./2016/Toward_evaluating_the_robustness_of_neural_networks.md)
+- `ATTACK` `Arxiv 2016` [Transferability in machine learning: from phenomena to black-box attacks using adversarial samples](./2016/Transferability_in_machine_learning.md)
+- `ATTACK` `CVPR 2019` [Feature Space Perturbations Yield More Transferable Adversarial Examples]()
