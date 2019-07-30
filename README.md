@@ -11,3 +11,4 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 - `ATTACK` `Transferability` `Arxiv 2016` [Transferability in machine learning: from phenomena to black-box attacks using adversarial samples](./2016/Transferability_in_machine_learning.md)
 - `ATTACK` `Transferability` `CVPR 2019` [Feature Space Perturbations Yield More Transferable Adversarial Examples](./2019/Feature_Space_Perturbations_Yield_More_Transferable_Adversarial_Examples.md)
 - `ATTACK` `Transferability` `ICLR 2017` [Delving into Transferable Adversarial Examples and Black-box Attacks](./2017/Delving_into_Transferable_Adversarial_Examples_and_Black-box_Attacks.md)
+- `Theory` `Adversarial Training` `ICLR 2019` [The Limitations of Adversarial Training and the Blind-Spot Attack](./2019/The_Limitations_of_Adversarial_Training_and_the_Blind-Spot_Attack.md)
