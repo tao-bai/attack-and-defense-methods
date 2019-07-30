@@ -8,3 +8,7 @@ url = {https://openreview.net/forum?id=Sys6GJqxl},
 year = {2017}
 }
 ```
+
+Overall, they proposed an ensemble-based method to generate transferable adversarial examples, which is an intuitive way. And they provided some geometric insights and I am not very clear about that.
+
+[this](https://blog.csdn.net/qq_35414569/article/details/82383788) may be helpful.
