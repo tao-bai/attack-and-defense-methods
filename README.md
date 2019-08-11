@@ -13,3 +13,4 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 - `Transferability` `ATTACK` `ICLR 2017` [Delving into Transferable Adversarial Examples and Black-box Attacks](./2017/Delving_into_Transferable_Adversarial_Examples_and_Black-box_Attacks.md)
 - `Theory` `Adversarial Training` `ICLR 2019` [The Limitations of Adversarial Training and the Blind-Spot Attack](./2019/The_Limitations_of_Adversarial_Training_and_the_Blind-Spot_Attack.md)
 - `ATTACK` `CVPR 2017` [Universal Adversarial Perturbations](./2017/Universal_Adversarial_Perturbations.md)
+- `ATTACK` `ICLR 2018` [Generating Natural Adversarial Examples](./2018/Generating_Natural_Adversarial_Examples.md)
