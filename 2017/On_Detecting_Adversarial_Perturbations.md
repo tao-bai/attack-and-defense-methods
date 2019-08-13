@@ -15,3 +15,5 @@ The main idea of this paper is quite simple, attaching a detector of adversarial
 I do not understand the architechture of their networks.
 
 ![Fig 1](../pics/fig1_MetzenGFB17.png)
+
+And The Paper *Detecting adversarial samples from artifacts* pointed out some drawbacks of this work at Section 2.
