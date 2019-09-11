@@ -21,5 +21,6 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 - `Detection` `Arxiv 2017` [Detecting adversarial samples from artifacts](./2017/Detecting_Adversarial_Samples_from_Artifacts.md)
 - `Detection` `ICLR 2017` [On Detecting Adversarial Perturbations](./2017/On_Detecting_Adversarial_Perturbations.md) :thought_balloon:
 
-## GAN 
+## GAN/AE
 - `CVAE-GAN` `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
+- `VAE-GAN` `ICML 2016` [Autoencoding beyond pixels using a learned similarity metric](./2016/Autoencoding_beyond_pixels_using_a_learned_similarity_metric.md)
