@@ -14,7 +14,7 @@ volume = {48},
 year = {2016}
 }
 ```
-To my best knowledge, this paper is the first paper of VAE-GAN. I did not read though this paper but read some materials from others. 
+To my best knowledge, this paper is the first paper of VAE-GAN. I did not read though this paper but read some materials from others. I think I figured out the funciton of each loss.
 
 - This [blog](https://pravn.wordpress.com/category/vae-gan-vaegan/)
 - [official implementation](https://github.com/andersbll/autoencoding_beyond_pixels)
