@@ -17,6 +17,9 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 - `ATTACK` `ICLR 2018` [Generating Natural Adversarial Examples](./2018/Generating_Natural_Adversarial_Examples.md)
 - `Theory` `ICLR 2019` [Are adversarial examples inevitable?](./2019/Are_adversarial_examples_inevitable.md) :thought_balloon:
 - `Attack` `IEEE TEC 2019` [One pixel attack for fooling deep neural networks](./2019/One_pixel_attack_for_fooling_deep_neural_networks.md)
+- `ATTACK` `ARXIV 2019` [Generalizable Adversarial Attacks Using Generative Models](./2019/Generalizable_Adversarial_Attacks_Using_Generative_Models.md)
+
+
 ## Defense
 - `Detection` `Arxiv 2017` [Detecting adversarial samples from artifacts](./2017/Detecting_Adversarial_Samples_from_Artifacts.md)
 - `Detection` `ICLR 2017` [On Detecting Adversarial Perturbations](./2017/On_Detecting_Adversarial_Perturbations.md) :thought_balloon:
