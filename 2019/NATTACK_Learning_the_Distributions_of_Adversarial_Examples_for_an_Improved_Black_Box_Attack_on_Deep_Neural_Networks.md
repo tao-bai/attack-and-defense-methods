@@ -13,6 +13,9 @@ year = {2019}
 }
 ```
 
-Rejected by ICLR 2019. Find the [Review](https://openreview.net/forum?id=ryeoxnRqKQ).
+Rejected by ICLR 2019 but accepted by ICML 2019. Find the [Review from ICLR](https://openreview.net/forum?id=ryeoxnRqKQ).
+
+I did not read it through and got no idea. According to the review, it shares many similarities with [1].
 
 
+[1] Ilyas, A., Engstrom, L., Athalye, A., & Lin, J. (2018). Black-box Adversarial Attacks with Limited Queries and Information. In J. Dy & A. Krause (Eds.), Proceedings of the 35th International Conference on Machine Learning (pp. 2137–2146). Retrieved from http://proceedings.mlr.press/v80/ilyas18a.html
