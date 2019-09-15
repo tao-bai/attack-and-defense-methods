@@ -27,4 +27,4 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 
 ## GAN/AE
 - `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
-- `ICML 2016` `VAE-GAN` [Autoencoding beyond pixels using a learned similarity metric](./2016/Autoencoding_beyond_pixels_using_a_learned_similarity_metric.md)
+- `ICML 2016` `VAE-GAN` [Autoencoding beyond pixels using a learned similarity metric](./2016/Autoencoding_beyond_pixels_using_a_learned_similarity_metric.md) 
