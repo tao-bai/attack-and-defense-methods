@@ -20,6 +20,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 - `ARXIV 2019` `ATTACK` [Generalizable Adversarial Attacks Using Generative Models](./2019/Generalizable_Adversarial_Attacks_Using_Generative_Models.md)
 - `ICML 2019` `DISTRIBUTION` [NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks](./2019/NATTACK_Learning_the_Distributions_of_Adversarial_Examples_for_an_Improved_Black_Box_Attack_on_Deep_Neural_Networks.md):thought_balloon:
 - `ARXIV 2019` `CGAN` [SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing](./2019/SemanticAdv_Generating_Adversarial_Examples_via_Attribute_conditional_Image_Editing.md)
+- `NeurlPS 2018` `AC-GAN` `WGAN` [Constructing Unrestricted Adversarial Examples with Generative Models](./2018/Constructing_Unrestricted_Adversarial_Examples_with_Generative_Models.md)
 
 
 ## Defense
