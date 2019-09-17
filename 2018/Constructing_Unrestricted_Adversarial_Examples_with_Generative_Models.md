@@ -14,3 +14,5 @@ This paper proposed a new type of adversarial examples which are not constrained
 Specifically, they adapted WGAN with gradient penalty and Auxiliary Classifier GAN(AC-GAN) to stabilize training and use conditions. The objective functions can be found in their paper. And for adversarial loss, it consists of three parts: The first part is to encourage the targeted classifier to misclassify inputs; the second part soft-constrains the search region of randomly sampled noise vector, and according to the paper, the optimization may always converge to the sample example for each class without this constraint(but I do not figure out the reason); the third part is to encourage the auxiliary classifier to give correct preditions.
 
 In addtion to this basic attack, they also proposed a noise-augmented attack, which added extra noise to the generated images. And the authors said *The representation power of the AC-GAN generator can be improved if we add small trainable noise to the generated image*.
+
+Find the code [here](https://github.com/ermongroup/generative_adversary).
