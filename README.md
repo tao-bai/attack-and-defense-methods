@@ -33,3 +33,4 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
 2. `ICML 2016` `VAE-GAN` [Autoencoding beyond pixels using a learned similarity metric](./2016/Autoencoding_beyond_pixels_using_a_learned_similarity_metric.md) 
 3. `ARXIV 2019` `DATASET` [Natural Adversarial Examples](./2019/Natural_Adversarial_Examples.md)
+4. `ICML 2017` `AC-GAN` [Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs](./2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md)
