@@ -22,7 +22,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 17. `ARXIV 2019` `CGAN` [SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing](./2019/SemanticAdv_Generating_Adversarial_Examples_via_Attribute_conditional_Image_Editing.md)
 18. `NeurlPS 2018` `AC-GAN` `WGAN` [Constructing Unrestricted Adversarial Examples with Generative Models](./2018/Constructing_Unrestricted_Adversarial_Examples_with_Generative_Models.md)
 19. `IJCAI 2018` `GAN` [Generating Adversarial Examples with Adversarial Networks](./2018/Generating_Adversarial_Examples_with_Adversarial_Networks.md)
-20. `ARXIV 2017` `UNIVERSAL` [Generating Adversarial Examples](./2017/Generating_Adversarial_Examples.md)
+20. `CVPR 2018` `GENERATIVES` `UNIVERSAL` [Generative Adversarial Perturbations](./2018/Generative_Adversarial_Perturbations.md)
 
 
 ## Defense
