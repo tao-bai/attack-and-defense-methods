@@ -34,3 +34,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 2. `ICML 2016` `VAE-GAN` [Autoencoding beyond pixels using a learned similarity metric](./2016/Autoencoding_beyond_pixels_using_a_learned_similarity_metric.md) 
 3. `ARXIV 2019` `DATASET` [Natural Adversarial Examples](./2019/Natural_Adversarial_Examples.md)
 4. `ICML 2017` `AC-GAN` [Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs](./2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md)
+
+## Links
+- [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html) by [Nicholas Carlini](https://nicholas.carlini.com)
+- [A Complete List of All (arXiv) Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) by [Nicholas Carlini](https://nicholas.carlini.com) **Stay Tuned** 
