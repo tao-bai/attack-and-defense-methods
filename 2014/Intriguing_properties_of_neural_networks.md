@@ -48,4 +48,4 @@ $$
 
 ### My questions
 1. Have no idea of L-BFGS and how to do the transformation?
-2. Check the [code](https://github.com/akshaychawla/Adversarial-Examples-in-PyTorch) though it does not use L-BFGS. 
+2. Check the [code](https://github.com/akshaychawla/Adversarial-Examples-in-PyTorch) though it does not use L-BFGS.  
