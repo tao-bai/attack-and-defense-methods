@@ -20,3 +20,8 @@ r_{\alpha}(\mathbf{y}, t)=\operatorname{norm}\left(\left\{\begin{array}{cc}{\alp
 $$
 
 $\alpha$ equals to 1.5 in the experiments.
+
+And generated images seems better than that in [1].
+
+## References
+[1] Xiao, C., Li, B., Zhu, J.-Y., He, W., Liu, M., & Song, D. (2018). Generating Adversarial Examples with Adversarial Networks. In J. Lang (Ed.), Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, {IJCAI} 2018, July 13-19, 2018, Stockholm, Sweden. (pp. 3905–3911). https://doi.org/10.24963/ijcai.2018/543
