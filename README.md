@@ -24,6 +24,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 19. `IJCAI 2018` `GAN` [Generating Adversarial Examples with Adversarial Networks](./2018/Generating_Adversarial_Examples_with_Adversarial_Networks.md)
 20. `CVPR 2018` `GENERATIVES` `UNIVERSAL` [Generative Adversarial Perturbations](./2018/Generative_Adversarial_Perturbations.md)
 21. `ARXIV 2017` `ATN` [Adversarial transformation networks: Learning to generate adversarial examples](./2017/Adversarial_transformation_networks_Learning_to_generate_adversarial_examples.md)
+22. `CVPR 2019` `Rob-GAN` [Rob-GAN: Generator, Discriminator, and Adversarial Attacker]
+23. `S&P 2018` [Learning Universal Adversarial Perturbations with Generative Models]
 
 
 ## Defense
