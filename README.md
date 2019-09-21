@@ -2,6 +2,12 @@
 Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](https://docs.google.com/document/d/15o6m0I8g6O607mk5YPTh33Lu_aQYo7SpHhNSbLPQpWQ/mobilebasic?from=groupmessage#?utm_source=wechat_session&utm_medium=social&utm_oi=624560843380101120). Questions and discussions are most welcome!
 
 # Papers
+
+## Survey
+- `TNNLS 2019` [Adversarial Examples: Attacks and Defenses for Deep Learning](https://ieeexplore.ieee.org/document/8611298)
+- `IEEE ACCESS 2018` [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://ieeexplore.ieee.org/document/8294186)
+
+
 ## Attack
 1. `ICLR 2013` `ATTACK` [Evasion Attacks against Machine Learning at Test Time](./2013/Evasion_attacks_against_machine_learning_at_test_time.md)
 2. `ICLR 2014` `L-BFGS` [Intriguing properties of neural networks](./2014/Intriguing_properties_of_neural_networks.md)
@@ -36,13 +42,12 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 3. `ICLR 2018` `DEFENSE-GAN` [Defense-{GAN}: Protecting Classifiers Against Adversarial Attacks Using Generative Models](./2018/Defense-{GAN}_Protecting_Classifiers_Against_Adversarial_Attacks_Using_Generative_Models.md)
 4. `CVPR 2018` [Defense Against Universal Adversarial Perturbations]
 
-## 3rd-Class
+## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
 2. `ICML 2016` `VAE-GAN` [Autoencoding beyond pixels using a learned similarity metric](./2016/Autoencoding_beyond_pixels_using_a_learned_similarity_metric.md) 
 3. `ARXIV 2019` `DATASET` [Natural Adversarial Examples](./2019/Natural_Adversarial_Examples.md)
 4. `ICML 2017` `AC-GAN` [Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs](./2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md)
-5. `TNNLS 2019` `SURVEY` [Adversarial Examples: Attacks and Defenses for Deep Learning](https://ieeexplore.ieee.org/document/8611298)
-6. `IEEE ACCESS 2018` `SURVEY` [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://ieeexplore.ieee.org/document/8294186)
+
 
 ## Links
 - [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html) by [Nicholas Carlini](https://nicholas.carlini.com)
