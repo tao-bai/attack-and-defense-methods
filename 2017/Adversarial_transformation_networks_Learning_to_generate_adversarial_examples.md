@@ -1,10 +1,15 @@
 ```
-@article{baluja2017adversarial,
+@inproceedings{DBLP:conf/aaai/BalujaF18,
 author = {Baluja, Shumeet and Fischer, Ian},
-journal = {arXiv preprint arXiv:1703.09387},
-title = {{Adversarial transformation networks: Learning to generate adversarial examples}},
-year = {2017}
+booktitle = {Proceedings of the Thirty-Second {\{}AAAI{\}} Conference on Artificial Intelligence, (AAAI-18), the 30th innovative Applications of Artificial Intelligence (IAAI-18), and the 8th {\{}AAAI{\}} Symposium on Educational Advances in Artificial Intelligence (EAAI-18), New},
+editor = {McIlraith, Sheila A and Weinberger, Kilian Q},
+pages = {2687--2695},
+publisher = {{\{}AAAI{\}} Press},
+title = {{Learning to Attack: Adversarial Transformation Networks}},
+url = {https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16529},
+year = {2018}
 }
+
 ```
 This paper proposed Adversarial Transformation Network(ATN) generate adversarial examples, including Perturbation ATN and Adversarial Autoencoding(AAE). Their method aimed at white-box targeted attacks. AAE could generate adversarial examples directly rather than generate purturbations, this is the reason that it is called transformation. **And they added $tanh()$ as the last operation to make sure the values of images are valid, which I think is better than clipping arbitrarily.**
 

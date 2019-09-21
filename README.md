@@ -23,15 +23,18 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 18. `NeurlPS 2018` `AC-GAN` `WGAN` [Constructing Unrestricted Adversarial Examples with Generative Models](./2018/Constructing_Unrestricted_Adversarial_Examples_with_Generative_Models.md)
 19. `IJCAI 2018` `GAN` [Generating Adversarial Examples with Adversarial Networks](./2018/Generating_Adversarial_Examples_with_Adversarial_Networks.md)
 20. `CVPR 2018` `GENERATIVES` `UNIVERSAL` [Generative Adversarial Perturbations](./2018/Generative_Adversarial_Perturbations.md)
-21. `ARXIV 2017` `ATN` [Adversarial transformation networks: Learning to generate adversarial examples](./2017/Adversarial_transformation_networks_Learning_to_generate_adversarial_examples.md)
+21. `AAAI 2018` `ATN` [Learning to Attack: Adversarial transformation networks](./2017/Adversarial_transformation_networks_Learning_to_generate_adversarial_examples.md)
 22. `CVPR 2019` `Rob-GAN` [Rob-GAN: Generator, Discriminator, and Adversarial Attacker](./2019/Rob_GAN_Generator_Discriminator_and_Adversarial_Attacker.md)
 23. `S&P 2018` [Learning Universal Adversarial Perturbations with Generative Models]
+24. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+25. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
 
 
 ## Defense
 1. `Arxiv 2017` `Detection` [Detecting adversarial samples from artifacts](./2017/Detecting_Adversarial_Samples_from_Artifacts.md)
 2. `ICLR 2017` `Detection` [On Detecting Adversarial Perturbations](./2017/On_Detecting_Adversarial_Perturbations.md) :thought_balloon:
 3. `ICLR 2018` `DEFENSE-GAN` [Defense-{GAN}: Protecting Classifiers Against Adversarial Attacks Using Generative Models](./2018/Defense-{GAN}_Protecting_Classifiers_Against_Adversarial_Attacks_Using_Generative_Models.md)
+4. `CVPR 2018` [Defense Against Universal Adversarial Perturbations]
 
 ## 3rd-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
