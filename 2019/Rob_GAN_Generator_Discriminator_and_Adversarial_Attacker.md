@@ -23,6 +23,6 @@ As for the architectures, they chose the discriminator with auxiliary classifier
 
 Another thing mentioned in the original paper is that they fine-tuned the discriminator to conduct a pure multi-class classification task.
 
-The code is [here](https://github.com/xuanqing94/RobGAN)
+The code is [:octocat:](https://github.com/xuanqing94/RobGAN)
 
 I think the idea of this paper simple, but why it can be accepted by a top conference is they did a good mathematical analysis, which I think  is a key point.
