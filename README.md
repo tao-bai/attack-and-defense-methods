@@ -4,8 +4,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 # Papers
 
 ## Survey
-- `TNNLS 2019` [Adversarial Examples: Attacks and Defenses for Deep Learning](https://ieeexplore.ieee.org/document/8611298)
-- `IEEE ACCESS 2018` [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://ieeexplore.ieee.org/document/8294186)
+1. `TNNLS 2019` [Adversarial Examples: Attacks and Defenses for Deep Learning](https://ieeexplore.ieee.org/document/8611298)
+2. `IEEE ACCESS 2018` [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://ieeexplore.ieee.org/document/8294186)
 
 
 ## Attack
@@ -32,8 +32,9 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 21. `AAAI 2018` `ATN` [Learning to Attack: Adversarial transformation networks](./2017/Adversarial_transformation_networks_Learning_to_generate_adversarial_examples.md)
 22. `CVPR 2019` `Rob-GAN` [Rob-GAN: Generator, Discriminator, and Adversarial Attacker](./2019/Rob_GAN_Generator_Discriminator_and_Adversarial_Attacker.md)
 23. `S&P 2018` [Learning Universal Adversarial Perturbations with Generative Models](./2018/Learning_Universal_Adversarial_Perturbations_with_Generative_Models.md)
-24. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
-25. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
+24. `ARXIV 2019` `CYCLEADVGAN` [Cycle-Consistent Adversarial {GAN:} the integration of adversarial attack and defense](./2019/Cycle_Consistent_Adversarial_{GAN}_the_integration_of_adversarial_attack_and_defense.md)
+25. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+26. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
 
 
 ## Defense
