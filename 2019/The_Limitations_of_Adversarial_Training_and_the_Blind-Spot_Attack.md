@@ -7,7 +7,9 @@ url = {https://openreview.net/forum?id=HylTBhA5tQ},
 year = {2019}
 }
 ```
-This paper proposed a simple method to attack models with adversarial training. The authors claimed that there are blind spots that adversarial training could not cover. The distance between the test points and training data contributes to the attack. The attack success rate increases when the distance gets large. And the attack just be conducted by this formula:
+This paper proposed a simple method to attack models with adversarial training. 
+
+The authors claimed that there are blind spots that adversarial training could not cover. The distance between the test points and training data contributes to the attack. The attack success rate increases when the distance gets large. And the attack just be conducted by this formula:
 $$
 x^{\prime}=\alpha x+\beta, \text { s.t. } x^{\prime} \in[-0.5,0.5]^{d}
 $$
