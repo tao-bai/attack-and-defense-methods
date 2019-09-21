@@ -25,7 +25,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 20. `CVPR 2018` `GENERATIVES` `UNIVERSAL` [Generative Adversarial Perturbations](./2018/Generative_Adversarial_Perturbations.md)
 21. `AAAI 2018` `ATN` [Learning to Attack: Adversarial transformation networks](./2017/Adversarial_transformation_networks_Learning_to_generate_adversarial_examples.md)
 22. `CVPR 2019` `Rob-GAN` [Rob-GAN: Generator, Discriminator, and Adversarial Attacker](./2019/Rob_GAN_Generator_Discriminator_and_Adversarial_Attacker.md)
-23. `S&P 2018` [Learning Universal Adversarial Perturbations with Generative Models]
+23. `S&P 2018` [Learning Universal Adversarial Perturbations with Generative Models](./2018/Learning_Universal_Adversarial_Perturbations_with_Generative_Models.md)
 24. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
 25. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
 
