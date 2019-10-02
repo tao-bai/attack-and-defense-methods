@@ -16,3 +16,6 @@ Specifically, they adapted WGAN with gradient penalty and Auxiliary Classifier G
 In addtion to this basic attack, they also proposed a noise-augmented attack, which added extra noise to the generated images. And the authors said *The representation power of the AC-GAN generator can be improved if we add small trainable noise to the generated image*.
 
 Find the code [here](https://github.com/ermongroup/generative_adversary).
+
+### Addded on Oct. 2nd.
+This paper first trained a ACGAN to generate images from noises. After that, give an inital noise to the Generator and calculate the adversarial loss. Then use gradient descent to find the right noise. And there is a constraint on the search space.
