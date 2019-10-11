@@ -34,8 +34,9 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 23. `S&P 2018` [Learning Universal Adversarial Perturbations with Generative Models](./2018/Learning_Universal_Adversarial_Perturbations_with_Generative_Models.md)
 24. `ARXIV 2019` `CYCLEADVGAN` [Cycle-Consistent Adversarial {GAN:} the integration of adversarial attack and defense](./2019/Cycle_Consistent_Adversarial_{GAN}_the_integration_of_adversarial_attack_and_defense.md)
 25. `ARXIV 2019` [Generating Realistic Unrestricted Adversarial Inputs using Dual-Objective {GAN} Training](./2019/Generating_Realistic_Unrestricted_Adversarial_Inputs_using_Dual_Objective_{GAN}_Training.md) :thought_balloon:
-26. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
-27. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
+26. `ICLR 2018` [Spatially Transformed Adversarial Examples](./2018/SPATIALLY_TRANSFORMED_ADVERSARIAL_EXAMPLES.md)
+27. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+28. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
 
 
 ## Defense
