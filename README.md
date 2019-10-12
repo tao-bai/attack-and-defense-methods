@@ -35,8 +35,12 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 24. `ARXIV 2019` `CYCLEADVGAN` [Cycle-Consistent Adversarial {GAN:} the integration of adversarial attack and defense](./2019/Cycle_Consistent_Adversarial_{GAN}_the_integration_of_adversarial_attack_and_defense.md)
 25. `ARXIV 2019` [Generating Realistic Unrestricted Adversarial Inputs using Dual-Objective {GAN} Training](./2019/Generating_Realistic_Unrestricted_Adversarial_Inputs_using_Dual_Objective_{GAN}_Training.md) :thought_balloon:
 26. `ICLR 2018` [Spatially Transformed Adversarial Examples](./2018/SPATIALLY_TRANSFORMED_ADVERSARIAL_EXAMPLES.md)
-27. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
-28. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
+27. `ARXIV 2019` [Perturbations are not Enough: Generating Adversarial Examples with Spatial Distortions]
+28. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
+29. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+30. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
+31. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics]
+32. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
 
 
 ## Defense
@@ -49,7 +53,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
 2. `ICML 2016` `VAE-GAN` [Autoencoding beyond pixels using a learned similarity metric](./2016/Autoencoding_beyond_pixels_using_a_learned_similarity_metric.md) 
 3. `ARXIV 2019` `DATASET` [Natural Adversarial Examples](./2019/Natural_Adversarial_Examples.md)
-4. `ICML 2017` `AC-GAN` [Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs](./2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md)
+4. `ICML 2017` `AC-GAN` [Conditional Image Synthesis with Auxiliary Classifier {GAN}s](./2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md)
+5. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
 
 
 ## Links
