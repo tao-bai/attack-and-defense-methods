@@ -56,6 +56,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 3. `ARXIV 2019` `DATASET` [Natural Adversarial Examples](./2019/Natural_Adversarial_Examples.md)
 4. `ICML 2017` `AC-GAN` [Conditional Image Synthesis with Auxiliary Classifier {GAN}s](./2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md)
 5. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+6. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
 
 
 ## Links
