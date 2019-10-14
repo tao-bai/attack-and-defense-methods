@@ -42,6 +42,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 31. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
 32. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics]
 33. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
+34. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
 
 
 ## Defense
