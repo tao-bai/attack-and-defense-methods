@@ -6,6 +6,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 ## Survey
 1. `TNNLS 2019` [Adversarial Examples: Attacks and Defenses for Deep Learning](https://ieeexplore.ieee.org/document/8611298)
 2. `IEEE ACCESS 2018` [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://ieeexplore.ieee.org/document/8294186)
+3. [Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072.pdf)
 
 
 ## Attack
@@ -56,8 +57,9 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 2. `ICML 2016` `VAE-GAN` [Autoencoding beyond pixels using a learned similarity metric](./2016/Autoencoding_beyond_pixels_using_a_learned_similarity_metric.md) 
 3. `ARXIV 2019` `DATASET` [Natural Adversarial Examples](./2019/Natural_Adversarial_Examples.md)
 4. `ICML 2017` `AC-GAN` [Conditional Image Synthesis with Auxiliary Classifier {GAN}s](./2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md)
-5. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
-6. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+5. `ICCV 2019` `SinGAN` [SinGAN: Learning a Generative Model From a Single Natural Image](./2019/SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image.md)
+6. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+7. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
 
 
 ## Links
