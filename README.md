@@ -37,8 +37,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 25. `ARXIV 2019` [Generating Realistic Unrestricted Adversarial Inputs using Dual-Objective {GAN} Training](./2019/Generating_Realistic_Unrestricted_Adversarial_Inputs_using_Dual_Objective_{GAN}_Training.md) :thought_balloon:
 26. `ICLR 2018` [Spatially Transformed Adversarial Examples](./2018/SPATIALLY_TRANSFORMED_ADVERSARIAL_EXAMPLES.md)
 27. `ICCV 2019` [Sparse and Imperceivable Adversarial Attacks](./2019/Sparse_and_Imperceivable_Adversarial_Attacks.md):thought_balloon:
-28. `ARXIV 2019` [Perturbations are not Enough: Generating Adversarial Examples with Spatial Distortions]
-29. `ARXIV 2019` [Joint Adversarial Training: Incorporating both Spatial and Pixel Attacks]
+28. `ARXIV 2019` [Perturbations are not Enough: Generating Adversarial Examples with Spatial Distortions](2019/Perturbations_are_not_Enough_Generating_Adversarial_Examples_with_Spatial_Distortions.md)
+29. `ARXIV 2019` [Joint Adversarial Training: Incorporating both Spatial and Pixel Attacks](2019/Joint_Adversarial_Training_Incorporating_both_Spatial_and_Pixel_Attacks.md)
 30. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
 31. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
 32. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
