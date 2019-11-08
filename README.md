@@ -39,13 +39,14 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 27. `ICCV 2019` [Sparse and Imperceivable Adversarial Attacks](./2019/Sparse_and_Imperceivable_Adversarial_Attacks.md):thought_balloon:
 28. `ARXIV 2019` [Perturbations are not Enough: Generating Adversarial Examples with Spatial Distortions](2019/Perturbations_are_not_Enough_Generating_Adversarial_Examples_with_Spatial_Distortions.md)
 29. `ARXIV 2019` [Joint Adversarial Training: Incorporating both Spatial and Pixel Attacks](2019/Joint_Adversarial_Training_Incorporating_both_Spatial_and_Pixel_Attacks.md)
-30. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
-31. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
-32. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
-33. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics]
-34. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
-35. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
-36. `CVPR 2019` [SparseFool: a few pixels make a big difference]
+30. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning](2019/Adversarial_Attacks_on_Graph_Neural_Networks_via_Meta_Learning.md)
+31. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
+32. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+33. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
+34. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics]
+35. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
+36. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
+37. `CVPR 2019` [SparseFool: a few pixels make a big difference]
 
 
 ## Defense
