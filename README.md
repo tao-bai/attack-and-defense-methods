@@ -47,6 +47,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 35. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
 36. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
 37. `CVPR 2019` [SparseFool: a few pixels make a big difference]
+38. `ARXIV 2018` [Adversarial Spheres]
 
 
 ## Defense
@@ -54,6 +55,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 2. `ICLR 2017` `Detection` [On Detecting Adversarial Perturbations](./2017/On_Detecting_Adversarial_Perturbations.md) :thought_balloon:
 3. `ICLR 2018` `DEFENSE-GAN` [Defense-{GAN}: Protecting Classifiers Against Adversarial Attacks Using Generative Models](./2018/Defense-{GAN}_Protecting_Classifiers_Against_Adversarial_Attacks_Using_Generative_Models.md)
 4. `CVPR 2018` [Defense Against Universal Adversarial Perturbations]
+5. `CVPR 2019` [Retrieval-Augmented Convolutional Neural Networks against Adversarial Examples](./2019/Retrieval_Augmented_Convolutional_Neural_Networks_against_Adversarial_Examples.md)
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
@@ -63,6 +65,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 5. `ICCV 2019` `SinGAN` [SinGAN: Learning a Generative Model From a Single Natural Image](./2019/SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image.md)
 6. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
 7. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+8. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
+9. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 
 
 ## Links
