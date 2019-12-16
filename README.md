@@ -7,6 +7,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 1. `TNNLS 2019` [Adversarial Examples: Attacks and Defenses for Deep Learning](https://ieeexplore.ieee.org/document/8611298)
 2. `IEEE ACCESS 2018` [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://ieeexplore.ieee.org/document/8294186)
 3. [Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072.pdf)
+4. [A Study of Black Box Adversarial Attacks in Computer Vision](https://arxiv.org/pdf/1912.01667.pdf)
 
 
 ## Attack
