@@ -50,14 +50,15 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 38. `ARXIV 2018` [Adversarial Spheres]
 
 
-## Defense
+## Defence
 1. `Arxiv 2017` `Detection` [Detecting adversarial samples from artifacts](./2017/Detecting_Adversarial_Samples_from_Artifacts.md)
 2. `ICLR 2017` `Detection` [On Detecting Adversarial Perturbations](./2017/On_Detecting_Adversarial_Perturbations.md) :thought_balloon:
 3. `ICLR 2018` `DEFENSE-GAN` [Defense-{GAN}: Protecting Classifiers Against Adversarial Attacks Using Generative Models](./2018/Defense-{GAN}_Protecting_Classifiers_Against_Adversarial_Attacks_Using_Generative_Models.md)
 4. `CVPR 2019` [Retrieval-Augmented Convolutional Neural Networks against Adversarial Examples](./2019/Retrieval_Augmented_Convolutional_Neural_Networks_against_Adversarial_Examples.md)
 5. `CVPR 2019` [Feature Denoising for Improving Adversarial Robustness](./2019/Feature_Denoising_for_Improving_Adversarial_Robustness.md)
 6. `NEURIPS 2019` [A New Defense Against Adversarial Images: Turning a Weakness into a Strength](./2019/A_New_Defense_Against_Adversarial_Images_Turning_a_Weakness_into_a_Strength.md)
-7. `CVPR 2018` [Defense Against Universal Adversarial Perturbations]
+7. `ICLR 2018` [Ensemble Adversarial Training: Attacks and Defences](./2018/Ensemble_Adversarial_Training_Attacks_and_Defenses.md)
+8. `CVPR 2018` [Defence Against Universal Adversarial Perturbations]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
