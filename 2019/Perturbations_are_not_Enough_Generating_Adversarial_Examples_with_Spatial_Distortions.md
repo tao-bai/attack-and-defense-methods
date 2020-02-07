@@ -14,4 +14,4 @@ year = {2019}
 }
 ```
 
-Jointly learning to make spacial distortion and purturbations at the same time.
+Jointly learning to make spatial distortion and perturbations at the same time.
