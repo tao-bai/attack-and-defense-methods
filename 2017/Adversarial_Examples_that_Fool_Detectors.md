@@ -13,3 +13,15 @@ title = {{Adversarial Examples that Fool Detectors}},
 year = {2017}
 }
 ```
+## Motivation
+Attacking classifiers is different from attacking detectors.
+
+## Methods
+Propose a method to generate **digital** and **physical** adversarial examples that are robust to changes of viewing conditions.
+
+### Data
+- Stop signs
+- Faces
+
+### Thoughts
+I should get myself familiar with detection and tracking algorithms ASAP.
