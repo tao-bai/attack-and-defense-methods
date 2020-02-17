@@ -73,10 +73,11 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 3. `ARXIV 2019` `DATASET` [Natural Adversarial Examples](./2019/Natural_Adversarial_Examples.md)
 4. `ICML 2017` `AC-GAN` [Conditional Image Synthesis with Auxiliary Classifier {GAN}s](./2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md)
 5. `ICCV 2019` `SinGAN` [SinGAN: Learning a Generative Model From a Single Natural Image](./2019/SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image.md)
-6. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
-7. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
-8. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
-9. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+6. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
+7. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+8. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+9. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
+10. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 
 
 ## Links
