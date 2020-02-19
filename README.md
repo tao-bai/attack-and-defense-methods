@@ -44,16 +44,17 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 30. `ICLR 2020` [Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking](./2020/Fooling_Detection_Alone_is_Not_Enough_Adversarial_Attack_against_Multiple_Object_Tracking.md):thought_balloon:
 31. `CVPR 2018` [Robust physical-world attacks on deep learning visual classification](./2018/Robust_physical_world_attacks_on_deep_learning_visual_classification.md)
 32. `ICCV 2017` [Adversarial Examples for Semantic Segmentation and Object Detection](./2017/Adversarial_Examples_for_Semantic_Segmentation_and_Object_Detection.md)
-33. `ARIVE 2017` [Adversarial Examples that Fool Detectors](./2017/Adversarial_Examples_that_Fool_Detectors.md)
-34. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
-35. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
-36. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
-37. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
-38. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics]
-39. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
-40. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
-41. `CVPR 2019` [SparseFool: a few pixels make a big difference]
-42. `ARXIV 2018` [Adversarial Spheres]
+33. `ARXIV 2017` [Adversarial Examples that Fool Detectors](./2017/Adversarial_Examples_that_Fool_Detectors.md)
+34. `CVPR 2017` [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection](./2017/A-Fast-RCNN_Hard_Positive_Generation_via_Adversary_for_Object_Detection.md)
+35. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
+36. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
+37. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+38. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
+39. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics]
+40. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
+41. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
+42. `CVPR 2019` [SparseFool: a few pixels make a big difference]
+43. `ARXIV 2018` [Adversarial Spheres]
 
 
 ## Defence
