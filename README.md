@@ -69,7 +69,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 7. `ICLR 2018` [Ensemble Adversarial Training: Attacks and Defences](./2018/Ensemble_Adversarial_Training_Attacks_and_Defenses.md)
 8. `CVPR 2018` [Defense Against Universal Adversarial Perturbations](./2018/Defense_Against_Universal_Adversarial_Perturbations.md)
 9. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training]
-10. `ICCV 2017` SafetyNet: Detecting and Rejecting Adversarial Examples Robustly
+10. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
