@@ -24,3 +24,6 @@ As mentioned in the paper, synthesized perturbations are helpful to train the PR
 ## Thoughts
 - Honestly I don't understand the algorithm that synthesizes perturbations clearly.
 - What's intuition for using DCT as feature extractor?
+
+## References
+https://blog.csdn.net/xunbaobao123/article/details/103028477
