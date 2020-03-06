@@ -10,3 +10,17 @@ url = {http://openaccess.thecvf.com/content{\_}cvpr{\_}2018/html/Akhtar{\_}Defen
 year = {2018}
 }
 ```
+## Motivation
+The first paper to study defense on universal adversarial perturbations.
+
+## Methods
+A Perturbations rectifying network to remove perturbations.
+A classifier to detect if there exists perturbations. They used SVM as the classifier and the log-absolute values of the 2D-DCT coefficients of the grey-scaled image.
+![](./../pics/fig2_AkhtarLM18.png)
+
+As mentioned in the paper, synthesized perturbations are helpful to train the PRN. Thus they proposed a method to generate perturbations.
+
+
+## Thoughts
+- Honestly I don't understand the algorithm that synthesizes perturbations clearly.
+- What's intuition for using DCT as feature extractor?
