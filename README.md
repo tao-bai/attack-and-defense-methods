@@ -48,15 +48,17 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 34. `CVPR 2017` [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection](./2017/A-Fast-RCNN_Hard_Positive_Generation_via_Adversary_for_Object_Detection.md)
 35. `IJCAI 2019` [Transferable Adversarial Attacks for Image and Video Object Detection](./2019/Transferable_Adversarial_Attacks_for_Image_and_Video_Object_Detection.md)
 36. `TPAMI 2019` [Generalizable Data-Free Objective for Crafting Universal Adversarial Perturbations](./2019/Generalizable_Adversarial_Attacks_Using_Generative_Models.md)
-37. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
-38. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
-39. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
-40. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
-41. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics]
-42. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
-43. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
-44. `CVPR 2019` [SparseFool: a few pixels make a big difference]
-45. `ARXIV 2018` [Adversarial Spheres]
+37. `CVPR 2020` [What it Thinks is Important is Important: Robustness Transfers through Input Gradients]
+38. `ICLR 2020` [Jacobian Adversarially Regularized Networks for Robustness]
+39. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
+40. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
+41. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+42. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
+43. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics]
+44. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
+45. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
+46. `CVPR 2019` [SparseFool: a few pixels make a big difference]
+47. `ARXIV 2018` [Adversarial Spheres]
 
 
 ## Defence
