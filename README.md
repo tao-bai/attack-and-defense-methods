@@ -48,8 +48,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 34. `CVPR 2017` [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection](./2017/A-Fast-RCNN_Hard_Positive_Generation_via_Adversary_for_Object_Detection.md)
 35. `IJCAI 2019` [Transferable Adversarial Attacks for Image and Video Object Detection](./2019/Transferable_Adversarial_Attacks_for_Image_and_Video_Object_Detection.md)
 36. `TPAMI 2019` [Generalizable Data-Free Objective for Crafting Universal Adversarial Perturbations](./2019/Generalizable_Adversarial_Attacks_Using_Generative_Models.md)
-37. `CVPR 2020` [What it Thinks is Important is Important: Robustness Transfers through Input Gradients]
-38. `ICLR 2020` [Jacobian Adversarially Regularized Networks for Robustness]
+37. `CVPR 2020` [What it Thinks is Important is Important: Robustness Transfers through Input Gradients](./2020/What_it_Thinks_is_Important_is_Important_Robustness_Transfers_through_Input_Gradients.md)
+38. `ICLR 2020` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
 39. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
 40. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
 41. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
