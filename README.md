@@ -48,20 +48,16 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 34. `CVPR 2017` [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection](./2017/A-Fast-RCNN_Hard_Positive_Generation_via_Adversary_for_Object_Detection.md)
 35. `IJCAI 2019` [Transferable Adversarial Attacks for Image and Video Object Detection](./2019/Transferable_Adversarial_Attacks_for_Image_and_Video_Object_Detection.md)
 36. `TPAMI 2019` [Generalizable Data-Free Objective for Crafting Universal Adversarial Perturbations](./2019/Generalizable_Adversarial_Attacks_Using_Generative_Models.md)
-37. `CVPR 2020` [What it Thinks is Important is Important: Robustness Transfers through Input Gradients](./2020/What_it_Thinks_is_Important_is_Important_Robustness_Transfers_through_Input_Gradients.md)
-38. `ICLR 2020` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
-39. `CVPR 2019` [Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses](./2019/Decoupling_Direction_and_Norm_for_Efficient_Gradient_Based_L2_Adversarial_Attacks_and_Defenses.md)
-40. `CVPR 2018` [Deflecting Adversarial Attacks With Pixel Deflection]
-41. `TPAMI 2018` [Virtual adversarial training: a regularization method for supervised and semi-supervised learning]
-42. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
-43. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
-44. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
-45. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
-46. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics]
-47. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
-48. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
-49. `CVPR 2019` [SparseFool: a few pixels make a big difference]
-50. `ARXIV 2018` [Adversarial Spheres]
+37. `CVPR 2019` [Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses](./2019/Decoupling_Direction_and_Norm_for_Efficient_Gradient_Based_L2_Adversarial_Attacks_and_Defenses.md)
+38. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
+39. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
+40. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+41. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
+42. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics]
+43. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
+44. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
+48. `CVPR 2019` [SparseFool: a few pixels make a big difference]
+49. `ARXIV 2018` [Adversarial Spheres]
 
 
 ## Defence
@@ -73,8 +69,12 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 6. `NEURIPS 2019` [A New Defense Against Adversarial Images: Turning a Weakness into a Strength](./2019/A_New_Defense_Against_Adversarial_Images_Turning_a_Weakness_into_a_Strength.md)
 7. `ICLR 2018` [Ensemble Adversarial Training: Attacks and Defences](./2018/Ensemble_Adversarial_Training_Attacks_and_Defenses.md)
 8. `CVPR 2018` [Defense Against Universal Adversarial Perturbations](./2018/Defense_Against_Universal_Adversarial_Perturbations.md)
-9. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training]
-10. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+9. `CVPR 2018` [Deflecting Adversarial Attacks With Pixel Deflection](./2018/Deflecting_Adversarial_Attacks_With_Pixel_Deflection.md)
+10. `ICLR 2020` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
+11. `CVPR 2020` [What it Thinks is Important is Important: Robustness Transfers through Input Gradients](./2020/What_it_Thinks_is_Important_is_Important_Robustness_Transfers_through_Input_Gradients.md)
+12. `TPAMI 2018` [Virtual adversarial training: a regularization method for supervised and semi-supervised learning]
+13. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training]
+14. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
