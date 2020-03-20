@@ -72,10 +72,11 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 9. `CVPR 2018` [Deflecting Adversarial Attacks With Pixel Deflection](./2018/Deflecting_Adversarial_Attacks_With_Pixel_Deflection.md)
 10. `ICLR 2020` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
 11. `CVPR 2020` [What it Thinks is Important is Important: Robustness Transfers through Input Gradients](./2020/What_it_Thinks_is_Important_is_Important_Robustness_Transfers_through_Input_Gradients.md)
-12. `TPAMI 2018` [Virtual adversarial training: a regularization method for supervised and semi-supervised learning](./2018/Virtual_adversarial_training_a_regularization_method_for_supervised_and_semi_supervised_learning.md):thought_balloon:
+12. `TPAMI 2018` [Virtual adversarial training: a regularization method for supervised and semi-supervised learning](./2018/Virtual_adversarial_training_a_regularization_method_for_supervised_and_semi_supervised_learning.md) :thought_balloon:
 13. `NIPS 2019` [Adversarial Training and Robustness for Multiple Perturbations](./2019/Adversarial_Training_and_Robustness_for_Multiple_Perturbations.md)
-14. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training]
-15. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+14. `NIPS 2019` [Adversarial Robustness through Local Linearization](./2019/Adversarial_Robustness_through_Local_Linearization.md)
+15. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training]
+16. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
