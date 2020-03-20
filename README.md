@@ -75,8 +75,10 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 12. `TPAMI 2018` [Virtual adversarial training: a regularization method for supervised and semi-supervised learning](./2018/Virtual_adversarial_training_a_regularization_method_for_supervised_and_semi_supervised_learning.md) :thought_balloon:
 13. `NIPS 2019` [Adversarial Training and Robustness for Multiple Perturbations](./2019/Adversarial_Training_and_Robustness_for_Multiple_Perturbations.md)
 14. `NIPS 2019` [Adversarial Robustness through Local Linearization](./2019/Adversarial_Robustness_through_Local_Linearization.md)
-15. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training]
-16. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+15. `ICLR 2020` [Adversarially Robust Representations with Smooth Encoders](2020/Adversarially_Robust_Representations_with_Smooth_Encoders.md) :thought_balloon:
+16. `ICML 2019` [Interpreting Adversarially Trained Convolutional Neural Networks]
+17. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training]
+18. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
