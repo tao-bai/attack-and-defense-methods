@@ -79,8 +79,9 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 16. `ICML 2019` [Interpreting Adversarially Trained Convolutional Neural Networks](./2019/Interpreting_Adversarially_Trained_Convolutional_Neural_Networks.md)
 17. `ICLR 2019` [Robustness May Be at Odds with Accuracy](./2019/Robustness_May_Be_at_Odds_with_Accuracy.md):thought_balloon:
 18. `IJCAI 2019` [Improving the Robustness of Deep Neural Networks via Adversarial Training with Triplet Loss](./2019/Improving_the_Robustness_of_Deep_Neural_Networks_via_Adversarial_Training_with_Triplet_Loss.md)
-19. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training]
-20. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+19. `ICML 2019` [Adversarial Examples Are a Natural Consequence of Test Error in Noise](./2019/Adversarial_Examples_Are_a_Natural_Consequence_of_Test_Error_in_Noise.md)
+20. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training]
+21. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
