@@ -10,3 +10,9 @@ url = {http://papers.nips.cc/paper/8459-defense-against-adversarial-attacks-usin
 year = {2019}
 }
 ```
+## Motivation
+Conventional adversarial training approaches leverage a supervised scheme in generating attacks for training, which typically suffer from issues such as label leaking.
+
+This paper introduces optimal transport to feature matching. And based on the feature matching distance, they formulated the feature scattering method, which intuitively interpreted as maximizing the feature matching distance between the original and perturbed empirical distributions with respect to the inputs.
+
+When generating adversarial examples, it takes the inter-sample relationships into consideration.

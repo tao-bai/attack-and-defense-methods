@@ -82,8 +82,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 19. `ICML 2019` [Adversarial Examples Are a Natural Consequence of Test Error in Noise](./2019/Adversarial_Examples_Are_a_Natural_Consequence_of_Test_Error_in_Noise.md):thought_balloon:
 20. `ARXIV 2020` [Heat and Blur: An Effective and Fast Defense Against Adversarial Examples](./2020/Heat_and_Blur_An_Effective_and_Fast_Defense_Against_Adversarial_Examples.md)
 21. `ARXIV 2018` [Adversarial Logit Pairing](./2018/Adversarial_Logit_Pairing.md)
-22. `ICML 2019` [On the Connection Between Adversarial Robustness and Saliency Map Interpretability]
-23. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training]
+22. `ICML 2019` [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](./2019/On_the_Connection_Between_Adversarial_Robustness_and_Saliency_Map_Interpretability.md)
+23. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training](./2019/Defense_Against_Adversarial_Attacks_Using_Feature_Scattering_based_Adversarial_Training.md)
 24. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
