@@ -19,6 +19,7 @@ Two types of errors:
 - adversarial example resaerchers seek to measure and improve robustness to small-worst case perturbations of the input 
 - corruption robustness researchers seek to measure and improve model robustness to distributional shift.
 
-
-
 Overall, it's a paper I couldn't understand clearly.
+
+# updates
+improving an alternate notion of adversarial robustness requires that error rates large additive noise be reduced to essentially zero.
