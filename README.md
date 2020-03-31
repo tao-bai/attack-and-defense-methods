@@ -85,7 +85,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 22. `ICML 2019` [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](./2019/On_the_Connection_Between_Adversarial_Robustness_and_Saliency_Map_Interpretability.md)
 23. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training](./2019/Defense_Against_Adversarial_Attacks_Using_Feature_Scattering_based_Adversarial_Training.md):thought_balloon:
 24. `NIPS 2016` [Robustness of classifiers: from adversarial to random noise](./2016/Robustness_of_classifiers_from_adversarial_to_random_noise.md) :thought_balloon:
-25. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+25. [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser](./2018/Defense_Against_Adversarial_Attacks_Using_High_Level_Representation_Guided_Denoiser.md)
+26. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
