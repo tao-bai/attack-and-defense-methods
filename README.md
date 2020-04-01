@@ -86,7 +86,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 23. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training](./2019/Defense_Against_Adversarial_Attacks_Using_Feature_Scattering_based_Adversarial_Training.md):thought_balloon:
 24. `NIPS 2016` [Robustness of classifiers: from adversarial to random noise](./2016/Robustness_of_classifiers_from_adversarial_to_random_noise.md) :thought_balloon:
 25. [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser](./2018/Defense_Against_Adversarial_Attacks_Using_High_Level_Representation_Guided_Denoiser.md)
-26. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+26. `ICML 2019` [Using Pre-Training Can Improve Model Robustness and Uncertainty Dan]
+27. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
@@ -96,12 +97,13 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 5. `ICCV 2019` `SinGAN` [SinGAN: Learning a Generative Model From a Single Natural Image](./2019/SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image.md)
 6. `ICLR 2020` [Robust And Interpretable Blind Image Denoising Via Bias-Free Convolutional Neural Networks](./2020/Robust_And_Interpretable_Blind_Image_Denoising_Via_Bias_Free_Convolutional_Neural_Networks.md)
 7. `ICLR 2020` [Pay Attention to Features, Transfer Learn Faster CNNs](./2020/Pay_Attention_to_Features_Transfer_Learn_Faster_CNNs.md)
-8. `ICCV 2019` [Real Image Denoising With Feature Attention]
-9. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
-10. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
-11. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
-12. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
-13. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+8. `ICLR 2020` [On Robustness of Neural Ordinary Differential Equations]
+9. `ICCV 2019` [Real Image Denoising With Feature Attention]
+10. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
+11. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+12. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+13. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
+14. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 
 
 ## Links
