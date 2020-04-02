@@ -85,8 +85,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 22. `ICML 2019` [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](./2019/On_the_Connection_Between_Adversarial_Robustness_and_Saliency_Map_Interpretability.md)
 23. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training](./2019/Defense_Against_Adversarial_Attacks_Using_Feature_Scattering_based_Adversarial_Training.md):thought_balloon:
 24. `NIPS 2016` [Robustness of classifiers: from adversarial to random noise](./2016/Robustness_of_classifiers_from_adversarial_to_random_noise.md) :thought_balloon:
-25. [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser](./2018/Defense_Against_Adversarial_Attacks_Using_High_Level_Representation_Guided_Denoiser.md)
-26. `ICML 2019` [Using Pre-Training Can Improve Model Robustness and Uncertainty Dan]
+25. `CVPR 2018` [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser](./2018/Defense_Against_Adversarial_Attacks_Using_High_Level_Representation_Guided_Denoiser.md)
+26. `ICML 2019` [Using Pre-Training Can Improve Model Robustness and Uncertainty](./2019/Using_Pre_Training_Can_Improve_Model_Robustness_and_Uncertainty.md)
 27. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
