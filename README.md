@@ -87,7 +87,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 24. `NIPS 2016` [Robustness of classifiers: from adversarial to random noise](./2016/Robustness_of_classifiers_from_adversarial_to_random_noise.md) :thought_balloon:
 25. `CVPR 2018` [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser](./2018/Defense_Against_Adversarial_Attacks_Using_High_Level_Representation_Guided_Denoiser.md)
 26. `ICML 2019` [Using Pre-Training Can Improve Model Robustness and Uncertainty](./2019/Using_Pre_Training_Can_Improve_Model_Robustness_and_Uncertainty.md)
-27. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+27. `ICML 2020` [Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference](./2020/Triple_Wins_Boosting_Accuracy_Robustness_and_Efficiency_Together_by_Enabling_Input_Adaptive_Inference.md)
+28. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
