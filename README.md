@@ -100,11 +100,12 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 7. `ICLR 2020` [Pay Attention to Features, Transfer Learn Faster CNNs](./2020/Pay_Attention_to_Features_Transfer_Learn_Faster_CNNs.md)
 8. `ICLR 2020` [On Robustness of Neural Ordinary Differential Equations](./2020/On_Robustness_of_Neural_Ordinary_Differential_Equations.md)
 9. `ICCV 2019` [Real Image Denoising With Feature Attention](./2019/Real_Image_Denoising_With_Feature_Attention.md)
-10. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
-11. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
-12. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
-13. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
-14. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+10. `ICLR 2018` [Multi-Scale Dense Networks for Resource Efficient Image Classification](./2018/Multi_Scale_Dense_Networks_for_Resource_Efficient_Image_Classification.md)
+11. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
+12. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+13. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+14. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
+15. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 
 
 ## Links
