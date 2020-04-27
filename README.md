@@ -103,11 +103,12 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 10. `ICLR 2018` [Multi-Scale Dense Networks for Resource Efficient Image Classification](./2018/Multi_Scale_Dense_Networks_for_Resource_Efficient_Image_Classification.md)
 11. `ARXIV 2019` [Rethinking Data Augmentation: Self-Supervision and Self-Distillation](2019/Rethinking_Data_Augmentation_Self_Supervision_and_Self_Distillation.md)
 12. `ICCV 2019` [Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation](./2019/Be_Your_Own_Teacher_Improve%20the_Performance_of_Convolutional_Neural_Networks_via_Self_Distillation.md)
-13. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
-14. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
-15. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
-16. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
-17. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+13. `ARXIV 2019` [Adversarially Robust Distillation](./2019/Adversarially_Robust_Distillation.md)
+14. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
+15. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+16. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+17. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
+18. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 
 
 ## Links
