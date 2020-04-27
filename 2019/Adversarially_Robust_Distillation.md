@@ -14,3 +14,6 @@ year = {2019}
 This paper studies how adversarial robustness transfers from teacher to student during knowledge distillation.
 
 ![](../pics/algo1_ZhangSGCBM19.png)
+
+
+**Not worthy reading. Writing is bad.**
