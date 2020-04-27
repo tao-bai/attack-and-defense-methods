@@ -104,11 +104,12 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 11. `ARXIV 2019` [Rethinking Data Augmentation: Self-Supervision and Self-Distillation](2019/Rethinking_Data_Augmentation_Self_Supervision_and_Self_Distillation.md)
 12. `ICCV 2019` [Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation](./2019/Be_Your_Own_Teacher_Improve%20the_Performance_of_Convolutional_Neural_Networks_via_Self_Distillation.md)
 13. `ARXIV 2019` [Adversarially Robust Distillation](./2019/Adversarially_Robust_Distillation.md)
-14. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
-15. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
-16. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
-17. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
-18. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+14. `ARXIV 2019` [Knowledge Distillation from Internal Representations](./2019/Knowledge_Distillation_from_Internal_Representations.md)
+15. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
+16. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+17. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+18. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
+19. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 
 
 ## Links
