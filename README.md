@@ -88,7 +88,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 25. `CVPR 2018` [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser](./2018/Defense_Against_Adversarial_Attacks_Using_High_Level_Representation_Guided_Denoiser.md)
 26. `ICML 2019` [Using Pre-Training Can Improve Model Robustness and Uncertainty](./2019/Using_Pre_Training_Can_Improve_Model_Robustness_and_Uncertainty.md)
 27. `ICML 2020` [Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference](./2020/Triple_Wins_Boosting_Accuracy_Robustness_and_Efficiency_Together_by_Enabling_Input_Adaptive_Inference.md)
-28. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+28. `ICCV 2019` [Adversarial Learning With Margin-Based Triplet Embedding Regularization](./2019/Adversarial_Learning_With_Margin_Based_Triplet_Embedding_Regularization.md)
+29. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
@@ -105,11 +106,12 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 12. `ICCV 2019` [Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation](./2019/Be_Your_Own_Teacher_Improve%20the_Performance_of_Convolutional_Neural_Networks_via_Self_Distillation.md)
 13. `ARXIV 2019` [Adversarially Robust Distillation](./2019/Adversarially_Robust_Distillation.md)
 14. `ARXIV 2019` [Knowledge Distillation from Internal Representations](./2019/Knowledge_Distillation_from_Internal_Representations.md)
-15. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
-16. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
-17. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
-18. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
-19. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+15. `ICLR 2020` [Contrastive Representation Distillation]
+16. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
+17. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+18. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+19. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
+20. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 
 
 ## Links
