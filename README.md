@@ -106,7 +106,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 12. `ICCV 2019` [Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation](./2019/Be_Your_Own_Teacher_Improve%20the_Performance_of_Convolutional_Neural_Networks_via_Self_Distillation.md)
 13. `ARXIV 2019` [Adversarially Robust Distillation](./2019/Adversarially_Robust_Distillation.md)
 14. `ARXIV 2019` [Knowledge Distillation from Internal Representations](./2019/Knowledge_Distillation_from_Internal_Representations.md)
-15. `ICLR 2020` [Contrastive Representation Distillation]
+15. `ICLR 2020` [Contrastive Representation Distillation](./2020/Contrastive_Representation_Distillation.md) :thought_balloon:
 16. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
 17. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
 18. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
