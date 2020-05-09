@@ -90,7 +90,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 26. `ICML 2019` [Using Pre-Training Can Improve Model Robustness and Uncertainty](./2019/Using_Pre_Training_Can_Improve_Model_Robustness_and_Uncertainty.md)
 27. `ICML 2020` [Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference](./2020/Triple_Wins_Boosting_Accuracy_Robustness_and_Efficiency_Together_by_Enabling_Input_Adaptive_Inference.md)
 28. `ICCV 2019` [Adversarial Learning With Margin-Based Triplet Embedding Regularization](./2019/Adversarial_Learning_With_Margin_Based_Triplet_Embedding_Regularization.md)
-29. `ICCV 2019` [CIIDefence: Defeating Adversarial Attacks by Fusing Class-Specific Image Inpainting and Image Denoising]
+29. `ICCV 2019` [CIIDefence: Defeating Adversarial Attacks by Fusing Class-Specific Image Inpainting and Image Denoising](./2019/CIIDefence_Defeating_Adversarial_Attacks_by_Fusing_Class_Specific_Image_Inpainting_and_Image_Denoising.md)
 30. `NIPS 2019` [Adversarial Examples Are Not Bugs, They Are Features](./2019/Adversarial_Examples_Are_Not_Bugs_They_Are_Features.md)
 31. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
