@@ -92,7 +92,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 28. `ICCV 2019` [Adversarial Learning With Margin-Based Triplet Embedding Regularization](./2019/Adversarial_Learning_With_Margin_Based_Triplet_Embedding_Regularization.md)
 29. `ICCV 2019` [CIIDefence: Defeating Adversarial Attacks by Fusing Class-Specific Image Inpainting and Image Denoising](./2019/CIIDefence_Defeating_Adversarial_Attacks_by_Fusing_Class_Specific_Image_Inpainting_and_Image_Denoising.md)
 30. `NIPS 2019` [Adversarial Examples Are Not Bugs, They Are Features](./2019/Adversarial_Examples_Are_Not_Bugs_They_Are_Features.md)
-31. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+31. `ARXIV 2018` [Evaluating and understanding the robustness of adversarial logit pairing](./2018/Evaluating_and_understanding_the_robustness_of_adversarial_logit_pairing.md)
+32. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
