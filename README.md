@@ -114,11 +114,12 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 15. `ICLR 2020` [Contrastive Representation Distillation](./2020/Contrastive_Representation_Distillation.md) :thought_balloon:
 16. `NIPS 2018` [Faster Neural Networks Straight from JPEG](./2018/Faster_Neural_Networks_Straight_from_JPEG.md)
 17. `ARXIV 2019` [A Closer Look at Double Backpropagation](./2019/A_Closer_Look_at_Double_Backpropagation.md)
-18. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
-19. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
-20. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
-21. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
-22. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+18. `CVPR 2016` [Learning Deep Features for Discriminative Localization](./2016/Learning_Deep_Features_for_Discriminative_Localization.md)
+19. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
+20. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+21. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+22. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
+23. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 
 
 ## Links
