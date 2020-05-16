@@ -95,7 +95,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 31. `ARXIV 2018` [Evaluating and understanding the robustness of adversarial logit pairing](./2018/Evaluating_and_understanding_the_robustness_of_adversarial_logit_pairing.md)
 32. `CVPR 2020` [Wavelet Integrated CNNs for Noise-Robust Image Classification](./2020/Wavelet_Integrated_CNNs_for_Noise_Robust_Image_Classification.md)
 33. `ARXIV 2020` [Deflecting Adversarial Attacks](./2020/Deflecting_Adversarial_Attacks.md)
-34. `ARXIV 2017` [Countering Adversarial Images using Input Transformations]
+34. `ARXIV 2017` [Countering Adversarial Images using Input Transformations](./2017/Countering_Adversarial_Images_using_Input_Transformations.md)
 35. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
