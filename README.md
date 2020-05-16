@@ -96,7 +96,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 32. `CVPR 2020` [Wavelet Integrated CNNs for Noise-Robust Image Classification](./2020/Wavelet_Integrated_CNNs_for_Noise_Robust_Image_Classification.md)
 33. `ARXIV 2020` [Deflecting Adversarial Attacks](./2020/Deflecting_Adversarial_Attacks.md)
 34. `ARXIV 2017` [Countering Adversarial Images using Input Transformations](./2017/Countering_Adversarial_Images_using_Input_Transformations.md)
-35. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+35. `ICLR 2020` [Robust Local Features for Improving the Generalization of Adversarial Training](./2020/Robust_Local_Features_for_Improving_the_Generalization_of_Adversarial_Training.md)
+36. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
