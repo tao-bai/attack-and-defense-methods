@@ -94,7 +94,9 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 30. `NIPS 2019` [Adversarial Examples Are Not Bugs, They Are Features](./2019/Adversarial_Examples_Are_Not_Bugs_They_Are_Features.md)
 31. `ARXIV 2018` [Evaluating and understanding the robustness of adversarial logit pairing](./2018/Evaluating_and_understanding_the_robustness_of_adversarial_logit_pairing.md)
 32. `CVPR 2020` [Wavelet Integrated CNNs for Noise-Robust Image Classification](./2020/Wavelet_Integrated_CNNs_for_Noise_Robust_Image_Classification.md)
-33. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+33. `ARXIV 2020` [Deflecting Adversarial Attacks](./2020/Deflecting_Adversarial_Attacks.md)
+34. `ARXIV 2017` [Countering Adversarial Images using Input Transformations]
+35. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
