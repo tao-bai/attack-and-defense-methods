@@ -99,7 +99,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 34. `ARXIV 2017` [Countering Adversarial Images using Input Transformations](./2017/Countering_Adversarial_Images_using_Input_Transformations.md)
 35. `ICLR 2020` [Robust Local Features for Improving the Generalization of Adversarial Training](./2020/Robust_Local_Features_for_Improving_the_Generalization_of_Adversarial_Training.md)
 36. `ARXIV 2014`  [Towards deep neural network architectures robust to adversarial examples](2014/Towards_deep_neural_network_architectures_robust_to_adversarial_examples.md)
-37. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+37. `ICLR 2020` [Enhancing Transformation-Based Defenses Against Adversarial Attacks with a Distribution Classifier](./2020/Enhancing_Transformation_Based_Defenses_Against_Adversarial_Attacks_with_a_Distribution_Classifier.md)
+38. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
