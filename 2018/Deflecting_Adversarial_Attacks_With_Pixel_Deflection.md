@@ -11,3 +11,32 @@ year = {2018}
 }
 ```
 Pixel deflection and wavelet transform.
+
+## Motivation
+Image classifiers tend to be robust to natural noise, and adversarial attacks tend to be agnostic to object location.
+
+These observations motivate our strategy, which leverages model robustness to defend against adversarial perturba- tions by forcing the image to match **natural image statistics**.
+
+<span style="color:red">what is natural image statistics?</span>
+
+## Two techniques
+### Pixel deflection.
+
+even changing as much as $1\%$ of original pixels does not alter the classification of a clean image.
+
+![](../pics/algo1_PrakashMGDS18.png)
+
+### adaptive soft-thresholding in the wavelet domain.
+
+## Targeted Pixel Deflection
+Utilized the localization of objects.
+- Class activation map.
+- saliency maps.
+
+### robust activation map
+they used an exponentially weighted average of teh maps of the top-k classes.
+
+$$\widehat{M}(x, y)=\sum_{i}^{k} \frac{M_{c_{i}}(x, y)}{2^{i}}$$
+
+
+## Wavelet denoising with adaptive thresholding

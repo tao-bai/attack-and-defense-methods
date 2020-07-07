@@ -50,15 +50,17 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 35. `IJCAI 2019` [Transferable Adversarial Attacks for Image and Video Object Detection](./2019/Transferable_Adversarial_Attacks_for_Image_and_Video_Object_Detection.md)
 36. `TPAMI 2019` [Generalizable Data-Free Objective for Crafting Universal Adversarial Perturbations](./2019/Generalizable_Adversarial_Attacks_Using_Generative_Models.md)
 37. `CVPR 2019` [Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses](./2019/Decoupling_Direction_and_Norm_for_Efficient_Gradient_Based_L2_Adversarial_Attacks_and_Defenses.md)
-38. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
-39. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
-40. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
-41. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
-42. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics]
-43. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
-44. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
-48. `CVPR 2019` [SparseFool: a few pixels make a big difference]
-49. `ARXIV 2018` [Adversarial Spheres]
+38. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics](./2017/Adversarial_Examples_Detection_in_Deep_Networks_with_Convolutional_Filter_Statistics.md)
+39. `NIPS 2016` [Adversarial Images for Variational Autoencoders]
+40. `ICML 2018` [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples]
+41. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
+42. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
+43. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+44. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
+45. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
+46. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
+47. `CVPR 2019` [SparseFool: a few pixels make a big difference]
+48. `ARXIV 2018` [Adversarial Spheres]
 
 
 ## Defence
@@ -88,7 +90,18 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 24. `NIPS 2016` [Robustness of classifiers: from adversarial to random noise](./2016/Robustness_of_classifiers_from_adversarial_to_random_noise.md) :thought_balloon:
 25. `CVPR 2018` [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser](./2018/Defense_Against_Adversarial_Attacks_Using_High_Level_Representation_Guided_Denoiser.md)
 26. `ICML 2019` [Using Pre-Training Can Improve Model Robustness and Uncertainty](./2019/Using_Pre_Training_Can_Improve_Model_Robustness_and_Uncertainty.md)
-27. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+27. `ICML 2020` [Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference](./2020/Triple_Wins_Boosting_Accuracy_Robustness_and_Efficiency_Together_by_Enabling_Input_Adaptive_Inference.md)
+28. `ICCV 2019` [Adversarial Learning With Margin-Based Triplet Embedding Regularization](./2019/Adversarial_Learning_With_Margin_Based_Triplet_Embedding_Regularization.md)
+29. `ICCV 2019` [CIIDefence: Defeating Adversarial Attacks by Fusing Class-Specific Image Inpainting and Image Denoising](./2019/CIIDefence_Defeating_Adversarial_Attacks_by_Fusing_Class_Specific_Image_Inpainting_and_Image_Denoising.md)
+30. `NIPS 2019` [Adversarial Examples Are Not Bugs, They Are Features](./2019/Adversarial_Examples_Are_Not_Bugs_They_Are_Features.md)
+31. `ARXIV 2018` [Evaluating and understanding the robustness of adversarial logit pairing](./2018/Evaluating_and_understanding_the_robustness_of_adversarial_logit_pairing.md)
+32. `CVPR 2020` [Wavelet Integrated CNNs for Noise-Robust Image Classification](./2020/Wavelet_Integrated_CNNs_for_Noise_Robust_Image_Classification.md)
+33. `ARXIV 2020` [Deflecting Adversarial Attacks](./2020/Deflecting_Adversarial_Attacks.md)
+34. `ARXIV 2017` [Countering Adversarial Images using Input Transformations](./2017/Countering_Adversarial_Images_using_Input_Transformations.md)
+35. `ICLR 2020` [Robust Local Features for Improving the Generalization of Adversarial Training](./2020/Robust_Local_Features_for_Improving_the_Generalization_of_Adversarial_Training.md)
+36. `ARXIV 2014`  [Towards deep neural network architectures robust to adversarial examples](2014/Towards_deep_neural_network_architectures_robust_to_adversarial_examples.md)
+37. `ICLR 2020` [Enhancing Transformation-Based Defenses Against Adversarial Attacks with a Distribution Classifier](./2020/Enhancing_Transformation_Based_Defenses_Against_Adversarial_Attacks_with_a_Distribution_Classifier.md)
+38. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
@@ -100,11 +113,21 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 7. `ICLR 2020` [Pay Attention to Features, Transfer Learn Faster CNNs](./2020/Pay_Attention_to_Features_Transfer_Learn_Faster_CNNs.md)
 8. `ICLR 2020` [On Robustness of Neural Ordinary Differential Equations](./2020/On_Robustness_of_Neural_Ordinary_Differential_Equations.md)
 9. `ICCV 2019` [Real Image Denoising With Feature Attention](./2019/Real_Image_Denoising_With_Feature_Attention.md)
-10. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
-11. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
-12. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
-13. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
-14. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+10. `ICLR 2018` [Multi-Scale Dense Networks for Resource Efficient Image Classification](./2018/Multi_Scale_Dense_Networks_for_Resource_Efficient_Image_Classification.md)
+11. `ARXIV 2019` [Rethinking Data Augmentation: Self-Supervision and Self-Distillation](2019/Rethinking_Data_Augmentation_Self_Supervision_and_Self_Distillation.md)
+12. `ICCV 2019` [Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation](./2019/Be_Your_Own_Teacher_Improve%20the_Performance_of_Convolutional_Neural_Networks_via_Self_Distillation.md)
+13. `ARXIV 2019` [Adversarially Robust Distillation](./2019/Adversarially_Robust_Distillation.md)
+14. `ARXIV 2019` [Knowledge Distillation from Internal Representations](./2019/Knowledge_Distillation_from_Internal_Representations.md)
+15. `ICLR 2020` [Contrastive Representation Distillation](./2020/Contrastive_Representation_Distillation.md) :thought_balloon:
+16. `NIPS 2018` [Faster Neural Networks Straight from JPEG](./2018/Faster_Neural_Networks_Straight_from_JPEG.md)
+17. `ARXIV 2019` [A Closer Look at Double Backpropagation](./2019/A_Closer_Look_at_Double_Backpropagation.md)
+18. `CVPR 2016` [Learning Deep Features for Discriminative Localization](./2016/Learning_Deep_Features_for_Discriminative_Localization.md)
+19. `ICML 2019` [Noise2Self: Blind Denoising by Self-Supervision](./2019/Noise2Self_Blind_Denoising_by_Self_Supervision.md)
+20. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
+21. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+22. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+23. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
+24. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 
 
 ## Links
