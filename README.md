@@ -9,6 +9,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 3. [Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072.pdf)
 4. [A Study of Black Box Adversarial Attacks in Computer Vision](https://arxiv.org/pdf/1912.01667.pdf)
 5. [Adversarial Examples in Modern Machine Learning: A Review](https://arxiv.org/pdf/1911.05268.pdf)
+6. [Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey](https://arxiv.org/abs/2007.00753)
 
 
 ## Attack
