@@ -1,6 +1,8 @@
 # About
 Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](https://docs.google.com/document/d/15o6m0I8g6O607mk5YPTh33Lu_aQYo7SpHhNSbLPQpWQ/mobilebasic?from=groupmessage#?utm_source=wechat_session&utm_medium=social&utm_oi=624560843380101120). Questions and discussions are most welcome!
 
+[Lil-log](https://lilianweng.github.io/lil-log/) is the best blog I have ever read!
+
 # Papers
 
 ## Survey
@@ -120,7 +122,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 14. `ARXIV 2019` [Knowledge Distillation from Internal Representations](./2019/Knowledge_Distillation_from_Internal_Representations.md)
 15. `ICLR 2020` [Contrastive Representation Distillation](./2020/Contrastive_Representation_Distillation.md) :thought_balloon:
 16. `NIPS 2018` [Faster Neural Networks Straight from JPEG](./2018/Faster_Neural_Networks_Straight_from_JPEG.md)
-17. `ARXIV 2019` [A Closer Look at Double Backpropagation](./2019/A_Closer_Look_at_Double_Backpropagation.md)
+17. `ARXIV 2019` [A Closer Look at Double Backpropagation](./2019/A_Closer_Look_at_Double_Backpropagation.md):thought_balloon:
 18. `CVPR 2016` [Learning Deep Features for Discriminative Localization](./2016/Learning_Deep_Features_for_Discriminative_Localization.md)
 19. `ICML 2019` [Noise2Self: Blind Denoising by Self-Supervision](./2019/Noise2Self_Blind_Denoising_by_Self_Supervision.md)
 20. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
