@@ -50,16 +50,17 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 36. `TPAMI 2019` [Generalizable Data-Free Objective for Crafting Universal Adversarial Perturbations](./2019/Generalizable_Adversarial_Attacks_Using_Generative_Models.md)
 37. `CVPR 2019` [Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses](./2019/Decoupling_Direction_and_Norm_for_Efficient_Gradient_Based_L2_Adversarial_Attacks_and_Defenses.md)
 38. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics](./2017/Adversarial_Examples_Detection_in_Deep_Networks_with_Convolutional_Filter_Statistics.md)
-39. `NIPS 2016` [Adversarial Images for Variational Autoencoders]
-40. `ICML 2018` [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples]
-41. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
-42. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
-43. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
-44. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
-45. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
-46. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
-47. `CVPR 2019` [SparseFool: a few pixels make a big difference]
-48. `ARXIV 2018` [Adversarial Spheres]
+39. `ARXIV 2020` [Sponge Examples: Energy-Latency Attacks on Neural Networks]
+40. `NIPS 2016` [Adversarial Images for Variational Autoencoders]
+41. `ICML 2018` [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples]
+42. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
+43. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
+44. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+45. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
+46. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
+47. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
+48. `CVPR 2019` [SparseFool: a few pixels make a big difference]
+49. `ARXIV 2018` [Adversarial Spheres]
 
 
 ## Defence
@@ -122,11 +123,12 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 17. `ARXIV 2019` [A Closer Look at Double Backpropagation](./2019/A_Closer_Look_at_Double_Backpropagation.md)
 18. `CVPR 2016` [Learning Deep Features for Discriminative Localization](./2016/Learning_Deep_Features_for_Discriminative_Localization.md)
 19. `ICML 2019` [Noise2Self: Blind Denoising by Self-Supervision](./2019/Noise2Self_Blind_Denoising_by_Self_Supervision.md)
-20. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
-21. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
-22. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
-23. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
-24. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+20. `ARXIV 2020` [An Adversarial Approach for Explaining the Predictions of Deep Neural Networks]
+21. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
+22. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+23. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+24. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
+25. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 
 
 ## Links
