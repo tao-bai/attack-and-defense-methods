@@ -1,6 +1,8 @@
 # About
 Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](https://docs.google.com/document/d/15o6m0I8g6O607mk5YPTh33Lu_aQYo7SpHhNSbLPQpWQ/mobilebasic?from=groupmessage#?utm_source=wechat_session&utm_medium=social&utm_oi=624560843380101120). Questions and discussions are most welcome!
 
+[Lil-log](https://lilianweng.github.io/lil-log/) is the best blog I have ever read!
+
 # Papers
 
 ## Survey
@@ -9,6 +11,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 3. [Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072.pdf)
 4. [A Study of Black Box Adversarial Attacks in Computer Vision](https://arxiv.org/pdf/1912.01667.pdf)
 5. [Adversarial Examples in Modern Machine Learning: A Review](https://arxiv.org/pdf/1911.05268.pdf)
+6. [Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey](https://arxiv.org/abs/2007.00753)
 
 
 ## Attack
@@ -101,7 +104,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 35. `ICLR 2020` [Robust Local Features for Improving the Generalization of Adversarial Training](./2020/Robust_Local_Features_for_Improving_the_Generalization_of_Adversarial_Training.md)
 36. `ARXIV 2014`  [Towards deep neural network architectures robust to adversarial examples](2014/Towards_deep_neural_network_architectures_robust_to_adversarial_examples.md)
 37. `ICLR 2020` [Enhancing Transformation-Based Defenses Against Adversarial Attacks with a Distribution Classifier](./2020/Enhancing_Transformation_Based_Defenses_Against_Adversarial_Attacks_with_a_Distribution_Classifier.md)
-38. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+38. `ARXIV 2019` [Defending Adversarial Attacks by Correcting logits](./2019/Defending_Adversarial_Attacks_by_Correcting_logits.md)
+39. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
@@ -120,7 +124,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 14. `ARXIV 2019` [Knowledge Distillation from Internal Representations](./2019/Knowledge_Distillation_from_Internal_Representations.md)
 15. `ICLR 2020` [Contrastive Representation Distillation](./2020/Contrastive_Representation_Distillation.md) :thought_balloon:
 16. `NIPS 2018` [Faster Neural Networks Straight from JPEG](./2018/Faster_Neural_Networks_Straight_from_JPEG.md)
-17. `ARXIV 2019` [A Closer Look at Double Backpropagation](./2019/A_Closer_Look_at_Double_Backpropagation.md)
+17. `ARXIV 2019` [A Closer Look at Double Backpropagation](./2019/A_Closer_Look_at_Double_Backpropagation.md):thought_balloon:
 18. `CVPR 2016` [Learning Deep Features for Discriminative Localization](./2016/Learning_Deep_Features_for_Discriminative_Localization.md)
 19. `ICML 2019` [Noise2Self: Blind Denoising by Self-Supervision](./2019/Noise2Self_Blind_Denoising_by_Self_Supervision.md)
 20. `ARXIV 2020` [An Adversarial Approach for Explaining the Predictions of Deep Neural Networks]
