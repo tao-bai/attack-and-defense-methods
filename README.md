@@ -12,6 +12,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 4. [A Study of Black Box Adversarial Attacks in Computer Vision](https://arxiv.org/pdf/1912.01667.pdf)
 5. [Adversarial Examples in Modern Machine Learning: A Review](https://arxiv.org/pdf/1911.05268.pdf)
 6. [Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey](https://arxiv.org/abs/2007.00753)
+7. [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence\ A Review and New Outlooks](https://arxiv.org/pdf/2004.05937.pdf)
 
 
 ## Attack
@@ -106,7 +107,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 37. `ICLR 2020` [Enhancing Transformation-Based Defenses Against Adversarial Attacks with a Distribution Classifier](./2020/Enhancing_Transformation_Based_Defenses_Against_Adversarial_Attacks_with_a_Distribution_Classifier.md)
 38. `ARXIV 2019` [Defending Adversarial Attacks by Correcting logits](./2019/Defending_Adversarial_Attacks_by_Correcting_logits.md)
 39. `CVPR 2020` [A Self-supervised Approach for Adversarial Robustness](./2020/A_Self_supervised_Approach_for_Adversarial_Robustness.md)
-40. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+40. `NeurIPS 2019` [Metric Learning for Adversarial Robustness](./2019/Metric_Learning_for_Adversarial_Robustness.md)
+41. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
