@@ -109,8 +109,6 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 36. `ARXIV 2014`  [Towards deep neural network architectures robust to adversarial examples](2014/Towards_deep_neural_network_architectures_robust_to_adversarial_examples.md)
 37. `ICLR 2020` [Enhancing Transformation-Based Defenses Against Adversarial Attacks with a Distribution Classifier](./2020/Enhancing_Transformation_Based_Defenses_Against_Adversarial_Attacks_with_a_Distribution_Classifier.md)
 38. `ARXIV 2019` [Defending Adversarial Attacks by Correcting logits](./2019/Defending_Adversarial_Attacks_by_Correcting_logits.md)
-39. `CVPR 2020` [A Self-supervised Approach for Adversarial Robustness]
-40. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
 39. `CVPR 2020` [A Self-supervised Approach for Adversarial Robustness](./2020/A_Self_supervised_Approach_for_Adversarial_Robustness.md)
 40. `NeurIPS 2019` [Metric Learning for Adversarial Robustness](./2019/Metric_Learning_for_Adversarial_Robustness.md)
 41. `ICLR 2020` [Improving Adversarial Robustness Requires Revisiting Misclassified Examples](./2019/Improving_the_Robustness_of_Deep_Neural_Networks_via_Adversarial_Training_with_Triplet_Loss.md) :thumbsup:
