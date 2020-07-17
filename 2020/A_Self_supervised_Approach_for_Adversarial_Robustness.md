@@ -14,3 +14,11 @@ year = {2020}
 training and input processing methods in a single frame-
 work that is computationally efficient, generalizable across
 different tasks and retains the clean image accuracy. 
+- Combine the pre-processing and adversarial training.
+- build a robust denosier
+
+## Contribution
+- A self-supervised way to generate adversarial perturbations, which is proved to be transferable. 
+- using the adversarial training scheme to train the robust purifier.
+
+![](../pics/fig2_Naseer_2020_CVPR.png)
