@@ -14,6 +14,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 6. `2020` [Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey](https://arxiv.org/abs/2007.00753)
 7. `2020` [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence\ A Review and New Outlooks](https://arxiv.org/pdf/2004.05937.pdf)
 8. `2019` [Adversarial attack and defense in reinforcement learning-from AI security view](https://arxiv.org/pdf/1901.06796.pdf)
+9. `2020` [A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646)
 
 
 ## Attack
