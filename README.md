@@ -113,6 +113,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 40. `NeurIPS 2019` [Metric Learning for Adversarial Robustness](./2019/Metric_Learning_for_Adversarial_Robustness.md)
 41. `ICLR 2020` [Improving Adversarial Robustness Requires Revisiting Misclassified Examples](./2019/Improving_the_Robustness_of_Deep_Neural_Networks_via_Adversarial_Training_with_Triplet_Loss.md) :thumbsup:
 42. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+43. `CVPR 2019` [Adversarial defense by stratified convolutional sparse coding]
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
