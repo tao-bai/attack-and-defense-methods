@@ -15,6 +15,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 7. `2020` [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence\ A Review and New Outlooks](https://arxiv.org/pdf/2004.05937.pdf)
 8. `2019` [Adversarial attack and defense in reinforcement learning-from AI security view](https://arxiv.org/pdf/1901.06796.pdf)
 9. `2020` [A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646)
+10. `2020` [Learning from Noisy Labels with Deep Neural Networks: A Survey](https://arxiv.org/abs/2007.08199)
 
 
 ## Attack
