@@ -140,12 +140,13 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 17. `ARXIV 2019` [A Closer Look at Double Backpropagation](./2019/A_Closer_Look_at_Double_Backpropagation.md):thought_balloon:
 18. `CVPR 2016` [Learning Deep Features for Discriminative Localization](./2016/Learning_Deep_Features_for_Discriminative_Localization.md)
 19. `ICML 2019` [Noise2Self: Blind Denoising by Self-Supervision](./2019/Noise2Self_Blind_Denoising_by_Self_Supervision.md)
-20. `ARXIV 2020` [An Adversarial Approach for Explaining the Predictions of Deep Neural Networks]
-21. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
-22. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
-23. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
-24. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
-25. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+20. `ARXIV 2020` [Supervised Contrastive Learning](./2020/Supervised_Contrastive_Learning.md)
+21. `ARXIV 2020` [An Adversarial Approach for Explaining the Predictions of Deep Neural Networks]
+22. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
+23. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+24. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+25. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
+26. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 
 
 ## Links
