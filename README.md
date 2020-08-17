@@ -18,6 +18,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 10. `2020` [Learning from Noisy Labels with Deep Neural Networks: A Survey](https://arxiv.org/abs/2007.08199)
 11. `2020` [Optimization for Deep Learning: An Overview](https://link.springer.com/epdf/10.1007/s40305-020-00309-6?sharing_token=Xv0f6yBzgc1QnNAUbQ9pufe4RwlQNchNByi7wbcMAY56wZ54Vxigc8CL-kHvhiYpSthXAu14ZSiMmkrVuqUSJUCRoWymQqZbEnVDQvz2sEBOiX8dkkGxS7bI7irClme0cEKnUtpyPIJONJQQDAiWTskwNws64eAd2xKnqi3nYOY%3D)
 12. `2020` [Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review](https://arxiv.org/abs/2007.10760)
+13. `2020` [Learning from Noisy Labels with Deep Neural Networks: A Survey](https://arxiv.org/pdf/2007.08199.pdf)
 
 
 ## Attack
