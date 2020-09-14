@@ -23,104 +23,136 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 
 
 ## Attack
-1. `ICLR 2013` `ATTACK` [Evasion Attacks against Machine Learning at Test Time](./2013/Evasion_attacks_against_machine_learning_at_test_time.md)
-2. `ICLR 2014` `L-BFGS` [Intriguing properties of neural networks](./2014/Intriguing_properties_of_neural_networks.md)
-3. `ICLR 2015` `FGSM` [Explaining and Harnessing Adversarial Examples](./2015/Explaining_and_Harnessing_Adversarial_Examples.md)
-4. `EuroS&P 2016` `ATTACK` [The limitations of deep learning in adversarial settings](./2016/The_limitations_of_deep_learning_in_adversarial_settings.md)
-5. `CVPR 2016` `ATTACK` [Deepfool](./2016/DeepFool.md)
-6. `SP 2016` `CW Attack` [C&W Towards evaluating the robustness of neural networks](./2016/Toward_evaluating_the_robustness_of_neural_networks.md)
-7. `Arxiv 2016` `Transferability` `ATTACK` [Transferability in machine learning: from phenomena to black-box attacks using adversarial samples](./2016/Transferability_in_machine_learning.md)
-8. `CVPR 2019` `Transferability` `Feature Space` [Feature Space Perturbations Yield More Transferable Adversarial Examples](./2019/Feature_Space_Perturbations_Yield_More_Transferable_Adversarial_Examples.md)
-9. `ICLR 2017` `Transferability` [Delving into Transferable Adversarial Examples and Black-box Attacks](./2017/Delving_into_Transferable_Adversarial_Examples_and_Black-box_Attacks.md)
-10. `ICLR 2019` `Adversarial Training` [The Limitations of Adversarial Training and the Blind-Spot Attack](./2019/The_Limitations_of_Adversarial_Training_and_the_Blind-Spot_Attack.md)
-11. `CVPR 2017` `Universal` [Universal Adversarial Perturbations](./2017/Universal_Adversarial_Perturbations.md)
-12. `ICLR 2018` `GAN` `Natural` [Generating Natural Adversarial Examples](./2018/Generating_Natural_Adversarial_Examples.md)
-13. `ICLR 2019` `Theory` [Are adversarial examples inevitable?](./2019/Are_adversarial_examples_inevitable.md) :thought_balloon:
-14. `IEEE TEC 2019` `One-Pixel` [One pixel attack for fooling deep neural networks](./2019/One_pixel_attack_for_fooling_deep_neural_networks.md)
-15. `ARXIV 2019` `ATTACK` [Generalizable Adversarial Attacks Using Generative Models](./2019/Generalizable_Adversarial_Attacks_Using_Generative_Models.md)
-16. `ICML 2019` `DISTRIBUTION` [NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks](./2019/NATTACK_Learning_the_Distributions_of_Adversarial_Examples_for_an_Improved_Black_Box_Attack_on_Deep_Neural_Networks.md):thought_balloon:
-17. `ARXIV 2019` `CGAN` [SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing](./2019/SemanticAdv_Generating_Adversarial_Examples_via_Attribute_conditional_Image_Editing.md)
-18. `NeurlPS 2018` `AC-GAN` `WGAN` [Constructing Unrestricted Adversarial Examples with Generative Models](./2018/Constructing_Unrestricted_Adversarial_Examples_with_Generative_Models.md)
-19. `IJCAI 2018` `GAN` [Generating Adversarial Examples with Adversarial Networks](./2018/Generating_Adversarial_Examples_with_Adversarial_Networks.md)
-20. `CVPR 2018` `GENERATIVES` `UNIVERSAL` [Generative Adversarial Perturbations](./2018/Generative_Adversarial_Perturbations.md)
-21. `AAAI 2018` `ATN` [Learning to Attack: Adversarial transformation networks](./2017/Adversarial_transformation_networks_Learning_to_generate_adversarial_examples.md)
-22. `CVPR 2019` `Rob-GAN` [Rob-GAN: Generator, Discriminator, and Adversarial Attacker](./2019/Rob_GAN_Generator_Discriminator_and_Adversarial_Attacker.md)
-23. `S&P 2018` [Learning Universal Adversarial Perturbations with Generative Models](./2018/Learning_Universal_Adversarial_Perturbations_with_Generative_Models.md)
-24. `ARXIV 2019` `CYCLEADVGAN` [Cycle-Consistent Adversarial {GAN:} the integration of adversarial attack and defense](./2019/Cycle_Consistent_Adversarial_{GAN}_the_integration_of_adversarial_attack_and_defense.md)
-25. `ARXIV 2019` [Generating Realistic Unrestricted Adversarial Inputs using Dual-Objective {GAN} Training](./2019/Generating_Realistic_Unrestricted_Adversarial_Inputs_using_Dual_Objective_{GAN}_Training.md) :thought_balloon:
-26. `ICLR 2018` [Spatially Transformed Adversarial Examples](./2018/SPATIALLY_TRANSFORMED_ADVERSARIAL_EXAMPLES.md)
-27. `ICCV 2019` [Sparse and Imperceivable Adversarial Attacks](./2019/Sparse_and_Imperceivable_Adversarial_Attacks.md):thought_balloon:
-28. `ARXIV 2019` [Perturbations are not Enough: Generating Adversarial Examples with Spatial Distortions](2019/Perturbations_are_not_Enough_Generating_Adversarial_Examples_with_Spatial_Distortions.md)
-29. `ARXIV 2019` [Joint Adversarial Training: Incorporating both Spatial and Pixel Attacks](2019/Joint_Adversarial_Training_Incorporating_both_Spatial_and_Pixel_Attacks.md)
-30. `ICLR 2020` [Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking](./2020/Fooling_Detection_Alone_is_Not_Enough_Adversarial_Attack_against_Multiple_Object_Tracking.md):thought_balloon:
-31. `CVPR 2018` [Robust physical-world attacks on deep learning visual classification](./2018/Robust_physical_world_attacks_on_deep_learning_visual_classification.md)
-32. `ICCV 2017` [Adversarial Examples for Semantic Segmentation and Object Detection](./2017/Adversarial_Examples_for_Semantic_Segmentation_and_Object_Detection.md)
-33. `ARXIV 2017` [Adversarial Examples that Fool Detectors](./2017/Adversarial_Examples_that_Fool_Detectors.md)
-34. `CVPR 2017` [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection](./2017/A-Fast-RCNN_Hard_Positive_Generation_via_Adversary_for_Object_Detection.md)
-35. `IJCAI 2019` [Transferable Adversarial Attacks for Image and Video Object Detection](./2019/Transferable_Adversarial_Attacks_for_Image_and_Video_Object_Detection.md)
-36. `TPAMI 2019` [Generalizable Data-Free Objective for Crafting Universal Adversarial Perturbations](./2019/Generalizable_Adversarial_Attacks_Using_Generative_Models.md)
-37. `CVPR 2019` [Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses](./2019/Decoupling_Direction_and_Norm_for_Efficient_Gradient_Based_L2_Adversarial_Attacks_and_Defenses.md)
-38. `ICCV 2017` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics](./2017/Adversarial_Examples_Detection_in_Deep_Networks_with_Convolutional_Filter_Statistics.md)
-39. `CVPR 2018`[Boosting Adversarial Attacks With Momentum](./2018/Boosting_Adversarial_Attacks_With_Momentum.md)
-40. `CVPR 2019` [FDA: Feature Disruptive Attack]
-41. `ARXIV 2020` [Sponge Examples: Energy-Latency Attacks on Neural Networks]
-42. `NIPS 2016` [Adversarial Images for Variational Autoencoders]
-43. `ICML 2018` [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples]
-44. `ICLR 2019` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
-45. `ECCV 2018` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
-46. `ICCV 2017` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
-47. `CVPR 2018` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
-48. `AIS 2017` [Adversarial examples are not easily detected: Bypassing ten detection methods]
-49. `ARXIV 2019` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
-50. `CVPR 2019` [SparseFool: a few pixels make a big difference]
-51. `ARXIV 2018` [Adversarial Spheres]
+### 2013
+1. `ICLR` [Evasion Attacks against Machine Learning at Test Time](./2013/Evasion_attacks_against_machine_learning_at_test_time.md)
+
+
+### 2014
+1. `ICLR` [Intriguing properties of neural networks](./2014/Intriguing_properties_of_neural_networks.md)
+
+
+### 2015
+1. `ICLR` [Explaining and Harnessing Adversarial Examples](./2015/Explaining_and_Harnessing_Adversarial_Examples.md)
+
+
+### 2016
+1. `EuroS&P` [The limitations of deep learning in adversarial settings](./2016/The_limitations_of_deep_learning_in_adversarial_settings.md)
+2. `CVPR` [Deepfool](./2016/DeepFool.md)
+3. `SP` [C&W Towards evaluating the robustness of neural networks](./2016/Toward_evaluating_the_robustness_of_neural_networks.md)
+4. `Arxiv` [Transferability in machine learning: from phenomena to black-box attacks using adversarial samples](./2016/Transferability_in_machine_learning.md)
+5.  `NIPS` [Adversarial Images for Variational Autoencoders]
+
+
+### 2017
+1.  `ICLR` [Delving into Transferable Adversarial Examples and Black-box Attacks](./2017/Delving_into_Transferable_Adversarial_Examples_and_Black-box_Attacks.md)
+2.  `CVPR` [Universal Adversarial Perturbations](./2017/Universal_Adversarial_Perturbations.md)
+3.  `ICCV` [Adversarial Examples for Semantic Segmentation and Object Detection](./2017/Adversarial_Examples_for_Semantic_Segmentation_and_Object_Detection.md)
+4.  `ARXIV` [Adversarial Examples that Fool Detectors](./2017/Adversarial_Examples_that_Fool_Detectors.md)
+5.  `CVPR` [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection](./2017/A-Fast-RCNN_Hard_Positive_Generation_via_Adversary_for_Object_Detection.md)
+6.  `ICCV` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics](./2017/Adversarial_Examples_Detection_in_Deep_Networks_with_Convolutional_Filter_Statistics.md)
+7.  `AIS` [Adversarial examples are not easily detected: Bypassing ten detection methods]
+8.  `ICCV` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+
+
+### 2018
+1. `ICLR` [Generating Natural Adversarial Examples](./2018/Generating_Natural_Adversarial_Examples.md)
+2. `NeurlPS` [Constructing Unrestricted Adversarial Examples with Generative Models](./2018/Constructing_Unrestricted_Adversarial_Examples_with_Generative_Models.md)
+3.  `IJCAI` [Generating Adversarial Examples with Adversarial Networks](./2018/Generating_Adversarial_Examples_with_Adversarial_Networks.md)
+4.  `CVPR` [Generative Adversarial Perturbations](./2018/Generative_Adversarial_Perturbations.md)
+5.  `AAAI` [Learning to Attack: Adversarial transformation networks](./2017/Adversarial_transformation_networks_Learning_to_generate_adversarial_examples.md)
+6.  `S&P` [Learning Universal Adversarial Perturbations with Generative Models](./2018/Learning_Universal_Adversarial_Perturbations_with_Generative_Models.md)
+7.  `CVPR` [Robust physical-world attacks on deep learning visual classification](./2018/Robust_physical_world_attacks_on_deep_learning_visual_classification.md)
+8.  `ICLR` [Spatially Transformed Adversarial Examples](./2018/SPATIALLY_TRANSFORMED_ADVERSARIAL_EXAMPLES.md)
+9.  `CVPR`[Boosting Adversarial Attacks With Momentum](./2018/Boosting_Adversarial_Attacks_With_Momentum.md)
+10. `CVPR` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
+11. `ARXIV` [Adversarial Spheres]
+12. `ICML` [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples]
+13. `ECCV` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
+
+
+### 2019
+1. `CVPR` [Feature Space Perturbations Yield More Transferable Adversarial Examples](./2019/Feature_Space_Perturbations_Yield_More_Transferable_Adversarial_Examples.md)
+2. `ICLR` [The Limitations of Adversarial Training and the Blind-Spot Attack](./2019/The_Limitations_of_Adversarial_Training_and_the_Blind-Spot_Attack.md)
+3.  `ICLR` [Are adversarial examples inevitable?](./2019/Are_adversarial_examples_inevitable.md) :thought_balloon:
+4.  `IEEE TEC` [One pixel attack for fooling deep neural networks](./2019/One_pixel_attack_for_fooling_deep_neural_networks.md)
+5.  `ARXIV` [Generalizable Adversarial Attacks Using Generative Models](./2019/Generalizable_Adversarial_Attacks_Using_Generative_Models.md)
+6.  `ICML` [NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks](./2019/NATTACK_Learning_the_Distributions_of_Adversarial_Examples_for_an_Improved_Black_Box_Attack_on_Deep_Neural_Networks.md):thought_balloon:
+7.  `ARXIV` [SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing](./2019/SemanticAdv_Generating_Adversarial_Examples_via_Attribute_conditional_Image_Editing.md)
+8.  `CVPR` [Rob-GAN: Generator, Discriminator, and Adversarial Attacker](./2019/Rob_GAN_Generator_Discriminator_and_Adversarial_Attacker.md)
+9.  `ARXIV` [Cycle-Consistent Adversarial {GAN:} the integration of adversarial attack and defense](./2019/Cycle_Consistent_Adversarial_{GAN}_the_integration_of_adversarial_attack_and_defense.md)
+10. `ARXIV` [Generating Realistic Unrestricted Adversarial Inputs using Dual-Objective {GAN} Training](./2019/Generating_Realistic_Unrestricted_Adversarial_Inputs_using_Dual_Objective_{GAN}_Training.md) :thought_balloon:
+11. `ICCV` [Sparse and Imperceivable Adversarial Attacks](./2019/Sparse_and_Imperceivable_Adversarial_Attacks.md):thought_balloon:
+12. `ARXIV` [Perturbations are not Enough: Generating Adversarial Examples with Spatial Distortions](2019/Perturbations_are_not_Enough_Generating_Adversarial_Examples_with_Spatial_Distortions.md)
+13. `ARXIV` [Joint Adversarial Training: Incorporating both Spatial and Pixel Attacks](2019/Joint_Adversarial_Training_Incorporating_both_Spatial_and_Pixel_Attacks.md)
+14. `IJCAI` [Transferable Adversarial Attacks for Image and Video Object Detection](./2019/Transferable_Adversarial_Attacks_for_Image_and_Video_Object_Detection.md)
+15. `TPAMI` [Generalizable Data-Free Objective for Crafting Universal Adversarial Perturbations](./2019/Generalizable_Adversarial_Attacks_Using_Generative_Models.md)
+16. `CVPR` [Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses](./2019/Decoupling_Direction_and_Norm_for_Efficient_Gradient_Based_L2_Adversarial_Attacks_and_Defenses.md)
+17. `CVPR` [FDA: Feature Disruptive Attack]
+18. `ARXIV` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
+19. `CVPR` [SparseFool: a few pixels make a big difference]
+20. `ICLR` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
+
+### 2020
+1.  `ICLR` [Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking](./2020/Fooling_Detection_Alone_is_Not_Enough_Adversarial_Attack_against_Multiple_Object_Tracking.md):thought_balloon:
+2.  `ARXIV` [Sponge Examples: Energy-Latency Attacks on Neural Networks]
 
 
 ## Defence
-1. `Arxiv 2017` `Detection` [Detecting adversarial samples from artifacts](./2017/Detecting_Adversarial_Samples_from_Artifacts.md)
-2. `ICLR 2017` `Detection` [On Detecting Adversarial Perturbations](./2017/On_Detecting_Adversarial_Perturbations.md) :thought_balloon:
-3. `ICLR 2018` `DEFENSE-GAN` [Defense-{GAN}: Protecting Classifiers Against Adversarial Attacks Using Generative Models](./2018/Defense-{GAN}_Protecting_Classifiers_Against_Adversarial_Attacks_Using_Generative_Models.md)
-4. `CVPR 2019` [Retrieval-Augmented Convolutional Neural Networks against Adversarial Examples](./2019/Retrieval_Augmented_Convolutional_Neural_Networks_against_Adversarial_Examples.md)
-5. `CVPR 2019` [Feature Denoising for Improving Adversarial Robustness](./2019/Feature_Denoising_for_Improving_Adversarial_Robustness.md)
-6. `NEURIPS 2019` [A New Defense Against Adversarial Images: Turning a Weakness into a Strength](./2019/A_New_Defense_Against_Adversarial_Images_Turning_a_Weakness_into_a_Strength.md)
-7. `ICLR 2018` [Ensemble Adversarial Training: Attacks and Defences](./2018/Ensemble_Adversarial_Training_Attacks_and_Defenses.md)
-8. `CVPR 2018` [Defense Against Universal Adversarial Perturbations](./2018/Defense_Against_Universal_Adversarial_Perturbations.md)
-9. `CVPR 2018` [Deflecting Adversarial Attacks With Pixel Deflection](./2018/Deflecting_Adversarial_Attacks_With_Pixel_Deflection.md)
-10. `ICLR 2020` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
-11. `CVPR 2020` [What it Thinks is Important is Important: Robustness Transfers through Input Gradients](./2020/What_it_Thinks_is_Important_is_Important_Robustness_Transfers_through_Input_Gradients.md)
-12. `TPAMI 2018` [Virtual adversarial training: a regularization method for supervised and semi-supervised learning](./2018/Virtual_adversarial_training_a_regularization_method_for_supervised_and_semi_supervised_learning.md) :thought_balloon:
-13. `NIPS 2019` [Adversarial Training and Robustness for Multiple Perturbations](./2019/Adversarial_Training_and_Robustness_for_Multiple_Perturbations.md)
-14. `NIPS 2019` [Adversarial Robustness through Local Linearization](./2019/Adversarial_Robustness_through_Local_Linearization.md)
-15. `ICLR 2020` [Adversarially Robust Representations with Smooth Encoders](2020/Adversarially_Robust_Representations_with_Smooth_Encoders.md) :thought_balloon:
-16. `ICML 2019` [Interpreting Adversarially Trained Convolutional Neural Networks](./2019/Interpreting_Adversarially_Trained_Convolutional_Neural_Networks.md)
-17. `ICLR 2019` [Robustness May Be at Odds with Accuracy](./2019/Robustness_May_Be_at_Odds_with_Accuracy.md):thought_balloon:
-18. `IJCAI 2019` [Improving the Robustness of Deep Neural Networks via Adversarial Training with Triplet Loss](./2019/Improving_the_Robustness_of_Deep_Neural_Networks_via_Adversarial_Training_with_Triplet_Loss.md)
-19. `ICML 2019` [Adversarial Examples Are a Natural Consequence of Test Error in Noise](./2019/Adversarial_Examples_Are_a_Natural_Consequence_of_Test_Error_in_Noise.md):thought_balloon:
-20. `ARXIV 2020` [Heat and Blur: An Effective and Fast Defense Against Adversarial Examples](./2020/Heat_and_Blur_An_Effective_and_Fast_Defense_Against_Adversarial_Examples.md)
-21. `ARXIV 2018` [Adversarial Logit Pairing](./2018/Adversarial_Logit_Pairing.md)
-22. `ICML 2019` [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](./2019/On_the_Connection_Between_Adversarial_Robustness_and_Saliency_Map_Interpretability.md)
-23. `NIPS 2019` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training](./2019/Defense_Against_Adversarial_Attacks_Using_Feature_Scattering_based_Adversarial_Training.md):thought_balloon:
-24. `NIPS 2016` [Robustness of classifiers: from adversarial to random noise](./2016/Robustness_of_classifiers_from_adversarial_to_random_noise.md) :thought_balloon:
-25. `CVPR 2018` [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser](./2018/Defense_Against_Adversarial_Attacks_Using_High_Level_Representation_Guided_Denoiser.md)
-26. `ICML 2019` [Using Pre-Training Can Improve Model Robustness and Uncertainty](./2019/Using_Pre_Training_Can_Improve_Model_Robustness_and_Uncertainty.md)
-27. `ICML 2020` [Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference](./2020/Triple_Wins_Boosting_Accuracy_Robustness_and_Efficiency_Together_by_Enabling_Input_Adaptive_Inference.md)
-28. `ICCV 2019` [Adversarial Learning With Margin-Based Triplet Embedding Regularization](./2019/Adversarial_Learning_With_Margin_Based_Triplet_Embedding_Regularization.md)
-29. `ICCV 2019` [CIIDefence: Defeating Adversarial Attacks by Fusing Class-Specific Image Inpainting and Image Denoising](./2019/CIIDefence_Defeating_Adversarial_Attacks_by_Fusing_Class_Specific_Image_Inpainting_and_Image_Denoising.md)
-30. `NIPS 2019` [Adversarial Examples Are Not Bugs, They Are Features](./2019/Adversarial_Examples_Are_Not_Bugs_They_Are_Features.md)
-31. `ARXIV 2018` [Evaluating and understanding the robustness of adversarial logit pairing](./2018/Evaluating_and_understanding_the_robustness_of_adversarial_logit_pairing.md)
-32. `CVPR 2020` [Wavelet Integrated CNNs for Noise-Robust Image Classification](./2020/Wavelet_Integrated_CNNs_for_Noise_Robust_Image_Classification.md)
-33. `ARXIV 2020` [Deflecting Adversarial Attacks](./2020/Deflecting_Adversarial_Attacks.md)
-34. `ARXIV 2017` [Countering Adversarial Images using Input Transformations](./2017/Countering_Adversarial_Images_using_Input_Transformations.md)
-35. `ICLR 2020` [Robust Local Features for Improving the Generalization of Adversarial Training](./2020/Robust_Local_Features_for_Improving_the_Generalization_of_Adversarial_Training.md)
-36. `ARXIV 2014`  [Towards deep neural network architectures robust to adversarial examples](2014/Towards_deep_neural_network_architectures_robust_to_adversarial_examples.md)
-37. `ICLR 2020` [Enhancing Transformation-Based Defenses Against Adversarial Attacks with a Distribution Classifier](./2020/Enhancing_Transformation_Based_Defenses_Against_Adversarial_Attacks_with_a_Distribution_Classifier.md)
-38. `ARXIV 2019` [Defending Adversarial Attacks by Correcting logits](./2019/Defending_Adversarial_Attacks_by_Correcting_logits.md)
-39. `CVPR 2020` [A Self-supervised Approach for Adversarial Robustness](./2020/A_Self_supervised_Approach_for_Adversarial_Robustness.md)
-40. `NeurIPS 2019` [Metric Learning for Adversarial Robustness](./2019/Metric_Learning_for_Adversarial_Robustness.md)
-41. `ICLR 2020` [Improving Adversarial Robustness Requires Revisiting Misclassified Examples](./2019/Improving_the_Robustness_of_Deep_Neural_Networks_via_Adversarial_Training_with_Triplet_Loss.md) :thumbsup:
-42. `ICCV 2019` Improving Adversarial Robustness via Guided Complement Entropy
-43. `ICCV 2017` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
-44. `CVPR 2019` [Adversarial defense by stratified convolutional sparse coding]
+### 2014
+1.  `ARXIV`  [Towards deep neural network architectures robust to adversarial examples](2014/Towards_deep_neural_network_architectures_robust_to_adversarial_examples.md)
+
+### 2016
+1.  `NIPS` [Robustness of classifiers: from adversarial to random noise](./2016/Robustness_of_classifiers_from_adversarial_to_random_noise.md) :thought_balloon:
+
+### 2017
+1. `ARXIV` [Countering Adversarial Images using Input Transformations](./2017/Countering_Adversarial_Images_using_Input_Transformations.md)
+2. `ICCV` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+3. `Arxiv` `Detection` [Detecting adversarial samples from artifacts](./2017/Detecting_Adversarial_Samples_from_Artifacts.md)
+4. `ICLR` `Detection` [On Detecting Adversarial Perturbations](./2017/On_Detecting_Adversarial_Perturbations.md) :thought_balloon:
+
+### 2018
+1. `ICLR` [Defense-{GAN}: Protecting Classifiers Against Adversarial Attacks Using Generative Models](./2018/Defense-{GAN}_Protecting_Classifiers_Against_Adversarial_Attacks_Using_Generative_Models.md)
+2. . `ICLR` [Ensemble Adversarial Training: Attacks and Defences](./2018/Ensemble_Adversarial_Training_Attacks_and_Defenses.md)
+3.  `CVPR` [Defense Against Universal Adversarial Perturbations](./2018/Defense_Against_Universal_Adversarial_Perturbations.md)
+4.  `CVPR` [Deflecting Adversarial Attacks With Pixel Deflection](./2018/Deflecting_Adversarial_Attacks_With_Pixel_Deflection.md)
+5.  `TPAMI` [Virtual adversarial training: a regularization method for supervised and semi-supervised learning](./2018/Virtual_adversarial_training_a_regularization_method_for_supervised_and_semi_supervised_learning.md) :thought_balloon:
+6.  `ARXIV` [Adversarial Logit Pairing](./2018/Adversarial_Logit_Pairing.md)
+7.  `CVPR` [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser](./2018/Defense_Against_Adversarial_Attacks_Using_High_Level_Representation_Guided_Denoiser.md)
+8.  `ARXIV` [Evaluating and understanding the robustness of adversarial logit pairing](./2018/Evaluating_and_understanding_the_robustness_of_adversarial_logit_pairing.md)
+
+### 2019
+1. `NIPS` [Adversarial Training and Robustness for Multiple Perturbations](./2019/Adversarial_Training_and_Robustness_for_Multiple_Perturbations.md)
+2. `NIPS` [Adversarial Robustness through Local Linearization](./2019/Adversarial_Robustness_through_Local_Linearization.md)
+3.  `CVPR` [Retrieval-Augmented Convolutional Neural Networks against Adversarial Examples](./2019/Retrieval_Augmented_Convolutional_Neural_Networks_against_Adversarial_Examples.md)
+4.  `CVPR` [Feature Denoising for Improving Adversarial Robustness](./2019/Feature_Denoising_for_Improving_Adversarial_Robustness.md)
+5.  `NEURIPS` [A New Defense Against Adversarial Images: Turning a Weakness into a Strength](./2019/A_New_Defense_Against_Adversarial_Images_Turning_a_Weakness_into_a_Strength.md)
+6.  `ICML` [Interpreting Adversarially Trained Convolutional Neural Networks](./2019/Interpreting_Adversarially_Trained_Convolutional_Neural_Networks.md)
+7.  `ICLR` [Robustness May Be at Odds with Accuracy](./2019/Robustness_May_Be_at_Odds_with_Accuracy.md):thought_balloon:
+8.  `IJCAI` [Improving the Robustness of Deep Neural Networks via Adversarial Training with Triplet Loss](./2019/Improving_the_Robustness_of_Deep_Neural_Networks_via_Adversarial_Training_with_Triplet_Loss.md)
+9.  `ICML` [Adversarial Examples Are a Natural Consequence of Test Error in Noise](./2019/Adversarial_Examples_Are_a_Natural_Consequence_of_Test_Error_in_Noise.md):thought_balloon:
+10. `ICML` [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](./2019/On_the_Connection_Between_Adversarial_Robustness_and_Saliency_Map_Interpretability.md)
+11. `NeurIPS` [Metric Learning for Adversarial Robustness](./2019/Metric_Learning_for_Adversarial_Robustness.md)
+12. `ARXIV` [Defending Adversarial Attacks by Correcting logits](./2019/Defending_Adversarial_Attacks_by_Correcting_logits.md)
+13. `ICCV` [Adversarial Learning With Margin-Based Triplet Embedding Regularization](./2019/Adversarial_Learning_With_Margin_Based_Triplet_Embedding_Regularization.md)
+14. `ICCV` [CIIDefence: Defeating Adversarial Attacks by Fusing Class-Specific Image Inpainting and Image Denoising](./2019/CIIDefence_Defeating_Adversarial_Attacks_by_Fusing_Class_Specific_Image_Inpainting_and_Image_Denoising.md)
+15. `NIPS` [Adversarial Examples Are Not Bugs, They Are Features](./2019/Adversarial_Examples_Are_Not_Bugs_They_Are_Features.md)
+16. `ICML` [Using Pre-Training Can Improve Model Robustness and Uncertainty](./2019/Using_Pre_Training_Can_Improve_Model_Robustness_and_Uncertainty.md)
+17. `NIPS` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training](./2019/Defense_Against_Adversarial_Attacks_Using_Feature_Scattering_based_Adversarial_Training.md):thought_balloon:
+18. `ICCV` Improving Adversarial Robustness via Guided Complement Entropy
+19. `CVPR` [Adversarial defense by stratified convolutional sparse coding]
+
+### 2020
+1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
+2. `CVPR` [What it Thinks is Important is Important: Robustness Transfers through Input Gradients](./2020/What_it_Thinks_is_Important_is_Important_Robustness_Transfers_through_Input_Gradients.md)
+3.  `ICLR` [Adversarially Robust Representations with Smooth Encoders](2020/Adversarially_Robust_Representations_with_Smooth_Encoders.md) :thought_balloon:
+4.  `ARXIV` [Heat and Blur: An Effective and Fast Defense Against Adversarial Examples](./2020/Heat_and_Blur_An_Effective_and_Fast_Defense_Against_Adversarial_Examples.md)
+5.  `ICML` [Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference](./2020/Triple_Wins_Boosting_Accuracy_Robustness_and_Efficiency_Together_by_Enabling_Input_Adaptive_Inference.md)
+6.  `CVPR` [Wavelet Integrated CNNs for Noise-Robust Image Classification](./2020/Wavelet_Integrated_CNNs_for_Noise_Robust_Image_Classification.md)
+7.  `ARXIV` [Deflecting Adversarial Attacks](./2020/Deflecting_Adversarial_Attacks.md)
+8.  `ICLR` [Robust Local Features for Improving the Generalization of Adversarial Training](./2020/Robust_Local_Features_for_Improving_the_Generalization_of_Adversarial_Training.md)
+9.  `ICLR` [Enhancing Transformation-Based Defenses Against Adversarial Attacks with a Distribution Classifier](./2020/Enhancing_Transformation_Based_Defenses_Against_Adversarial_Attacks_with_a_Distribution_Classifier.md)
+10. `CVPR` [A Self-supervised Approach for Adversarial Robustness](./2020/A_Self_supervised_Approach_for_Adversarial_Robustness.md)
+11. `ICLR` [Improving Adversarial Robustness Requires Revisiting Misclassified Examples](./2019/Improving_the_Robustness_of_Deep_Neural_Networks_via_Adversarial_Training_with_Triplet_Loss.md) :thumbsup:
 
 ## 4th-Class
 1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
