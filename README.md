@@ -140,6 +140,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 17. `NIPS` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training](./2019/Defense_Against_Adversarial_Attacks_Using_Feature_Scattering_based_Adversarial_Training.md):thought_balloon:
 18. `ICCV` Improving Adversarial Robustness via Guided Complement Entropy
 19. `CVPR` [Adversarial defense by stratified convolutional sparse coding]
+20. `ICLR` [Theoretically Principled Trade-off between Robustness and Accuracy]
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
@@ -153,13 +154,14 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 9.  `ICLR` [Enhancing Transformation-Based Defenses Against Adversarial Attacks with a Distribution Classifier](./2020/Enhancing_Transformation_Based_Defenses_Against_Adversarial_Attacks_with_a_Distribution_Classifier.md)
 10. `CVPR` [A Self-supervised Approach for Adversarial Robustness](./2020/A_Self_supervised_Approach_for_Adversarial_Robustness.md)
 11. `ICLR` [Improving Adversarial Robustness Requires Revisiting Misclassified Examples](./2019/Improving_the_Robustness_of_Deep_Neural_Networks_via_Adversarial_Training_with_Triplet_Loss.md) :thumbsup:
+12. `ARXIV` [Manifold regularization for adversarial robustness]
 
 ## 4th-Class
-1. `ICCV 2017` `CVAE-GAN` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
-2. `ICML 2016` `VAE-GAN` [Autoencoding beyond pixels using a learned similarity metric](./2016/Autoencoding_beyond_pixels_using_a_learned_similarity_metric.md) 
-3. `ARXIV 2019` `DATASET` [Natural Adversarial Examples](./2019/Natural_Adversarial_Examples.md)
-4. `ICML 2017` `AC-GAN` [Conditional Image Synthesis with Auxiliary Classifier {GAN}s](./2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md)
-5. `ICCV 2019` `SinGAN` [SinGAN: Learning a Generative Model From a Single Natural Image](./2019/SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image.md)
+1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
+2. `ICML 2016` [Autoencoding beyond pixels using a learned similarity metric](./2016/Autoencoding_beyond_pixels_using_a_learned_similarity_metric.md) 
+3. `ARXIV 2019` [Natural Adversarial Examples](./2019/Natural_Adversarial_Examples.md)
+4. `ICML 2017` [Conditional Image Synthesis with Auxiliary Classifier {GAN}s](./2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md)
+5. `ICCV 2019` [SinGAN: Learning a Generative Model From a Single Natural Image](./2019/SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image.md)
 6. `ICLR 2020` [Robust And Interpretable Blind Image Denoising Via Bias-Free Convolutional Neural Networks](./2020/Robust_And_Interpretable_Blind_Image_Denoising_Via_Bias_Free_Convolutional_Neural_Networks.md)
 7. `ICLR 2020` [Pay Attention to Features, Transfer Learn Faster CNNs](./2020/Pay_Attention_to_Features_Transfer_Learn_Faster_CNNs.md)
 8. `ICLR 2020` [On Robustness of Neural Ordinary Differential Equations](./2020/On_Robustness_of_Neural_Ordinary_Differential_Equations.md)
