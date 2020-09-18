@@ -20,6 +20,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 12. `2020` [Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review](https://arxiv.org/abs/2007.10760)
 13. `2020` [Learning from Noisy Labels with Deep Neural Networks: A Survey](https://arxiv.org/pdf/2007.08199.pdf)
 14. `2020` [Adversarial Machine Learning in Image Classification: A Survey Towards the Defender's Perspective](https://arxiv.org/pdf/2009.03728.pdf)
+15. `2020` [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
 
 
 ## Attack
@@ -119,6 +120,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 6.  `ARXIV` [Adversarial Logit Pairing](./2018/Adversarial_Logit_Pairing.md)
 7.  `CVPR` [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser](./2018/Defense_Against_Adversarial_Attacks_Using_High_Level_Representation_Guided_Denoiser.md)
 8.  `ARXIV` [Evaluating and understanding the robustness of adversarial logit pairing](./2018/Evaluating_and_understanding_the_robustness_of_adversarial_logit_pairing.md)
+9.  `CCS` [Machine Learning with Membership Privacy Using Adversarial Regularization]
 
 ### 2019
 1. `NIPS` [Adversarial Training and Robustness for Multiple Perturbations](./2019/Adversarial_Training_and_Robustness_for_Multiple_Perturbations.md)
@@ -138,7 +140,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 15. `NIPS` [Adversarial Examples Are Not Bugs, They Are Features](./2019/Adversarial_Examples_Are_Not_Bugs_They_Are_Features.md)
 16. `ICML` [Using Pre-Training Can Improve Model Robustness and Uncertainty](./2019/Using_Pre_Training_Can_Improve_Model_Robustness_and_Uncertainty.md)
 17. `NIPS` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training](./2019/Defense_Against_Adversarial_Attacks_Using_Feature_Scattering_based_Adversarial_Training.md):thought_balloon:
-18. `ICCV` Improving Adversarial Robustness via Guided Complement Entropy
+18. `ICCV` [Improving Adversarial Robustness via Guided Complement Entropy](/2019/Improving_Adversarial_Robustness_via_Guided_Complement_Entropy.md)
 19. `CVPR` [Adversarial defense by stratified convolutional sparse coding]
 20. `ICLR` [Theoretically Principled Trade-off between Robustness and Accuracy]
 

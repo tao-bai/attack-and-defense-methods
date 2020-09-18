@@ -4,7 +4,7 @@
 ## Method(s)
 ## Evaluation
 ## Conclusion
-## Reference
+## Related work
 
 ```
 # Title
