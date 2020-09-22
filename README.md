@@ -120,7 +120,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 6.  `ARXIV` [Adversarial Logit Pairing](./2018/Adversarial_Logit_Pairing.md)
 7.  `CVPR` [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser](./2018/Defense_Against_Adversarial_Attacks_Using_High_Level_Representation_Guided_Denoiser.md)
 8.  `ARXIV` [Evaluating and understanding the robustness of adversarial logit pairing](./2018/Evaluating_and_understanding_the_robustness_of_adversarial_logit_pairing.md)
-9.  `CCS` [Machine Learning with Membership Privacy Using Adversarial Regularization]
+9.  `CCS` [Machine Learning with Membership Privacy Using Adversarial Regularization](./2018/Machine_Learning_with_Membership_Privacy_Using_Adversarial_Regularization.md)
 
 ### 2019
 1. `NIPS` [Adversarial Training and Robustness for Multiple Perturbations](./2019/Adversarial_Training_and_Robustness_for_Multiple_Perturbations.md)
