@@ -141,7 +141,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 16. `ICML` [Using Pre-Training Can Improve Model Robustness and Uncertainty](./2019/Using_Pre_Training_Can_Improve_Model_Robustness_and_Uncertainty.md)
 17. `NIPS` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training](./2019/Defense_Against_Adversarial_Attacks_Using_Feature_Scattering_based_Adversarial_Training.md):thought_balloon:
 18. `ICCV` [Improving Adversarial Robustness via Guided Complement Entropy](/2019/Improving_Adversarial_Robustness_via_Guided_Complement_Entropy.md)
-19. `NIPS` [Robust Attribution Regularization](./2019/Robust_Attribution_Regularization.md)
+19. `NIPS` [Robust Attribution Regularization](./2019/Robust_Attribution_Regularization.md) :thought_balloon:
 20. `CVPR` [Adversarial defense by stratified convolutional sparse coding]
 21. `ICLR` [Theoretically Principled Trade-off between Robustness and Accuracy]
 
