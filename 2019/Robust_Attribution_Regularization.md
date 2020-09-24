@@ -17,3 +17,4 @@ Didn't understand.
 ## Evaluation
 ## Conclusion
 ## Related work
+1. Sundararajan, M., Taly, A., & Yan, Q. (2017). Axiomatic Attribution for Deep Networks. Proceedings of the 34th International Conference on Machine Learning - Volume 70, 3319–3328. JMLR.org.
