@@ -142,8 +142,9 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 17. `NIPS` [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training](./2019/Defense_Against_Adversarial_Attacks_Using_Feature_Scattering_based_Adversarial_Training.md):thought_balloon:
 18. `ICCV` [Improving Adversarial Robustness via Guided Complement Entropy](/2019/Improving_Adversarial_Robustness_via_Guided_Complement_Entropy.md)
 19. `NIPS` [Robust Attribution Regularization](./2019/Robust_Attribution_Regularization.md) :thought_balloon:
-20. `CVPR` [Adversarial defense by stratified convolutional sparse coding]
-21. `ICLR` [Theoretically Principled Trade-off between Robustness and Accuracy]
+20. `NIPS` [Are Labels Required for Improving Adversarial Robustness?](./2019/Are_Labels_Required_for_Improving_Adversarial_Robustness.md)
+21. `CVPR` [Adversarial defense by stratified convolutional sparse coding]
+22. `ICLR` [Theoretically Principled Trade-off between Robustness and Accuracy]
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
@@ -181,12 +182,13 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 19. `ICML 2019` [Noise2Self: Blind Denoising by Self-Supervision](./2019/Noise2Self_Blind_Denoising_by_Self_Supervision.md)
 20. `ARXIV 2020` [Supervised Contrastive Learning](./2020/Supervised_Contrastive_Learning.md)
 21. `CVPR 2020` [High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks](./2020/High_Frequency_Component_Helps_Explain_the_Generalization_of_Convolutional_Neural_Networks.md)
-22. `ARXIV 2020` [An Adversarial Approach for Explaining the Predictions of Deep Neural Networks]
-23. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
-24. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
-25. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
-26. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
-27. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+22. `NIPS 2017` [Counterfactual Fairness]
+23. `ARXIV 2020` [An Adversarial Approach for Explaining the Predictions of Deep Neural Networks]
+24. `CVPR 2014` [Rich feature hierarchies for accurate object detection and semantic segmentation]
+25. `ICLR 2018` [Spectral Normalization for Generative Adversarial Networks]
+26. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
+27. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
+28. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 
 
 ## Links
