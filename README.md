@@ -143,8 +143,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 18. `ICCV` [Improving Adversarial Robustness via Guided Complement Entropy](/2019/Improving_Adversarial_Robustness_via_Guided_Complement_Entropy.md)
 19. `NIPS` [Robust Attribution Regularization](./2019/Robust_Attribution_Regularization.md) :thought_balloon:
 20. `NIPS` [Are Labels Required for Improving Adversarial Robustness?](./2019/Are_Labels_Required_for_Improving_Adversarial_Robustness.md)
-21. `CVPR` [Adversarial defense by stratified convolutional sparse coding]
-22. `ICLR` [Theoretically Principled Trade-off between Robustness and Accuracy]
+21. `ICLR` [Theoretically Principled Trade-off between Robustness and Accuracy](./2019/Theoretically_Principled_Trade_off_between_Robustness_and_Accuracy.md)
+22. `CVPR` [Adversarial defense by stratified convolutional sparse coding]
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
