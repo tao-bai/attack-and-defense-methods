@@ -160,6 +160,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 11. `ICLR` [Improving Adversarial Robustness Requires Revisiting Misclassified Examples](./2019/Improving_the_Robustness_of_Deep_Neural_Networks_via_Adversarial_Training_with_Triplet_Loss.md) :thumbsup:
 12. `ARXIV` [Manifold regularization for adversarial robustness](2020/Manifold_regularization_for_adversarial_robustness.md)
 13. `NeurIPS` [DVERGE: Diversifying Vulnerabilities for Enhanced Robust Generation of Ensembles](./2020/DVERGE_Diversifying_Vulnerabilities_for_Enhanced_Robust_Generation_of_Ensembles.md)
+14. `ARXIV` [A Closer Look at Accuracy vs. Robustness](./2020/A_Closer_Look_at_Accuracy_vs_Robustness.md)
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
