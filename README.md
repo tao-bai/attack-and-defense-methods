@@ -164,6 +164,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 14. `ARXIV` [A Closer Look at Accuracy vs. Robustness](./2020/A_Closer_Look_at_Accuracy_vs_Robustness.md)
 15. `NeurIPS` [Energy-based Out-of-distribution Detection](./2020/Energy_based_Out_of_distribution_Detection.md)
 16. `ARXIV` [Out-of-Distribution Generalization via Risk Extrapolation (REx)](./2020/Out_of_Distribution_Generalization_via_Risk_Extrapolation.md)
+17. `ICML` [Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks] :thumbsup:
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
