@@ -95,8 +95,10 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 20. `ICLR` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
 
 ### 2020
-1.  `ICLR` [Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking](./2020/Fooling_Detection_Alone_is_Not_Enough_Adversarial_Attack_against_Multiple_Object_Tracking.md):thought_balloon:
-2.  `ARXIV` [Sponge Examples: Energy-Latency Attacks on Neural Networks]
+1. `ICLR` [Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking](./2020/Fooling_Detection_Alone_is_Not_Enough_Adversarial_Attack_against_Multiple_Object_Tracking.md):thought_balloon:
+2. `ARXIV` [Sponge Examples: Energy-Latency Attacks on Neural Networks]
+3. `ICML` [Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack]
+4. `ICML` [Stronger and Faster Wasserstein Adversarial Attacks]
 
 
 ## Defence
@@ -165,6 +167,15 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 15. `NeurIPS` [Energy-based Out-of-distribution Detection](./2020/Energy_based_Out_of_distribution_Detection.md)
 16. `ARXIV` [Out-of-Distribution Generalization via Risk Extrapolation (REx)](./2020/Out_of_Distribution_Generalization_via_Risk_Extrapolation.md)
 17. `ICML` [Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks] :thumbsup:
+18. `ICML` [Efficiently Learning Adversarially Robust Halfspaces with Noise]
+19. `ICML` [Implicit Euler Skip Connections: Enhancing Adversarial Robustness via Numerical Stability]
+20. `ICML` [Friendly Adversarial Training: Attacks Which Do Not Kill Training Make Adversarial Learning Stronger]
+21. `ICML` [Learning Adversarially Robust Representations via Worst-Case Mutual Information Maximization] :thumbsup:
+22. `ICML` [Overfitting in adversarially robust deep learning] :thumbsup:
+23. `ICML` [Proper Network Interpretability Helps Adversarial Robustness in Classification]
+24. `ICML` [Randomization matters How to defend against strong adversarial attacks]
+25. `ICML` [Reliable Evaluation of Adversarial Robustness with an Ensemble of Diverse Parameter-free Attacks]
+26. `ICML` [Towards Understanding the Regularization of Adversarial Robustness on Neural Networks]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
@@ -195,6 +206,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 26. `NIPS 2018` [MetaGAN: An Adversarial Approach to Few-Shot Learning]
 27. `ARXIV 2019` [Breaking the cycle -- Colleagues are all you need]
 28. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+29. `ICML 2020` [Margin-aware Adversarial Domain Adaptation with Optimal Transport] 
+30. `ICML 2020` [Representation Learning Using Adversarially-Contrastive Optimal Transport]
 
 
 ## Links
