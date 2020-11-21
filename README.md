@@ -22,6 +22,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 14. `2020` [Adversarial Machine Learning in Image Classification: A Survey Towards the Defender's Perspective](https://arxiv.org/pdf/2009.03728.pdf)
 15. `2020` [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
 16. `2019` [A Survey of Black-Box Adversarial Attacks on Computer Vision Models](https://arxiv.org/abs/1912.01667)
+17. `2020` [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)
 
 
 ## Attack
