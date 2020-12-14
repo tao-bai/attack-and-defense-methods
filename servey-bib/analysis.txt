@@ -1,0 +1,80 @@
+@inproceedings{wang2019convergence,
+  title={On the Convergence and Robustness of Adversarial Training.},
+  author={Wang, Yisen and Ma, Xingjun and Bailey, James and Yi, Jinfeng and Zhou, Bowen and Gu, Quanquan},
+  booktitle={ICML},
+  volume={1},
+  pages={2},
+  year={2019}
+}
+@inproceedings{gao2019convergence,
+  title={Convergence of adversarial training in overparametrized neural networks},
+  author={Gao, Ruiqi and Cai, Tianle and Li, Haochuan and Hsieh, Cho-Jui and Wang, Liwei and Lee, Jason D},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={13029--13040},
+  year={2019}
+}
+@article{zhang2019limitations,
+  title={The limitations of adversarial training and the blind-spot attack},
+  author={Zhang, Huan and Chen, Hongge and Song, Zhao and Boning, Duane and Dhillon, Inderjit S and Hsieh, Cho-Jui},
+  journal={arXiv preprint arXiv:1901.04684},
+  year={2019}
+}
+@article{gao2019convergence,
+  title={Convergence of adversarial training in overparametrized networks},
+  author={Gao, Ruiqi and Cai, Tianle and Li, Haochuan and Wang, Liwei and Hsieh, Cho-Jui and Lee, Jason D},
+  journal={arXiv preprint arXiv:1906.07916},
+  year={2019}
+}
+@article{javanmard2020precise,
+  title={Precise tradeoffs in adversarial training for linear regression},
+  author={Javanmard, Adel and Soltanolkotabi, Mahdi and Hassani, Hamed},
+  journal={arXiv preprint arXiv:2002.10477},
+  year={2020}
+}
+@article{shaham2015understanding,
+  title={Understanding adversarial training: Increasing local stability of neural nets through robust optimization},
+  author={Shaham, Uri and Yamada, Yutaro and Negahban, Sahand},
+  journal={arXiv preprint arXiv:1511.05432},
+  year={2015}
+}
+@article{galloway2018adversarial,
+  title={Adversarial training versus weight decay},
+  author={Galloway, Angus and Tanay, Thomas and Taylor, Graham W},
+  journal={arXiv preprint arXiv:1804.03308},
+  year={2018}
+}
+@article{terzi2020adversarial,
+  title={Adversarial training reduces information and improves transferability},
+  author={Terzi, Matteo and Achille, Alessandro and Maggipinto, Marco and Susto, Gian Antonio},
+  journal={arXiv preprint arXiv:2007.11259},
+  year={2020}
+}
+@inproceedings{balunovic2019adversarial,
+  title={Adversarial training and provable defenses: Bridging the gap},
+  author={Balunovic, Mislav and Vechev, Martin},
+  booktitle={International Conference on Learning Representations},
+  year={2019}
+}
+
+Precise statistical analysis of classification accuracies for adversarial training
+
+Understanding adversarial training: Increasing local stability of supervised models through robust optimization
+
+Regularizing deep networks using efficient layerwise adversarial training
+
+Adversarial Training is a Form of Data-dependent Operator Norm Regularization
+
+Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples
+
+Over-parameterized Adversarial Training: An Analysis Overcoming the Curse of Dimensionality
+
+Feature Purification: How Adversarial Training Performs Robust Deep Learning
+MixUp as Directional Adversarial Training
+Adversarial Training with Stochastic Weight Average
+
+Robust or private? adversarial training makes models more vulnerable to privacy attacks
+On norm-agnostic robustness of adversarial training
+Is pgd-adversarial training necessary? alternative training via a soft-quantization network with noisy-natural samples only
+Adversarial Training and Provable Robustness: A Tale of Two Objectives
+Overfitting or Underfitting? Understand Robustness Drop in Adversarial Training
+On the Effectiveness of Adversarial Training in Defending against Adversarial Example Attacks for Image Classification
