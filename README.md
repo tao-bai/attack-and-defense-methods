@@ -104,16 +104,23 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 
 ## Defence
 ### 2014
-1.  `ARXIV`  [Towards deep neural network architectures robust to adversarial examples](2014/Towards_deep_neural_network_architectures_robust_to_adversarial_examples.md)
+1. `ARXIV`  [Towards deep neural network architectures robust to adversarial examples](2014/Towards_deep_neural_network_architectures_robust_to_adversarial_examples.md)
+
+### 2015
+1. [Learning with a strong adversary]
+2. [IMPROVING BACK-PROPAGATION BY ADDING AN ADVERSARIAL GRADIENT]
+3. [Distributional Smoothing with Virtual Adversarial Training]
+
 
 ### 2016
-1.  `NIPS` [Robustness of classifiers: from adversarial to random noise](./2016/Robustness_of_classifiers_from_adversarial_to_random_noise.md) :thought_balloon:
+1. `NIPS` [Robustness of classifiers: from adversarial to random noise](./2016/Robustness_of_classifiers_from_adversarial_to_random_noise.md) :thought_balloon:
 
 ### 2017
 1. `ARXIV` [Countering Adversarial Images using Input Transformations](./2017/Countering_Adversarial_Images_using_Input_Transformations.md)
 2. `ICCV` [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
-3. `Arxiv` `Detection` [Detecting adversarial samples from artifacts](./2017/Detecting_Adversarial_Samples_from_Artifacts.md)
-4. `ICLR` `Detection` [On Detecting Adversarial Perturbations](./2017/On_Detecting_Adversarial_Perturbations.md) :thought_balloon:
+3. `Arxiv` [Detecting adversarial samples from artifacts](./2017/Detecting_Adversarial_Samples_from_Artifacts.md)
+4. `ICLR` [On Detecting Adversarial Perturbations](./2017/On_Detecting_Adversarial_Perturbations.md) :thought_balloon:
+5. `ASIA CCS` [Practical black-box attacks against machine learning]
 
 ### 2018
 1. `ICLR` [Defense-{GAN}: Protecting Classifiers Against Adversarial Attacks Using Generative Models](./2018/Defense-{GAN}_Protecting_Classifiers_Against_Adversarial_Attacks_Using_Generative_Models.md)
