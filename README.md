@@ -8,22 +8,23 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 ## Survey
 1. `TNNLS 2019` [Adversarial Examples: Attacks and Defenses for Deep Learning](https://ieeexplore.ieee.org/document/8611298)
 2. `IEEE ACCESS 2018` [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://ieeexplore.ieee.org/document/8294186)
-3. `2019` [Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072.pdf)
-4. `2019` [A Study of Black Box Adversarial Attacks in Computer Vision](https://arxiv.org/pdf/1912.01667.pdf)
-5. `2019` [Adversarial Examples in Modern Machine Learning: A Review](https://arxiv.org/pdf/1911.05268.pdf)
+3. `2019` [Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072)
+4. `2019` [A Study of Black Box Adversarial Attacks in Computer Vision](https://arxiv.org/pdf/1912.01667)
+5. `2019` [Adversarial Examples in Modern Machine Learning: A Review](https://arxiv.org/pdf/1911.05268)
 6. `2020` [Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey](https://arxiv.org/abs/2007.00753)
-7. `2020` [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence\ A Review and New Outlooks](https://arxiv.org/pdf/2004.05937.pdf)
-8. `2019` [Adversarial attack and defense in reinforcement learning-from AI security view](https://arxiv.org/pdf/1901.06796.pdf)
+7. `2020` [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence\ A Review and New Outlooks](https://arxiv.org/pdf/2004.05937)
+8. `2019` [Adversarial attack and defense in reinforcement learning-from AI security view](https://arxiv.org/pdf/1901.06796)
 9. `2020` [A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646)
 10. `2020` [Learning from Noisy Labels with Deep Neural Networks: A Survey](https://arxiv.org/abs/2007.08199)
 11. `2020` [Optimization for Deep Learning: An Overview](https://link.springer.com/epdf/10.1007/s40305-020-00309-6?sharing_token=Xv0f6yBzgc1QnNAUbQ9pufe4RwlQNchNByi7wbcMAY56wZ54Vxigc8CL-kHvhiYpSthXAu14ZSiMmkrVuqUSJUCRoWymQqZbEnVDQvz2sEBOiX8dkkGxS7bI7irClme0cEKnUtpyPIJONJQQDAiWTskwNws64eAd2xKnqi3nYOY%3D)
 12. `2020` [Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review](https://arxiv.org/abs/2007.10760)
-13. `2020` [Learning from Noisy Labels with Deep Neural Networks: A Survey](https://arxiv.org/pdf/2007.08199.pdf)
-14. `2020` [Adversarial Machine Learning in Image Classification: A Survey Towards the Defender's Perspective](https://arxiv.org/pdf/2009.03728.pdf)
+13. `2020` [Learning from Noisy Labels with Deep Neural Networks: A Survey](https://arxiv.org/pdf/2007.08199)
+14. `2020` [Adversarial Machine Learning in Image Classification: A Survey Towards the Defender's Perspective](https://arxiv.org/pdf/2009.03728)
 15. `2020` [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
 16. `2019` [A Survey of Black-Box Adversarial Attacks on Computer Vision Models](https://arxiv.org/abs/1912.01667)
 17. `2020` [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)
-
+18. `2020` [Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)
+19. `2020` [A Survey on Neural Network Interpretability](https://arxiv.org/abs/2012.14261)
 
 ## Attack
 ### 2013
@@ -47,14 +48,15 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 
 
 ### 2017
-1.  `ICLR` [Delving into Transferable Adversarial Examples and Black-box Attacks](./2017/Delving_into_Transferable_Adversarial_Examples_and_Black-box_Attacks.md)
-2.  `CVPR` [Universal Adversarial Perturbations](./2017/Universal_Adversarial_Perturbations.md)
-3.  `ICCV` [Adversarial Examples for Semantic Segmentation and Object Detection](./2017/Adversarial_Examples_for_Semantic_Segmentation_and_Object_Detection.md)
-4.  `ARXIV` [Adversarial Examples that Fool Detectors](./2017/Adversarial_Examples_that_Fool_Detectors.md)
-5.  `CVPR` [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection](./2017/A-Fast-RCNN_Hard_Positive_Generation_via_Adversary_for_Object_Detection.md)
-6.  `ICCV` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics](./2017/Adversarial_Examples_Detection_in_Deep_Networks_with_Convolutional_Filter_Statistics.md)
-7.  `AIS` [Adversarial examples are not easily detected: Bypassing ten detection methods]
-8.  `ICCV` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+1. `ICLR` [Delving into Transferable Adversarial Examples and Black-box Attacks](./2017/Delving_into_Transferable_Adversarial_Examples_and_Black-box_Attacks.md)
+2. `CVPR` [Universal Adversarial Perturbations](./2017/Universal_Adversarial_Perturbations.md)
+3. `ICCV` [Adversarial Examples for Semantic Segmentation and Object Detection](./2017/Adversarial_Examples_for_Semantic_Segmentation_and_Object_Detection.md)
+4. `ARXIV` [Adversarial Examples that Fool Detectors](./2017/Adversarial_Examples_that_Fool_Detectors.md)
+5. `CVPR` [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection](./2017/A-Fast-RCNN_Hard_Positive_Generation_via_Adversary_for_Object_Detection.md)
+6. `ICCV` [Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics](./2017/Adversarial_Examples_Detection_in_Deep_Networks_with_Convolutional_Filter_Statistics.md)
+7. `AIS` [Adversarial examples are not easily detected: Bypassing ten detection methods]
+8. `ICCV` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+9. `ICLR` [Adversarial Machine Learning at Scale]
 
 
 ### 2018
@@ -100,6 +102,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 2. `ARXIV` [Sponge Examples: Energy-Latency Attacks on Neural Networks]
 3. `ICML` [Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack]
 4. `ICML` [Stronger and Faster Wasserstein Adversarial Attacks]
+5. `CVPR` [QEBA: Query-Efﬁcient Boundary-Based Blackbox Attack]
 
 
 ## Defence
@@ -156,6 +159,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 20. `NIPS` [Are Labels Required for Improving Adversarial Robustness?](./2019/Are_Labels_Required_for_Improving_Adversarial_Robustness.md)
 21. `ICLR` [Theoretically Principled Trade-off between Robustness and Accuracy](./2019/Theoretically_Principled_Trade_off_between_Robustness_and_Accuracy.md)
 22. `CVPR` [Adversarial defense by stratified convolutional sparse coding]
+23. `ICML` [On the Convergence and Robustness of Adversarial Training]
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
