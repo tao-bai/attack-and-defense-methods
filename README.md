@@ -25,6 +25,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 17. `2020` [Backdoor Learning: A Survey](https://arxiv.org/abs/2007.08745)
 18. `2020` [Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)
 19. `2020` [A Survey on Neural Network Interpretability](https://arxiv.org/abs/2012.14261)
+20. `2020`[A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646)
+21. `2020` [Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses](https://arxiv.org/pdf/2012.10544.pdf)
 
 ## Attack
 ### 2013
@@ -96,6 +98,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 18. `ARXIV` [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
 19. `CVPR` [SparseFool: a few pixels make a big difference]
 20. `ICLR` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
+21. `NeurIPS` [Deep Leakage from Gradients]
 
 ### 2020
 1. `ICLR` [Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking](./2020/Fooling_Detection_Alone_is_Not_Enough_Adversarial_Attack_against_Multiple_Object_Tracking.md):thought_balloon:
@@ -103,6 +106,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 3. `ICML` [Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack]
 4. `ICML` [Stronger and Faster Wasserstein Adversarial Attacks]
 5. `CVPR` [QEBA: Query-Efﬁcient Boundary-Based Blackbox Attack]
+6. `ECCV` [New Threats Against Object Detector with Non-local Block]
 
 
 ## Defence
@@ -189,6 +193,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 25. `ICML` [Randomization matters How to defend against strong adversarial attacks]
 26. `ICML` [Reliable Evaluation of Adversarial Robustness with an Ensemble of Diverse Parameter-free Attacks]
 27. `ICML` [Towards Understanding the Regularization of Adversarial Robustness on Neural Networks]
+28. `ARXIV` [On the Limitations of Denoising Strategies as Adversarial Defenses]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
