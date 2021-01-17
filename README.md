@@ -164,6 +164,9 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 21. `ICLR` [Theoretically Principled Trade-off between Robustness and Accuracy](./2019/Theoretically_Principled_Trade_off_between_Robustness_and_Accuracy.md)
 22. `CVPR` [Adversarial defense by stratified convolutional sparse coding]
 23. `ICML` [On the Convergence and Robustness of Adversarial Training]
+24. `CVPR` [Robustness via Curvature Regularization, and Vice Versa]
+25. `CVPR` [ComDefend: An Efficient Image Compression Model to Defend Adversarial
+Examples]
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
@@ -193,7 +196,9 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 25. `ICML` [Randomization matters How to defend against strong adversarial attacks]
 26. `ICML` [Reliable Evaluation of Adversarial Robustness with an Ensemble of Diverse Parameter-free Attacks]
 27. `ICML` [Towards Understanding the Regularization of Adversarial Robustness on Neural Networks]
-28. `ARXIV` [On the Limitations of Denoising Strategies as Adversarial Defenses]
+
+### 2021
+1. `ARXIV` [On the Limitations of Denoising Strategies as Adversarial Defenses](./2021/On_the_Limitations_of_Denoising_Strategies_as_Adversarial_Defenses.md)
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
