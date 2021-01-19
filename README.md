@@ -196,6 +196,7 @@ Examples]
 25. `ICML` [Randomization matters How to defend against strong adversarial attacks]
 26. `ICML` [Reliable Evaluation of Adversarial Robustness with an Ensemble of Diverse Parameter-free Attacks]
 27. `ICML` [Towards Understanding the Regularization of Adversarial Robustness on Neural Networks]
+28. `CVPR` [Defending Against Universal Attacks Through Selective Feature Regeneration]
 
 ### 2021
 1. `ARXIV` [On the Limitations of Denoising Strategies as Adversarial Defenses](./2021/On_the_Limitations_of_Denoising_Strategies_as_Adversarial_Defenses.md)
