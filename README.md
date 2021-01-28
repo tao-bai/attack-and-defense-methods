@@ -167,8 +167,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 22. `CVPR` [Adversarial defense by stratified convolutional sparse coding]
 23. `ICML` [On the Convergence and Robustness of Adversarial Training]
 24. `CVPR` [Robustness via Curvature Regularization, and Vice Versa]
-25. `CVPR` [ComDefend: An Efficient Image Compression Model to Defend Adversarial
-Examples]
+25. `CVPR` [ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples]
+26. `ICML` [Improving Adversarial Robustness via Promoting Ensemble Diversity]
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
@@ -234,6 +234,7 @@ Examples]
 28. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 29. `ICML 2020` [Margin-aware Adversarial Domain Adaptation with Optimal Transport] 
 30. `ICML 2020` [Representation Learning Using Adversarially-Contrastive Optimal Transport]
+31. [Free Lunch for Few-shot Learning: Distribution Calibration]
 
 
 ## Links
