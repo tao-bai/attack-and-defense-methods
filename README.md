@@ -3,6 +3,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 
 [Lil-log](https://lilianweng.github.io/lil-log/) is the best blog I have ever read!
 
+**News:** The bib file of our recent survey on adversarial training is uploaded. See [here](asset/survey.bib). The paper is under revising and we will post it soon! If interested, please stay tuned.
+
 # Papers
 
 ## Survey
