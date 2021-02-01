@@ -169,6 +169,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 24. `CVPR` [Robustness via Curvature Regularization, and Vice Versa]
 25. `CVPR` [ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples]
 26. `ICML` [Improving Adversarial Robustness via Promoting Ensemble Diversity]
+27. `ICML` [Towards the first adversarially robust neural network model on {MNIST}]
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
