@@ -3,8 +3,6 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 
 [Lil-log](https://lilianweng.github.io/lil-log/) is the best blog I have ever read!
 
-**News:** The bib file of our recent survey on adversarial training is uploaded. See [here](asset/survey.bib). The paper is under revising and we will post it soon! If interested, please stay tuned.
-
 # Papers
 
 ## Survey
@@ -37,6 +35,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 
 ### 2014
 1. `ICLR` [Intriguing properties of neural networks](./2014/Intriguing_properties_of_neural_networks.md)
+2. `ARXIV` [Identifying and attacking the saddle point problem in
+  high-dimensional non-convex optimization]
 
 
 ### 2015
@@ -50,6 +50,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 4. `Arxiv` [Transferability in machine learning: from phenomena to black-box attacks using adversarial samples](./2016/Transferability_in_machine_learning.md)
 5. `NIPS` [Adversarial Images for Variational Autoencoders]
 6. `ARXIV` [A boundary tilting persepective on the phenomenon of adversarial examples]
+7. `ARXIV` [Adversarial examples in the physical world]
 
 
 ### 2017
@@ -63,6 +64,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 8. `ICCV` `UNIVERSAL` [Universal Adversarial Perturbations Against Semantic Image Segmentation]
 9. `ICLR` [Adversarial Machine Learning at Scale]
 10. `ARXIV` [The space of transferable adversarial examples]
+11. `ARXIV` [Adversarial attacks on neural network policies]
 
 
 ### 2018
@@ -79,6 +81,9 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 11. `CVPR` `UNIVERSAL` [Art of Singular Vectors and Universal Adversarial Perturbations]
 12. `ARXIV` [Adversarial Spheres]
 13. `ECCV` [Characterizing adversarial examples based on spatial consistency information for semantic segmentation]
+14. `ARXIV` [Generating natural language adversarial examples]
+15. `SP` [Audio adversarial examples: Targeted attacks on speech-to-text]
+16. `ARXIV` [Adversarial attack on graph structured data]
 
 
 ### 2019
@@ -132,6 +137,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 3. `Arxiv` [Detecting adversarial samples from artifacts](./2017/Detecting_Adversarial_Samples_from_Artifacts.md)
 4. `ICLR` [On Detecting Adversarial Perturbations](./2017/On_Detecting_Adversarial_Perturbations.md) :thought_balloon:
 5. `ASIA CCS` [Practical black-box attacks against machine learning]
+6. `ARXIV` [The space of transferable adversarial examples]
+7. `ICCV` [Adversarial Examples for Semantic Segmentation and Object Detection]
 
 ### 2018
 1. `ICLR` [Defense-{GAN}: Protecting Classifiers Against Adversarial Attacks Using Generative Models](./2018/Defense-{GAN}_Protecting_Classifiers_Against_Adversarial_Attacks_Using_Generative_Models.md)
@@ -143,6 +150,16 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 7.  `CVPR` [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser](./2018/Defense_Against_Adversarial_Attacks_Using_High_Level_Representation_Guided_Denoiser.md)
 8.  `ARXIV` [Evaluating and understanding the robustness of adversarial logit pairing](./2018/Evaluating_and_understanding_the_robustness_of_adversarial_logit_pairing.md)
 9.  `CCS` [Machine Learning with Membership Privacy Using Adversarial Regularization](./2018/Machine_Learning_with_Membership_Privacy_Using_Adversarial_Regularization.md)
+10. `ARXIV` [On the robustness of the cvpr 2018 white-box adversarial example defenses]
+11. `ICLR` [Thermometer Encoding: One Hot Way To Resist Adversarial Examples]
+12. `IJCAI` [Curriculum Adversarial Training]
+13. `ICLR` [Countering Adversarial Images using Input Transformations]
+14. `CVPR` [Defense Against Adversarial Attacks Using High-Level Representation Guided Denoiser]
+15. `ICLR` [Towards Deep Learning Models Resistant to Adversarial Attacks]
+16. `AAAI` [Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing Their Input Gradients]
+17. `NIPS` [Adversarially robust generalization requires more data]
+18. `ARXIV` [Is robustness the cost of accuracy? - {A} comprehensive study on the robustness of 18 deep image classification models.]
+19. `ARXIV` [Robustness may be at odds with accuracy]
 
 ### 2019
 1. `NIPS` [Adversarial Training and Robustness for Multiple Perturbations](./2019/Adversarial_Training_and_Robustness_for_Multiple_Perturbations.md)
@@ -172,6 +189,27 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 25. `CVPR` [ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples]
 26. `ICML` [Improving Adversarial Robustness via Promoting Ensemble Diversity]
 27. `ICML` [Towards the first adversarially robust neural network model on {MNIST}]
+28. `NIPS` [Unlabeled Data Improves Adversarial Robustness]
+29. `ICCV` [Evaluating Robustness of Deep Image Super-Resolution Against Adversarial Attacks]
+30. `ICML` [Using Pre-Training Can Improve Model Robustness and Uncertainty]
+31. `ARXIV` [Improving adversarial robustness of ensembles with diversity training]
+32. `ICML` [Adversarial Robustness Against the Union of Multiple Perturbation Models]
+33. `CVPR` [Robustness via Curvature Regularization, and Vice Versa]
+34. `NIPS` [Robustness to Adversarial Perturbations in Learning from Incomplete Data]
+35. `ICML` [Improving Adversarial Robustness via Promoting Ensemble Diversity]
+36. `NIPS` [Adversarial Robustness through Local Linearization]
+37. `ARXIV` [Adversarial training can hurt generalization]
+38. `NIPS` [Adversarial training for free!]
+39. `ICLR` [Improving the generalization of adversarial training with domain adaptation]
+40. `CVPR` [Disentangling Adversarial Robustness and Generalization]
+41. `NIPS` [Adversarial Training and Robustness for Multiple Perturbations]
+42. `ICCV` [Bilateral Adversarial Training: Towards Fast Training of More Robust Models Against Adversarial Attacks]
+43. `ICML` [On the Convergence and Robustness of Adversarial Training]
+44. `ICML` [Rademacher Complexity for Adversarially Robust Generalization]
+45. `ARXIV` [Adversarially Robust Generalization Just Requires More Unlabeled Data]
+46. `ARXIV` [You only propagate once: Accelerating adversarial training via
+  maximal principle]
+
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
@@ -202,9 +240,27 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 26. `ICML` [Reliable Evaluation of Adversarial Robustness with an Ensemble of Diverse Parameter-free Attacks]
 27. `ICML` [Towards Understanding the Regularization of Adversarial Robustness on Neural Networks]
 28. `CVPR` [Defending Against Universal Attacks Through Selective Feature Regeneration]
+29. `ARXIV` [Understanding and improving fast adversarial training]
+30. `ARXIV` [Cat: Customized adversarial training for improved robustness]
+31. `ICLR` [MMA Training: Direct Input Space Margin Maximization through Adversarial Training]
+32. `ARXIV` [Bridging the performance gap between fgsm and pgd adversarial training]
+33. `CVPR` [Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization]
+34. `ARXIV` [Towards understanding fast adversarial training]
+35. `ARXIV` [Overfitting in adversarially robust deep learning]
+36. `ICLR` [Robust local features for improving the generalization of adversarial training]
+37. `ICML` [Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks]
+38. `ARXIV` [Regularizers for single-step adversarial training]
+39. `CVPR` [Single-step adversarial training with dropout scheduling]
+40. `ICLR` [Improving Adversarial Robustness Requires Revisiting Misclassified Examples]
+41. `ARXIV` [Fast is better than free: Revisiting adversarial training.]
+42. `ARXIV` [On the Generalization Properties of Adversarial Training]
+43. `ARXIV` [A closer look at accuracy vs. robustness]
+
 
 ### 2021
 1. `ARXIV` [On the Limitations of Denoising Strategies as Adversarial Defenses](./2021/On_the_Limitations_of_Denoising_Strategies_as_Adversarial_Defenses.md)
+2. `AAAI` [Understanding catastrophic overfitting in single-step adversarial training]
+3. `ICLR` [Bag of tricks for adversarial training]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
