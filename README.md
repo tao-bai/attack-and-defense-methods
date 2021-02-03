@@ -26,7 +26,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 18. `2020` [Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)
 19. `2020` [A Survey on Neural Network Interpretability](https://arxiv.org/abs/2012.14261)
 20. `2020`[A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646)
-21. `2020` [Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses](https://arxiv.org/pdf/2012.10544.pdf)
+21. `2020` [Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses](https://arxiv.org/pdf/2012.10544)
+22. `2021` [Recent Advances in Adversarial Training for Adversarial Robustness](https://arxiv.org/abs/2102.01356) (Our work)
 
 ## Attack
 ### 2013
