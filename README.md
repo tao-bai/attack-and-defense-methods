@@ -209,7 +209,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 44. `ICML` [Rademacher Complexity for Adversarially Robust Generalization]
 45. `ARXIV` [Adversarially Robust Generalization Just Requires More Unlabeled Data]
 46. `ARXIV` [You only propagate once: Accelerating adversarial training via maximal principle]
-47. `NIPS` [Cross-Domain Transferability of Adversarial Perturbations]
+47. `NIPS` [Cross-Domain Transferability of Adversarial Perturbations](./2019/Cross_Domain_Transferability_of_Adversarial_Perturbations.md)
+48. `ARXIV` [Adversarial Robustness as a Prior for Learned Representations]
 
 
 ### 2020
