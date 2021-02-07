@@ -208,8 +208,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 43. `ICML` [On the Convergence and Robustness of Adversarial Training]
 44. `ICML` [Rademacher Complexity for Adversarially Robust Generalization]
 45. `ARXIV` [Adversarially Robust Generalization Just Requires More Unlabeled Data]
-46. `ARXIV` [You only propagate once: Accelerating adversarial training via
-  maximal principle]
+46. `ARXIV` [You only propagate once: Accelerating adversarial training via maximal principle]
+47. `NIPS` [Cross-Domain Transferability of Adversarial Perturbations]
 
 
 ### 2020
@@ -294,7 +294,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 28. `ARXIV 2019` [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 29. `ICML 2020` [Margin-aware Adversarial Domain Adaptation with Optimal Transport] 
 30. `ICML 2020` [Representation Learning Using Adversarially-Contrastive Optimal Transport]
-31. [Free Lunch for Few-shot Learning: Distribution Calibration]
+31. `ICLR 2021` [Free Lunch for Few-shot Learning: Distribution Calibration]
 
 
 ## Links
