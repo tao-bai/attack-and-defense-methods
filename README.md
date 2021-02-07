@@ -210,18 +210,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 45. `ARXIV` [Adversarially Robust Generalization Just Requires More Unlabeled Data]
 46. `ARXIV` [You only propagate once: Accelerating adversarial training via maximal principle]
 47. `NIPS` [Cross-Domain Transferability of Adversarial Perturbations](./2019/Cross_Domain_Transferability_of_Adversarial_Perturbations.md)
-48. `ARXIV` [Adversarial Robustness as a Prior for Learned Representations] 
-<details>
-<summary>Notes</summary>
-**<summary>标签与正文间一定要空一行！！！**
-</details>
-
-region { 这是折叠区标题的头
-这是折叠区中的文本
-这还是折叠区中的文本
-} region 这是折叠区标题的尾
-
-
+48. `ARXIV` [Adversarial Robustness as a Prior for Learned Representations]
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
