@@ -262,6 +262,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 1. `ARXIV` [On the Limitations of Denoising Strategies as Adversarial Defenses](./2021/On_the_Limitations_of_Denoising_Strategies_as_Adversarial_Defenses.md)
 2. `AAAI` [Understanding catastrophic overfitting in single-step adversarial training]
 3. `ICLR` [Bag of tricks for adversarial training]
+4. `ARXIV` [Bridging the Gap Between Adversarial Robustness and Optimization Bias]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
