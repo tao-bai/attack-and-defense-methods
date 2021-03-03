@@ -109,6 +109,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 19. `CVPR` [SparseFool: a few pixels make a big difference]
 20. `ICLR` [Adversarial Attacks on Graph Neural Networks via Meta Learning]
 21. `NeurIPS` [Deep Leakage from Gradients]
+22. `CCS` [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning]
 
 ### 2020
 1. `ICLR` [Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking](./2020/Fooling_Detection_Alone_is_Not_Enough_Adversarial_Attack_against_Multiple_Object_Tracking.md):thought_balloon:
