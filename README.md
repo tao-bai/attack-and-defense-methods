@@ -264,6 +264,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 44. `ICLR` [Adversarially robust transfer learning]
 45. `ARXIV` [On Saliency Maps and Adversarial Robustness]
 46. `ARXIV` [On Detecting Adversarial Inputs with Entropy of Saliency Maps]
+47. `ARXIV` [Detecting Adversarial Perturbations with Saliency]
+48. `ARXIV` [Detection Defense Against Adversarial Attacks with Saliency Map]
 
 
 ### 2021
