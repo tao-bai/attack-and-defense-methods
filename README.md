@@ -85,6 +85,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 14. `ARXIV` [Generating natural language adversarial examples]
 15. `SP` [Audio adversarial examples: Targeted attacks on speech-to-text]
 16. `ARXIV` [Adversarial attack on graph structured data]
+17. `ARXIV` [Maximal Jacobian-based Saliency Map Attack]
 
 
 ### 2019
