@@ -123,6 +123,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 5. `CVPR` [QEBA: Query-Efﬁcient Boundary-Based Blackbox Attack]
 6. `ECCV` [New Threats Against Object Detector with Non-local Block]
 7. `ARXIV` [Towards Imperceptible Universal Attacks on Texture Recognition]
+8. `ECCV` [Frequency-Tuned Universal Adversarial Attacks]
 
 
 ## Defence
