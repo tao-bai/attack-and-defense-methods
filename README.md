@@ -85,7 +85,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 14. `ARXIV` [Generating natural language adversarial examples]
 15. `SP` [Audio adversarial examples: Targeted attacks on speech-to-text]
 16. `ARXIV` [Adversarial attack on graph structured data]
-17. `ARXIV` [Maximal Jacobian-based Saliency Map Attack]
+17. `ARXIV` [Maximal Jacobian-based Saliency Map Attack (Variants of JAMA)] 
 
 
 ### 2019
@@ -263,6 +263,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 43. `ARXIV` [A closer look at accuracy vs. robustness]
 44. `ICLR` [Adversarially robust transfer learning]
 45. `ARXIV` [On Saliency Maps and Adversarial Robustness]
+46. `ARXIV` [On Detecting Adversarial Inputs with Entropy of Saliency Maps]
 
 
 ### 2021
