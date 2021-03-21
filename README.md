@@ -261,6 +261,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 42. `ARXIV` [On the Generalization Properties of Adversarial Training]
 43. `ARXIV` [A closer look at accuracy vs. robustness]
 44. `ICLR` [Adversarially robust transfer learning]
+45. `ARXIV` [On Saliency Maps and Adversarial Robustness]
 
 
 ### 2021
