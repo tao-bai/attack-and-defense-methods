@@ -216,6 +216,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 46. `ARXIV` [You only propagate once: Accelerating adversarial training via maximal principle]
 47. `NIPS` [Cross-Domain Transferability of Adversarial Perturbations](./2019/Cross_Domain_Transferability_of_Adversarial_Perturbations.md)
 48. `ARXIV` [Adversarial Robustness as a Prior for Learned Representations]
+49. `ICLR` [Structured Adversarial Attack: Towards General Implementation and Better Interpretability]
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
