@@ -269,6 +269,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 46. `ARXIV` [On Detecting Adversarial Inputs with Entropy of Saliency Maps]
 47. `ARXIV` [Detecting Adversarial Perturbations with Saliency]
 48. `ARXIV` [Detection Defense Against Adversarial Attacks with Saliency Map]
+49. `ARXIV` [Model-based Saliency for the Detection of Adversarial Examples]
 
 
 ### 2021
