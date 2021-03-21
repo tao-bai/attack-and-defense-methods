@@ -312,6 +312,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 30. `ICML 2020` [Representation Learning Using Adversarially-Contrastive Optimal Transport]
 31. `ICLR 2021` [Free Lunch for Few-shot Learning: Distribution Calibration]
 32. `CVPR 2019` [Unprocessing Images for Learned Raw Denoising]
+33. `TPAMI 2020` [Image Quality Assessment: Unifying Structure and Texture Similarity]
 
 
 ## Links
