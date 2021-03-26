@@ -1,6 +1,6 @@
-![Maintenance](https://img.shields.io/maintenance/yes/2020.svg?color=red&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/tao-bai/attack-and-defense-methods.svg?style=flat-square)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tao-bai/attack-and-defense-methods.svg?style=flat-square?foo=bar)](https://img.shields.io/github/commit-activity/y/tao-bai/attack-and-defense-methods?style=plastic)
+![Maintenance](https://img.shields.io/maintenance/yes/2020.svg?color=red&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/tao-bai/attack-and-defense-methods.svg?style=plastic)
+<!-- [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tao-bai/attack-and-defense-methods.svg?style=flat-square?foo=bar)](https://img.shields.io/github/commit-activity/y/tao-bai/attack-and-defense-methods?style=plastic) -->
 [![Awesome](https://awesome.re/badge.svg?style=flat-square)](https://awesome.re)
 
 # About
