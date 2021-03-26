@@ -1,7 +1,7 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2020.svg?color=red&style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tao-bai/attack-and-defense-methods.svg?style=plastic)
-<!-- [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tao-bai/attack-and-defense-methods.svg?style=flat-square?foo=bar)](https://img.shields.io/github/commit-activity/y/tao-bai/attack-and-defense-methods?style=plastic) -->
 [![Awesome](https://awesome.re/badge.svg?style=flat-square)](https://awesome.re)
+<!-- [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tao-bai/attack-and-defense-methods.svg?style=flat-square?foo=bar)](https://img.shields.io/github/commit-activity/y/tao-bai/attack-and-defense-methods?style=plastic) -->
 
 # About
 Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](https://docs.google.com/document/d/15o6m0I8g6O607mk5YPTh33Lu_aQYo7SpHhNSbLPQpWQ/mobilebasic?from=groupmessage#?utm_source=wechat_session&utm_medium=social&utm_oi=624560843380101120). Questions and discussions are most welcome!
