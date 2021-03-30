@@ -37,6 +37,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 24. `2021` [A Survey on Understanding, Visualizations, and Explanation of Deep Neural Networks](https://arxiv.org/abs/2102.01792)
 25. `2020` [A survey on Semi-, Self- and Unsupervised Learning for Image Classification](https://arxiv.org/abs/2002.08721)
 26. `2021` [Model Complexity of Deep Learning: A Survey](https://arxiv.org/abs/2103.05127)
+27. `2021` [Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models](https://arxiv.org/abs/2103.04922)
 
 ## Attack
 ### 2013
