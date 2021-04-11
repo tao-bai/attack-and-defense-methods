@@ -7,7 +7,6 @@
 Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](https://docs.google.com/document/d/15o6m0I8g6O607mk5YPTh33Lu_aQYo7SpHhNSbLPQpWQ/mobilebasic?from=groupmessage#?utm_source=wechat_session&utm_medium=social&utm_oi=624560843380101120). Questions and discussions are most welcome!
 
 [Lil-log](https://lilianweng.github.io/lil-log/) is the best blog I have ever read!
-
 # Papers
 
 ## Survey
