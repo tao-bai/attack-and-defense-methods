@@ -294,6 +294,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 5. `ICLR` [Perceptual Adversarial Robustness: Defense Against Unseen Threat Models]
 6. `AAAI` [Adversarial Robustness through Disentangled Representations]
 7. `ARXIV` [Understanding Robustness of Transformers for Image Classification]
+8. `CVPR` [Adversarial Robustness under Long-Tailed Distribution]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
