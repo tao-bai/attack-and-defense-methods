@@ -31,7 +31,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 19. `2020` [A Survey on Neural Network Interpretability](https://arxiv.org/abs/2012.14261)
 20. `2020`[A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646)
 21. `2020` [Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses](https://arxiv.org/pdf/2012.10544)
-22. `2021` [Recent Advances in Adversarial Training for Adversarial Robustness](https://arxiv.org/abs/2102.01356) (Our work)
+22. `2021` [**Recent Advances in Adversarial Training for Adversarial Robustness**](https://arxiv.org/abs/2102.01356) (**Our work, accepted by IJCAI 2021**)
 23. `2021` [Explainable Artificial Intelligence Approaches: A Survey](https://arxiv.org/abs/2101.09429)
 24. `2021` [A Survey on Understanding, Visualizations, and Explanation of Deep Neural Networks](https://arxiv.org/abs/2102.01792)
 25. `2020` [A survey on Semi-, Self- and Unsupervised Learning for Image Classification](https://arxiv.org/abs/2002.08721)
