@@ -37,6 +37,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 25. `2020` [A survey on Semi-, Self- and Unsupervised Learning for Image Classification](https://arxiv.org/abs/2002.08721)
 26. `2021` [Model Complexity of Deep Learning: A Survey](https://arxiv.org/abs/2103.05127)
 27. `2021` [Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models](https://arxiv.org/abs/2103.04922)
+28. `2021` [Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses](https://arxiv.org/abs/2012.10544)
 
 ## Attack
 ### 2013
