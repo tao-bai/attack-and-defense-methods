@@ -298,6 +298,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 8. `CVPR` [Adversarial Robustness under Long-Tailed Distribution]
 9. `ARXIV` [Adversarial Attacks are Reversible with Natural Supervision]
 10. `AAAI` [Attribute-Guided Adversarial Training for Robustness to Natural Perturbations]
+11. `ICLR` [LEARNING PERTURBATION SETS FOR ROBUST MACHINE LEARNING]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
