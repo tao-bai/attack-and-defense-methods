@@ -302,6 +302,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 10. `AAAI` [Attribute-Guided Adversarial Training for Robustness to Natural Perturbations]
 11. `ICLR` [LEARNING PERTURBATION SETS FOR ROBUST MACHINE LEARNING]
 12. `ICLR` [Improving Adversarial Robustness via Channel-wise Activation Suppressing]
+13. `AAAI` [Efficient Certification of Spatial Robustness]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
