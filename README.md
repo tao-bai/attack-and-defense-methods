@@ -140,6 +140,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 
 ### 2021
 1. `ARXIV` [On Generating Transferable Targeted Perturbations]
+2. `CVPR` [See through Gradients: Image Batch Recovery via GradInversion] :thumbsup:
 
 
 ## Defence
