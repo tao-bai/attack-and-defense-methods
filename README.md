@@ -96,6 +96,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 15. `SP` [Audio adversarial examples: Targeted attacks on speech-to-text]
 16. `ARXIV` [Adversarial attack on graph structured data]
 17. `ARXIV` [Maximal Jacobian-based Saliency Map Attack (Variants of JAMA)] 
+18. `SP` [Exploiting Unintended Feature Leakage in Collaborative Learning]
 
 
 ### 2019
