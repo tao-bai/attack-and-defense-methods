@@ -344,6 +344,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 31. `ICLR 2021` [Free Lunch for Few-shot Learning: Distribution Calibration]
 32. `CVPR 2019` [Unprocessing Images for Learned Raw Denoising]
 33. `TPAMI 2020` [Image Quality Assessment: Unifying Structure and Texture Similarity]
+34. `CVPR 2020` [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion]
 
 
 ## Links
