@@ -239,6 +239,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 47. `NIPS` [Cross-Domain Transferability of Adversarial Perturbations](./2019/Cross_Domain_Transferability_of_Adversarial_Perturbations.md)
 48. `ARXIV` [Adversarial Robustness as a Prior for Learned Representations]
 49. `ICLR` [Structured Adversarial Attack: Towards General Implementation and Better Interpretability]
+50. `ICLR` [Defensive Quantization: When Efficiency Meets Robustness]
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
