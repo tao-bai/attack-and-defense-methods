@@ -314,6 +314,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 14. `ARXIV` [Domain Invariant Adversarial Learning]
 15. `ARXIV` [Learning Defense Transformers for Counterattacking Adversarial Examples]
 16. `ICLR` [ONLINE ADVERSARIAL PURIFICATION BASED ON SELF-SUPERVISED LEARNING]
+17. `ARXIV` [Removing Adversarial Noise in Class Activation Feature Space]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
