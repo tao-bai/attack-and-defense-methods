@@ -296,6 +296,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 48. `ARXIV` [Detection Defense Against Adversarial Attacks with Saliency Map]
 49. `ARXIV` [Model-based Saliency for the Detection of Adversarial Examples]
 50. `CVPR` [Auxiliary Training: Towards Accurate and Robust Models]
+51. `CVPR` [Single-step Adversarial training with Dropout Scheduling]
 
 
 ### 2021
