@@ -39,6 +39,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 27. `2021` [Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and Autoregressive Models](https://arxiv.org/abs/2103.04922)
 28. `2021` [Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses](https://arxiv.org/abs/2012.10544)
 29. `2019` [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf)
+30. `2021` [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/pdf/2103.00218.pdf)
 
 ## Attack
 ### 2013
