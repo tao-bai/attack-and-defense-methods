@@ -323,6 +323,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 18. `ARXIV` [Improving Adversarial Robustness Using Proxy Distributions]
 19. `ARXIV` [Decoder-free Robustness Disentanglement without (Additional) Supervision]
 20. `ARXIV` [Fighting Gradients with Gradients: Dynamic Defenses against Adversarial Attacks]
+21. `ARXIV` [Reversible Adversarial Attack based on Reversible Image Transformation]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
