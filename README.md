@@ -246,6 +246,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 49. `ICLR` [Structured Adversarial Attack: Towards General Implementation and Better Interpretability]
 50. `ICLR` [Defensive Quantization: When Efficiency Meets Robustness]
 51. `NeurIPS` [A New Defense Against Adversarial Images: Turning a Weakness into a Strength]
+52. `ICLR` [PIXELDEFEND: LEVERAGING GENERATIVE MODELS TO UNDERSTAND AND DEFEND AGAINST ADVERSARIAL EXAMPLES]
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
