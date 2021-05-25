@@ -298,6 +298,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 50. `CVPR` [Auxiliary Training: Towards Accurate and Robust Models]
 51. `CVPR` [Single-step Adversarial training with Dropout Scheduling]
 52. `CVPR` [Achieving Robustness in the Wild via Adversarial Mixing With Disentangled Representations]
+53. `ICML` [Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](https://yueatsprograms.github.io/ttt/home.html)
 
 
 ### 2021
@@ -320,6 +321,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 17. `ARXIV` [Removing Adversarial Noise in Class Activation Feature Space]
 18. `ARXIV` [Improving Adversarial Robustness Using Proxy Distributions]
 19. `ARXIV` [Decoder-free Robustness Disentanglement without (Additional) Supervision]
+20. `ARXIV` [Fighting Gradients with Gradients: Dynamic Defenses against Adversarial Attacks]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
