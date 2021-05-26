@@ -149,6 +149,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 2. `CVPR` [See through Gradients: Image Batch Recovery via GradInversion] :thumbsup:
 3. `ARXIV` [Admix: Enhancing the Transferability of Adversarial Attacks]
 4. `ARXIV` [Deep Image Destruction: A Comprehensive Study on Vulnerability of Deep Image-to-Image Models against Adversarial Attacks]
+5. `ARXIV` [Poisoning the Unlabeled Dataset of Semi-Supervised Learning] **Carlini**
 
 
 ## Defence
