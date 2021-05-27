@@ -143,6 +143,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 9. `AAAI` [Learning Transferable Adversarial Examples via Ghost Networks]
 10. `ECCV` [SPARK: Spatial-aware Online Incremental Attack Against Visual Tracking]
 11. `Neurips` [Inverting Gradients - How easy is it to break privacy in federated learning?]
+12. `ICLR` [Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks]
 
 ### 2021
 1. `ARXIV` [On Generating Transferable Targeted Perturbations]
