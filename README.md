@@ -151,6 +151,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 3. `ARXIV` [Admix: Enhancing the Transferability of Adversarial Attacks]
 4. `ARXIV` [Deep Image Destruction: A Comprehensive Study on Vulnerability of Deep Image-to-Image Models against Adversarial Attacks]
 5. `ARXIV` [Poisoning the Unlabeled Dataset of Semi-Supervised Learning] **Carlini**
+6. `ARXIV` [AdvHaze: Adversarial Haze Attack]
 
 
 ## Defence
