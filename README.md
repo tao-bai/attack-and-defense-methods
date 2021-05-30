@@ -306,6 +306,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 52. `CVPR` [Achieving Robustness in the Wild via Adversarial Mixing With Disentangled Representations]
 53. `ICML` [Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](https://yueatsprograms.github.io/ttt/home.html)
 54. `NeurIPS` [Improving robustness against common corruptions by covariate shift adaptation]
+55. `CCS` [Gotta Catch'Em All: Using Honeypots to Catch Adversarial Attacks on Neural Networks]
 
 
 ### 2021
