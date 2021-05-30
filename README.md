@@ -307,6 +307,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 53. `ICML` [Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](https://yueatsprograms.github.io/ttt/home.html)
 54. `NeurIPS` [Improving robustness against common corruptions by covariate shift adaptation]
 55. `CCS` [Gotta Catch'Em All: Using Honeypots to Catch Adversarial Attacks on Neural Networks]
+56. `ECCV` [A simple way to make neural networks robust against diverse image corruptions]
 
 
 ### 2021
