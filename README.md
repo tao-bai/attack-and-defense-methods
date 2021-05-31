@@ -378,6 +378,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 34. `CVPR 2020` [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion]
 35. `ICLR 2021` [WHAT SHOULD NOT BE CONTRASTIVE IN CONTRASTIVE LEARNING]
 36. `ARXIV` [MT3: Meta Test-Time Training for Self-Supervised Test-Time Adaption]
+37. `ARXIV` [UNSUPERVISED DOMAIN ADAPTATION THROUGH SELF-SUPERVISION]
 
 
 ## Links
