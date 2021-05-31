@@ -340,6 +340,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 26. `ARXIV` [Self-Supervised Adversarial Example Detection by Disentangled Representation]
 27. `AAAI` [Adversarial Defence by Diversified Simultaneous Training of Deep Ensembles]
 28. `ARXIV` [Understanding Catastrophic Overfitting in Adversarial Training]
+29. `ACM Trans. Multimedia Comput. Commun. Appl` [Towards Corruption-Agnostic Robust Domain Adaptation]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
