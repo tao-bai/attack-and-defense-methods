@@ -341,6 +341,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 27. `AAAI` [Adversarial Defence by Diversified Simultaneous Training of Deep Ensembles]
 28. `ARXIV` [Understanding Catastrophic Overfitting in Adversarial Training]
 29. `ACM Trans. Multimedia Comput. Commun. Appl` [Towards Corruption-Agnostic Robust Domain Adaptation]
+30. `ICLR` [TENT: FULLY TEST-TIME ADAPTATION BY ENTROPY MINIMIZATION]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
