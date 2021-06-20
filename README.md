@@ -153,6 +153,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 5. `ARXIV` [Poisoning the Unlabeled Dataset of Semi-Supervised Learning] **Carlini**
 6. `ARXIV` [AdvHaze: Adversarial Haze Attack]
 7. `CVPR` [LAFEAT : Piercing Through Adversarial Defenses with Latent Features](https://zhuanlan.zhihu.com/p/370521833)
+8. `ARXIV` [IMPERCEPTIBLE ADVERSARIAL EXAMPLES FOR FAKE IMAGE DETECTION]
 
 
 ## Defence
