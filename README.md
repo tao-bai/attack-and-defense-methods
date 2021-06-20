@@ -154,6 +154,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 6. `ARXIV` [AdvHaze: Adversarial Haze Attack]
 7. `CVPR` [LAFEAT : Piercing Through Adversarial Defenses with Latent Features](https://zhuanlan.zhihu.com/p/370521833)
 8. `ARXIV` [IMPERCEPTIBLE ADVERSARIAL EXAMPLES FOR FAKE IMAGE DETECTION]
+9. `ICME` [TRANSFERABLE ADVERSARIAL EXAMPLES FOR ANCHOR FREE OBJECT DETECTION]
 
 
 ## Defence
