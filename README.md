@@ -346,6 +346,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 30. `ICLR` [TENT: FULLY TEST-TIME ADAPTATION BY ENTROPY MINIMIZATION]
 31. `ARXIV` [Attacking Adversarial Attacks as A Defense]
 32. `ICML` [Adversarial purification with Score-based generative models]
+33. `ARXIV` [Adversarial Visual Robustness by Causal Intervention]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
