@@ -199,6 +199,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 17. `NIPS` [Adversarially robust generalization requires more data]
 18. `ARXIV` [Is robustness the cost of accuracy? - {A} comprehensive study on the robustness of 18 deep image classification models.]
 19. `ARXIV` [Robustness may be at odds with accuracy]
+20. `ICLR` [PIXELDEFEND: LEVERAGING GENERATIVE MODELS TO UNDERSTAND AND DEFEND AGAINST ADVERSARIAL EXAMPLES]
 
 ### 2019
 1. `NIPS` [Adversarial Training and Robustness for Multiple Perturbations](./2019/Adversarial_Training_and_Robustness_for_Multiple_Perturbations.md)
@@ -252,7 +253,6 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 49. `ICLR` [Structured Adversarial Attack: Towards General Implementation and Better Interpretability]
 50. `ICLR` [Defensive Quantization: When Efficiency Meets Robustness]
 51. `NeurIPS` [A New Defense Against Adversarial Images: Turning a Weakness into a Strength]
-52. `ICLR` [PIXELDEFEND: LEVERAGING GENERATIVE MODELS TO UNDERSTAND AND DEFEND AGAINST ADVERSARIAL EXAMPLES]
 
 ### 2020
 1. `ICLR` [Jacobian Adversarially Regularized Networks for Robustness](./2020/Jacobian_Adversarially_Regularized_Networks_for_Robustness.md)
