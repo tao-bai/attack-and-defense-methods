@@ -349,6 +349,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 32. `ICML` [Adversarial purification with Score-based generative models]
 33. `ARXIV` [Adversarial Visual Robustness by Causal Intervention]
 34. `CVPR` [MaxUp: Lightweight Adversarial Training With Data Augmentation Improves Neural Network Training]
+35. `MM` [AdvFilter: Predictive Perturbation-aware Filtering against Adversarial Attack via Multi-domain Learning]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
