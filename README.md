@@ -156,6 +156,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 8. `ARXIV` [IMPERCEPTIBLE ADVERSARIAL EXAMPLES FOR FAKE IMAGE DETECTION]
 9. `ICME` [TRANSFERABLE ADVERSARIAL EXAMPLES FOR ANCHOR FREE OBJECT DETECTION]
 10. `ICLR` [Unlearnable Examples: Making Personal Data Unexploitable]
+11. `ICMLW` [Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them]
 
 
 ## Defence
