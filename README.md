@@ -355,6 +355,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 36. `CVPR` [Robust and Accurate Object Detection via Adversarial Learning]
 37. `ARXIV` [Markpainting: Adversarial Machine Learning meets Inpainting]
 38. `ICLR` [EFFICIENT CERTIFIED DEFENSES AGAINST PATCH ATTACKS ON IMAGE CLASSIFIERS]
+39. `ARXIV` [Learning Defense Transformers for Counterattacking Adversarial Examples]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
