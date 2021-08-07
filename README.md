@@ -157,6 +157,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 9. `ICME` [TRANSFERABLE ADVERSARIAL EXAMPLES FOR ANCHOR FREE OBJECT DETECTION]
 10. `ICLR` [Unlearnable Examples: Making Personal Data Unexploitable]
 11. `ICMLW` [Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them]
+12. `ARXIV` [Mischief: A Simple Black-Box Attack Against Transformer Architectures]
 
 
 ## Defence
