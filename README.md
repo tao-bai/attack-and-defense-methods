@@ -358,6 +358,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 39. `ARXIV` [Learning Defense Transformers for Counterattacking Adversarial Examples]
 40. `ARXIV` [Towards Robust Vision Transformer]
 41. `ARXIV` [Reveal of Vision Transformers Robustness against Adversarial Attacks]
+42. `ARXIV` [Intriguing Properties of Vision Transformers]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
