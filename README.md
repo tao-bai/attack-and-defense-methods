@@ -361,6 +361,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 42. `ARXIV` [Intriguing Properties of Vision Transformers]
 43. `ARXIV` [Vision transformers are robust learners]
 44. `ARXIV` [On Improving Adversarial Transferability of Vision Transformers]
+45. `ARXIV` [On the adversarial robustness of visual transformers]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
