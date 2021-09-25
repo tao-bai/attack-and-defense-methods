@@ -146,6 +146,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 11. `Neurips` [Inverting Gradients - How easy is it to break privacy in federated learning?]
 12. `ICLR` [Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks]
 13. `NeurIPS` [On Adaptive Attacks to Adversarial Example Defenses]
+14. `AAAI` [Beyond Digital Domain: Fooling Deep Learning Based Recognition System in Physical World]
 
 ### 2021
 1. `ARXIV` [On Generating Transferable Targeted Perturbations]
