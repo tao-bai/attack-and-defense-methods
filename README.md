@@ -150,6 +150,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 15. `ARXIV` [Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter]
 16. `CVPR` [Adversarial Camouflage: Hiding Physical-World Attacks With Natural Styles]
 17. `CVPR` [Universal Physical Camouflage Attacks on Object Detectors]
+18. `ARXIV` [Understanding Object Detection Through An Adversarial Lens]
 
 ### 2021
 1. `ARXIV` [On Generating Transferable Targeted Perturbations]
