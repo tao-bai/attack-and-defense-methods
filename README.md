@@ -147,6 +147,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 12. `ICLR` [Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks]
 13. `NeurIPS` [On Adaptive Attacks to Adversarial Example Defenses]
 14. `AAAI` [Beyond Digital Domain: Fooling Deep Learning Based Recognition System in Physical World]
+15. `ARXIV` [Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter]
 
 ### 2021
 1. `ARXIV` [On Generating Transferable Targeted Perturbations]
