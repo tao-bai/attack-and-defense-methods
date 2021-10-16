@@ -166,6 +166,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 11. `ICMLW` [Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them]
 12. `ARXIV` [Mischief: A Simple Black-Box Attack Against Transformer Architectures]
 13. `ECCV` [Patch-wise Attack for Fooling Deep Neural Network]
+14. `ICCV` [Naturalistic Physical Adversarial Patch for Object Detectors]
 
 
 ## Defence
