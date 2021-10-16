@@ -376,7 +376,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 47. `ARXIV` [Understanding Robustness of Transformers for Image Classification]
 48. `ARXIV` [Regional Adversarial Training for Better Robust Generalization]
 49. `CCS` [DetectorGuard: Provably Securing Object Detectors against Localized Patch Hiding Attacks]
-50. `ARXIV` [MODELLING ADVERSARIAL NOISE FOR ADVERSARIAL DEFENSE]
+50. `ARXIV` [MODELLING ADVERSARIAL NOISE FOR ADVERSARIAL DEFENSE]
+51. `ICCV` [Adversarial Example Detection Using Latent Neighborhood Graph]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
