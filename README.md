@@ -283,7 +283,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 14. `ARXIV` [A Closer Look at Accuracy vs. Robustness](./2020/A_Closer_Look_at_Accuracy_vs_Robustness.md)
 15. `NeurIPS` [Energy-based Out-of-distribution Detection](./2020/Energy_based_Out_of_distribution_Detection.md)
 16. `ARXIV` [Out-of-Distribution Generalization via Risk Extrapolation (REx)](./2020/Out_of_Distribution_Generalization_via_Risk_Extrapolation.md)
-17. `CVPR` [Adversarial Examples Improve Image Recognition](2020\Adversarial_Examples_Improve_Image_Recognition.md)
+17. `CVPR` [Adversarial Examples Improve Image Recognition](./2020/Adversarial_Examples_Improve_Image_Recognition.md)
 18. `ICML` [Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks] :thumbsup:
 19. `ICML` [Efficiently Learning Adversarially Robust Halfspaces with Noise]
 20. `ICML` [Implicit Euler Skip Connections: Enhancing Adversarial Robustness via Numerical Stability]
@@ -364,7 +364,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 35. `MM` [AdvFilter: Predictive Perturbation-aware Filtering against Adversarial Attack via Multi-domain Learning]
 36. `CVPR` [Robust and Accurate Object Detection via Adversarial Learning]
 37. `ARXIV` [Markpainting: Adversarial Machine Learning meets Inpainting]
-38. `ICLR` [EFFICIENT CERTIFIED DEFENSES AGAINST PATCH ATTACKS ON IMAGE CLASSIFIERS]
+38. `ICLR` [EFFICIENT CERTIFIED DEFENSES AGAINST PATCH ATTACKS ON IMAGE CLASSIFIERS]
 39. `ARXIV` [Learning Defense Transformers for Counterattacking Adversarial Examples]
 40. `ARXIV` [Towards Robust Vision Transformer]
 41. `ARXIV` [Reveal of Vision Transformers Robustness against Adversarial Attacks]
@@ -418,6 +418,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 35. `ICLR 2021` [WHAT SHOULD NOT BE CONTRASTIVE IN CONTRASTIVE LEARNING]
 36. `ARXIV` [MT3: Meta Test-Time Training for Self-Supervised Test-Time Adaption]
 37. `ARXIV` [UNSUPERVISED DOMAIN ADAPTATION THROUGH SELF-SUPERVISION]
+38. `ARXIV` [Estimating Example Difficulty using Variance of Gradients]
 
 
 ## Links
