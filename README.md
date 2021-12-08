@@ -149,7 +149,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 14. `AAAI` [Beyond Digital Domain: Fooling Deep Learning Based Recognition System in Physical World]
 15. `ARXIV` [Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter]
 16. `CVPR` [Adversarial Camouflage: Hiding Physical-World Attacks With Natural Styles]
-17. `CVPR` [Universal Physical Camouflage Attacks on Object Detectors]
+17. `CVPR` [Universal Physical Camouflage Attacks on Object Detectors] [code](https://github.com/mesunhlf/UPC-tf)
 18. `ARXIV` [Understanding Object Detection Through An Adversarial Lens]
 
 ### 2021
@@ -324,6 +324,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 55. `CCS` [Gotta Catch'Em All: Using Honeypots to Catch Adversarial Attacks on Neural Networks]
 56. `ECCV` [A simple way to make neural networks robust against diverse image corruptions]
 57. `CVPRW` [Role of Spatial Context in Adversarial Robustness for Object Detection]
+58. `WACV` [Local Gradients Smoothing: Defense against localized adversarial attacks]
 
 
 ### 2021
