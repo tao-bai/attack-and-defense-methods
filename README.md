@@ -422,6 +422,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 36. `ARXIV` [MT3: Meta Test-Time Training for Self-Supervised Test-Time Adaption]
 37. `ARXIV` [UNSUPERVISED DOMAIN ADAPTATION THROUGH SELF-SUPERVISION]
 38. `ARXIV` [Estimating Example Difficulty using Variance of Gradients]
+39. `ICML 2020` [Transfer Learning without Knowing: Reprogramming Black-box Machine Learning Models with Scarce Data and Limited Resources]
 
 
 ## Links
