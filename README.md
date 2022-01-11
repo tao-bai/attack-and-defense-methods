@@ -382,6 +382,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 51. `ICCV` [Adversarial Example Detection Using Latent Neighborhood Graph]
 52. `ARXIV` [Identification of Attack-Specific Signatures in Adversarial Examples]
 53. `Neurips` [How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?]
+54. `ARXIV` [Adversarial Robustness Comparison of Vision Transformer and MLP-Mixer to CNNs]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
