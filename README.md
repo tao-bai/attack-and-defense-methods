@@ -389,7 +389,11 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 55. `ARXIV` [Learning Defense Transformers for Counterattacking Adversarial Examples]
 56. `ADVM` [Detecting Adversarial Patch Attacks through Global-local Consistency]
 57. `ICCV` [Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?]
-58. `ARXIV` [$\alpha$ Weighted Federated Adversarial Training]
+58. `ICLR` [Undistillable: Making A Nasty Teacher That CANNOT teach students]
+
+### 2022
+1. `ARXIV` [$\alpha$ Weighted Federated Adversarial Training]
+2. `AAAI` [Safe Distillation Box]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
