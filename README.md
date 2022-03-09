@@ -390,6 +390,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 56. `ADVM` [Detecting Adversarial Patch Attacks through Global-local Consistency]
 57. `ICCV` [Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?]
 58. `ICLR` [Undistillable: Making A Nasty Teacher That CANNOT teach students]
+59. `ICCV` [Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better]
 
 ### 2022
 1. `ARXIV` [$\alpha$ Weighted Federated Adversarial Training]
