@@ -131,6 +131,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 27. `Neurips` [iDLG: Improved deep leakage from gradients.]
 28. `ARXIV` [Reversible Adversarial Attack based on Reversible Image Transformation]
 29. `CCS` [Seeing isn’t Believing: Towards More Robust Adversarial Attack Against Real World Object Detectors]
+30. `NeurIPS` [Learning to Confuse: Generating Training Time Adversarial Data with Auto-Encoder]
 
 ### 2020
 1. `ICLR` [Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking](./2020/Fooling_Detection_Alone_is_Not_Enough_Adversarial_Attack_against_Multiple_Object_Tracking.md):thought_balloon:
