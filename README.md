@@ -400,6 +400,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 63. `NeurIPS` [Adversarial Neuron Pruning Purifies Backdoored Deep Models]
 64. `ICCV` [Towards Understanding the Generative Capability of Adversarially Robust Classifiers]
 65. `NeurIPS` [Better Safe Than Sorry: Preventing Delusive Adversaries with Adversarial Training]
+66. `NeurIPS` [Data Augmentation Can Improve Robustness]
 
 ### 2022
 1. `ARXIV` [$\alpha$ Weighted Federated Adversarial Training]
