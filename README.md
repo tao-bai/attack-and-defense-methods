@@ -393,6 +393,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 57. `ICCV` [Can Shape Structure Features Improve Model Robustness under Diverse Adversarial Settings?]
 58. `ICLR` [Undistillable: Making A Nasty Teacher That CANNOT teach students]
 59. `ICCV` [Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better]
+60. `ARXIV` [Two Coupled Rejection Metrics Can Tell Adversarial Examples Apart]
 
 ### 2022
 1. `ARXIV` [$\alpha$ Weighted Federated Adversarial Training]
