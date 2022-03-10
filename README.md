@@ -395,6 +395,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 59. `ICCV` [Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better]
 60. `ARXIV` [Two Coupled Rejection Metrics Can Tell Adversarial Examples Apart]
 61. `ARXIV` [Consistency Regularization for Adversarial Robustness]
+62. `ICML` [CIFS: Improving Adversarial Robustness of CNNs via Channel-wise Importance-based Feature Selection]
 
 ### 2022
 1. `ARXIV` [$\alpha$ Weighted Federated Adversarial Training]
