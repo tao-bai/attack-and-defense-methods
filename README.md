@@ -398,6 +398,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 1. `ARXIV` [$\alpha$ Weighted Federated Adversarial Training]
 2. `AAAI` [Safe Distillation Box]
 3. `USENIX` [Transferring Adversarial Robustness Through Robust Representation Matching]
+4. `ARXIV` [Robustness and Accuracy Could Be Reconcilable by (Proper) Definition]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
