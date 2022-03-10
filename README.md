@@ -151,6 +151,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 16. `CVPR` [Adversarial Camouflage: Hiding Physical-World Attacks With Natural Styles]
 17. `CVPR` [Universal Physical Camouflage Attacks on Object Detectors] [code](https://github.com/mesunhlf/UPC-tf)
 18. `ARXIV` [Understanding Object Detection Through An Adversarial Lens]
+19. `CIKM` [Can Adversarial Weight Perturbations Inject Neural Backdoors?]
 
 ### 2021
 1. `ARXIV` [On Generating Transferable Targeted Perturbations]
@@ -329,6 +330,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 56. `ECCV` [A simple way to make neural networks robust against diverse image corruptions]
 57. `CVPRW` [Role of Spatial Context in Adversarial Robustness for Object Detection]
 58. `WACV` [Local Gradients Smoothing: Defense against localized adversarial attacks]
+59. `NeurIPS` [Adversarial Weight Perturbation Helps Robust Generalization]
 
 
 ### 2021
