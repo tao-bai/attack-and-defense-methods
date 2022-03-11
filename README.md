@@ -173,6 +173,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 
 ### 2022
 1. `ICLR` [ON IMPROVING ADVERSARIAL TRANSFERABILITY OF VISION TRANSFORMERS]
+2. `TIFS` [Decision-based Adversarial Attack with Frequency Mixup]
 
 
 ## Defence
