@@ -452,6 +452,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 37. `ARXIV` [UNSUPERVISED DOMAIN ADAPTATION THROUGH SELF-SUPERVISION]
 38. `ARXIV` [Estimating Example Difficulty using Variance of Gradients]
 39. `ICML 2020` [Transfer Learning without Knowing: Reprogramming Black-box Machine Learning Models with Scarce Data and Limited Resources]
+40. `ARXIV` [DATASET DISTILLATION]
 
 
 ## Links
