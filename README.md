@@ -333,6 +333,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 57. `CVPRW` [Role of Spatial Context in Adversarial Robustness for Object Detection]
 58. `WACV` [Local Gradients Smoothing: Defense against localized adversarial attacks]
 59. `NeurIPS` [Adversarial Weight Perturbation Helps Robust Generalization]
+60. `MM` [DIPDefend: Deep Image Prior Driven Defense against Adversarial Examples]
 
 
 ### 2021
