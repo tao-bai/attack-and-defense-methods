@@ -171,6 +171,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 13. `ECCV` [Patch-wise Attack for Fooling Deep Neural Network]
 14. `ICCV` [Naturalistic Physical Adversarial Patch for Object Detectors]
 15. `CVPR` [Natural Adversarial Examples]
+16. `ICLR` [WaNet - Imperceptible Warping-based Backdoor Attack]
 
 ### 2022
 1. `ICLR` [ON IMPROVING ADVERSARIAL TRANSFERABILITY OF VISION TRANSFORMERS]
