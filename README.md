@@ -415,6 +415,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 5. `ARXIV` [IMPROVING ADVERSARIAL DEFENSE WITH SELF SUPERVISED TEST-TIME FINE-TUNING]
 6. `ARXIV` [Exploring Memorization in Adversarial Training]
 7. `IJCV` [Open-Set Adversarial Defense with Clean-Adversarial Mutual Learning]
+8. `ARXIV` [Adversarial Detection and Correction by Matching Prediction Distribution]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
