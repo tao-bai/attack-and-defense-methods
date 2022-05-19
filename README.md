@@ -417,6 +417,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 7. `IJCV` [Open-Set Adversarial Defense with Clean-Adversarial Mutual Learning]
 8. `ARXIV` [Adversarial Detection and Correction by Matching Prediction Distribution]
 9. `ARXIV` [Enhancing Adversarial Training with Feature Separability]
+10. `ARXIV` [An Eye for an Eye: Defending against Gradient-based Attacks with Gradients]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
@@ -459,11 +460,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 38. `ARXIV` [Estimating Example Difficulty using Variance of Gradients]
 39. `ICML 2020` [Transfer Learning without Knowing: Reprogramming Black-box Machine Learning Models with Scarce Data and Limited Resources]
 40. `ARXIV` [DATASET DISTILLATION]
-<<<<<<< HEAD
 41. `ARXIV 2022` [Debugging Differential Privacy: A Case Study for Privacy Auditing]
-=======
 41. `ARXIV` [Adversarial Robustness and Catastrophic Forgetting]
->>>>>>> 9045d30983f0367c59bdff1a2141e6d44ab74a86
 
 
 ## Links
