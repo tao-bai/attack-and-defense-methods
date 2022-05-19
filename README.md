@@ -153,6 +153,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 17. `CVPR` [Universal Physical Camouflage Attacks on Object Detectors] [code](https://github.com/mesunhlf/UPC-tf)
 18. `ARXIV` [Understanding Object Detection Through An Adversarial Lens]
 19. `CIKM` [Can Adversarial Weight Perturbations Inject Neural Backdoors?]
+20. `ICCV` [Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers]
 
 ### 2021
 1. `ARXIV` [On Generating Transferable Targeted Perturbations]
@@ -170,6 +171,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 13. `ECCV` [Patch-wise Attack for Fooling Deep Neural Network]
 14. `ICCV` [Naturalistic Physical Adversarial Patch for Object Detectors]
 15. `CVPR` [Natural Adversarial Examples]
+16. `ICLR` [WaNet - Imperceptible Warping-based Backdoor Attack]
 
 ### 2022
 1. `ICLR` [ON IMPROVING ADVERSARIAL TRANSFERABILITY OF VISION TRANSFORMERS]
@@ -333,6 +335,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 57. `CVPRW` [Role of Spatial Context in Adversarial Robustness for Object Detection]
 58. `WACV` [Local Gradients Smoothing: Defense against localized adversarial attacks]
 59. `NeurIPS` [Adversarial Weight Perturbation Helps Robust Generalization]
+60. `MM` [DIPDefend: Deep Image Prior Driven Defense against Adversarial Examples]
+61. `ECCV` [Adversarial Data Augmentation via `De`formation Statistics]
 
 
 ### 2021
@@ -411,6 +415,8 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 5. `ARXIV` [IMPROVING ADVERSARIAL DEFENSE WITH SELF SUPERVISED TEST-TIME FINE-TUNING]
 6. `ARXIV` [Exploring Memorization in Adversarial Training]
 7. `IJCV` [Open-Set Adversarial Defense with Clean-Adversarial Mutual Learning]
+8. `ARXIV` [Adversarial Detection and Correction by Matching Prediction Distribution]
+9. `ARXIV` [Enhancing Adversarial Training with Feature Separability]
 
 ## 4th-Class
 1. `ICCV 2017` [CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training](./2017/CVAE-GAN_Fine-Grained_Image_Generation_Through_Asymmetric_Training.md)
@@ -453,7 +459,11 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 38. `ARXIV` [Estimating Example Difficulty using Variance of Gradients]
 39. `ICML 2020` [Transfer Learning without Knowing: Reprogramming Black-box Machine Learning Models with Scarce Data and Limited Resources]
 40. `ARXIV` [DATASET DISTILLATION]
+<<<<<<< HEAD
 41. `ARXIV 2022` [Debugging Differential Privacy: A Case Study for Privacy Auditing]
+=======
+41. `ARXIV` [Adversarial Robustness and Catastrophic Forgetting]
+>>>>>>> 9045d30983f0367c59bdff1a2141e6d44ab74a86
 
 
 ## Links
