@@ -406,6 +406,7 @@ Inspired by [this repo](https://github.com/aleju/papers) and [ML Writing Month](
 64. `ICCV` [Towards Understanding the Generative Capability of Adversarially Robust Classifiers]
 65. `NeurIPS` [Better Safe Than Sorry: Preventing Delusive Adversaries with Adversarial Training]
 66. `NeurIPS` [Data Augmentation Can Improve Robustness]
+67. `NeurIPS` [When does Contrastive Learning Preserve Adversarial Robustness from Pretraining to Finetuning?]
 
 ### 2022
 1. `ARXIV` [$\alpha$ Weighted Federated Adversarial Training]
